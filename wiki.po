@@ -1,0 +1,705 @@
+# edX translation file
+# Copyright (C) 2017 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# 
+# Translators:
+# focusheart <focusheart@gmail.com>, 2014
+# focusheart <focusheart@gmail.com>, 2014
+# Harry Li <harry75369@gmail.com>, 2014
+# Henry Zhao <shzhaotc@gmail.com>, 2017
+# Jerome Huang <canni3269@gmail.com>, 2014
+# jiangnan.hugo <jiangnan.hugo@gmail.com>, 2014
+# jiangnan.hugo <jiangnan.hugo@gmail.com>, 2014
+# louyihua <supermouselyh@hotmail.com>, 2015
+# pku9104038 <pku9104038@hotmail.com>, 2014
+# pku9104038 <pku9104038@hotmail.com>, 2014
+# riceball <snowyu.lee@gmail.com>, 2015
+# riceball <snowyu.lee@gmail.com>, 2015
+# louyihua <supermouselyh@hotmail.com>, 2015-2016
+# Tianyu Huang <hty0508@gmail.com>, 2014
+# wuqiong <wuqiong417@gmail.com>, 2014
+# xianwei yang <yetie.net@gmail.com>, 2014
+# Yue Fang <yfang@juilliard.edu>, 2016
+# Yu-Hua Hsieh <beiluo.shimen@icloud.com>, 2014
+# zhoubizhang <zbzcool@163.com>, 2014
+# 汤和果 <hgtang93@163.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2017-09-28 16:57+0000\n"
+"PO-Revision-Date: 2017-09-28 17:01+0000\n"
+"Last-Translator: Zimeng Chen <schen@edx.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/open-edx/edx-platform/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: wiki/admin.py:72 wiki/models/article.py:26
+msgid "created"
+msgstr "已创建"
+
+#: wiki/apps.py:9
+msgid "Wiki notifications"
+msgstr ""
+
+#: wiki/apps.py:15
+msgid "Wiki images"
+msgstr ""
+
+#: wiki/apps.py:21
+msgid "Wiki attachments"
+msgstr ""
+
+#: wiki/forms.py:31
+msgid "Only localhost... muahahaha"
+msgstr "只有localhost……哇哈哈哈"
+
+#: wiki/forms.py:37 wiki/forms.py:45 wiki/forms.py:206
+msgid "Title"
+msgstr "标题"
+
+#: wiki/forms.py:37
+msgid "Initial title of the article. May be overridden with revision titles."
+msgstr "文章的原始标题，可能会被修正版本的标题所覆盖。"
+
+#: wiki/forms.py:38
+msgid "Type in some contents"
+msgstr "请键入一些内容"
+
+#: wiki/forms.py:39
+msgid ""
+"This is just the initial contents of your article. After creating it, you "
+"can use more complex features like adding plugins, meta data, related "
+"articles etc..."
+msgstr "这只是您文章的初稿。在创建了文章以后，您可以使用更复杂的特性，比如增加插件、元数据、相关文章，等等……"
+
+#: wiki/forms.py:46 wiki/forms.py:209
+msgid "Contents"
+msgstr "内容"
+
+#: wiki/forms.py:49 wiki/forms.py:212
+msgid "Summary"
+msgstr "概要"
+
+#: wiki/forms.py:49
+msgid ""
+"Give a short reason for your edit, which will be stated in the revision log."
+msgstr "给出你编辑本文章的简短说明，它将会被写入修订日志中。"
+
+#: wiki/forms.py:98
+msgid ""
+"While you were editing, someone else changed the revision. Your contents "
+"have been automatically merged with the new contents. Please review the text"
+" below."
+msgstr "当您在编辑时，别人进行了修改，您的内容已自动与其合并，请检查以下的文字。"
+
+#: wiki/forms.py:100
+msgid "No changes made. Nothing to save."
+msgstr "没有变更，不需要保存。"
+
+#: wiki/forms.py:162
+msgid "Select an option"
+msgstr "请选择"
+
+#: wiki/forms.py:207
+msgid "Slug"
+msgstr "固定链接地址"
+
+#: wiki/forms.py:207
+msgid ""
+"This will be the address where your article can be found. Use only "
+"alphanumeric characters and - or _. Note that you cannot change the slug "
+"after creating the article."
+msgstr "这个地址将用于定位你的文档。请使用由数字、字母、－（减号）、_（下划线）组成的字符串。注意：一旦文档创建完毕将不能再对此固定链接地址进行修改。"
+
+#: wiki/forms.py:212
+msgid "Write a brief message for the article's history log."
+msgstr "为文章的历史记录写一个简短的报告"
+
+#: wiki/forms.py:222
+msgid "A slug may not begin with an underscore."
+msgstr "不能使用下划线作为固定链接地址的起始字符。"
+
+#: wiki/forms.py:231
+#, python-format
+msgid "A deleted article with slug \"%s\" already exists."
+msgstr "已经存在一个固定链接地址为“%s”的已删除文档。"
+
+#: wiki/forms.py:233
+#, python-format
+msgid "A slug named \"%s\" already exists."
+msgstr "以“%s”命名的固定链接地址已经存在。"
+
+#: wiki/forms.py:246
+msgid "Yes, I am sure"
+msgstr "是的，我确定"
+
+#: wiki/forms.py:248
+msgid "Purge"
+msgstr "清除"
+
+#: wiki/forms.py:249
+msgid ""
+"Purge the article: Completely remove it (and all its contents) with no undo."
+" Purging is a good idea if you want to free the slug such that users can "
+"create new articles in its place."
+msgstr "清除文档：完全删除它(以及其中的内容)且无法恢复。当你需要释放该固定链接地址以便可以创建一个新文档继承使用该固定链接地址时选择清除操作。"
+
+#: wiki/forms.py:256 wiki/plugins/attachments/forms.py:24
+#: wiki/plugins/images/forms.py:64
+msgid "You are not sure enough!"
+msgstr "你还不够确定！"
+
+#: wiki/forms.py:258
+msgid "While you tried to delete this article, it was modified. TAKE CARE!"
+msgstr "在您试图删除该文章期间，它已经被修改。请特别注意！"
+
+#: wiki/forms.py:264
+msgid "Lock article"
+msgstr "锁定文章"
+
+#: wiki/forms.py:264
+msgid "Deny all users access to edit this article."
+msgstr "不允许其他用户编辑该文章。"
+
+#: wiki/forms.py:267
+msgid "Permissions"
+msgstr "权限"
+
+#: wiki/forms.py:271
+msgid "Owner"
+msgstr "所有者"
+
+#: wiki/forms.py:272
+msgid "Enter the username of the owner."
+msgstr "请输入所有者用户名。"
+
+#: wiki/forms.py:273
+msgid "(none)"
+msgstr "（空）"
+
+#: wiki/forms.py:278
+msgid "Inherit permissions"
+msgstr "继承权限"
+
+#: wiki/forms.py:278
+msgid ""
+"Check here to apply the above permissions recursively to articles under this"
+" one."
+msgstr "选择此项将使上述权限对以下的文档递归生效。"
+
+#: wiki/forms.py:283
+msgid "Permission settings for the article were updated."
+msgstr "文档的权限设置已更新。"
+
+#: wiki/forms.py:285
+msgid "Your permission settings were unchanged, so nothing saved."
+msgstr "你的权限设置没有变更，不需要保存。"
+
+#: wiki/forms.py:324
+msgid "No user with that username"
+msgstr "找不到此用户名所对应的用户"
+
+#: wiki/forms.py:346
+msgid "Article locked for editing"
+msgstr "文章在编辑中，已被锁定"
+
+#: wiki/forms.py:353
+msgid "Article unlocked for editing"
+msgstr "文章已解锁，可以编辑"
+
+#: wiki/forms.py:366
+msgid "Filter"
+msgstr "过滤"
+
+#: wiki/core/plugins/base.py:44
+msgid "Settings for plugin"
+msgstr "插件设置"
+
+#: wiki/models/article.py:21 wiki/models/pluginbase.py:158
+#: wiki/plugins/attachments/models.py:19
+msgid "current revision"
+msgstr "当前版本"
+
+#: wiki/models/article.py:23
+msgid ""
+"The revision being displayed for this article. If you need to do a roll-"
+"back, simply change the value of this field."
+msgstr "显示该文档的对应版本。如果你需要回滚到历史版本，请修改空格里的值。"
+
+#: wiki/models/article.py:27
+msgid "modified"
+msgstr "已修改"
+
+#: wiki/models/article.py:28
+msgid "Article properties last modified"
+msgstr "最后修改的文章属性"
+
+#: wiki/models/article.py:30
+msgid "owner"
+msgstr "所有者"
+
+#: wiki/models/article.py:32
+msgid ""
+"The owner of the article, usually the creator. The owner always has both "
+"read and write access."
+msgstr "文章的所有者，通常是创建者。所有者总是拥有读写权限。"
+
+#: wiki/models/article.py:34
+msgid "group"
+msgstr "分组"
+
+#: wiki/models/article.py:36
+msgid ""
+"Like in a UNIX file system, permissions can be given to a user according to "
+"group membership. Groups are handled through the Django auth system."
+msgstr "类似UNIX文件系统，权限可以根据用户的用户组授予。用户组通过Django的认证系统管理。"
+
+#: wiki/models/article.py:38
+msgid "group read access"
+msgstr "用户组读访问权限"
+
+#: wiki/models/article.py:39
+msgid "group write access"
+msgstr "用户组写访问权限"
+
+#: wiki/models/article.py:40
+msgid "others read access"
+msgstr "其他用户读访问权限"
+
+#: wiki/models/article.py:41
+msgid "others write access"
+msgstr "其他用户写访问权限"
+
+#: wiki/models/article.py:169
+#, python-format
+msgid "Article without content (%(id)d)"
+msgstr "文档中没有内容(%(id)d)"
+
+#: wiki/models/article.py:197
+msgid "content type"
+msgstr "内容类型"
+
+#: wiki/models/article.py:199
+msgid "object ID"
+msgstr "对象ID"
+
+#: wiki/models/article.py:205
+msgid "Article for object"
+msgstr "对象的文档"
+
+#: wiki/models/article.py:206
+msgid "Articles for object"
+msgstr "对象的文档"
+
+#: wiki/models/article.py:214
+msgid "revision number"
+msgstr "版本修订号"
+
+#: wiki/models/article.py:220
+msgid "IP address"
+msgstr "IP地址"
+
+#: wiki/models/article.py:225
+msgid "user"
+msgstr "用户"
+
+#: wiki/models/article.py:236
+msgid "deleted"
+msgstr "已删除"
+
+#: wiki/models/article.py:237
+msgid "locked"
+msgstr "已锁定"
+
+#: wiki/models/article.py:255 wiki/models/pluginbase.py:38
+msgid "article"
+msgstr "文档"
+
+#: wiki/models/article.py:258
+msgid "article contents"
+msgstr "文档内容"
+
+#: wiki/models/article.py:262
+msgid "article title"
+msgstr "文档标题"
+
+#: wiki/models/article.py:263
+msgid ""
+"Each revision contains a title field that must be filled out, even if the "
+"title has not changed"
+msgstr "每一次版本修订都必须包含有标题，即使标题本身并没有发生变化"
+
+#: wiki/models/pluginbase.py:74
+msgid "original article"
+msgstr "原始文档"
+
+#: wiki/models/pluginbase.py:75
+msgid "Permissions are inherited from this article"
+msgstr "从该文档继承的权限"
+
+#: wiki/models/pluginbase.py:133
+msgid "A plugin was changed"
+msgstr "一个插件被变更"
+
+#: wiki/models/pluginbase.py:160
+msgid ""
+"The revision being displayed for this plugin.If you need to do a roll-back, "
+"simply change the value of this field."
+msgstr "显示插件修订版本信息。如果你需要回滚到历史版本，请修改此处的值。"
+
+#: wiki/models/urlpath.py:41
+msgid "Cache lookup value for articles"
+msgstr "缓存文档的查找值"
+
+#: wiki/models/urlpath.py:47
+msgid "slug"
+msgstr "固定链接地址"
+
+#: wiki/models/urlpath.py:137
+msgid "(root)"
+msgstr "(root)"
+
+#: wiki/models/urlpath.py:147
+msgid "URL path"
+msgstr "URL路径"
+
+#: wiki/models/urlpath.py:148
+msgid "URL paths"
+msgstr "URL路径"
+
+#: wiki/models/urlpath.py:153
+msgid "Sorry but you cannot have a root article with a slug."
+msgstr "抱歉，你无法对根文档设置固定链接地址。"
+
+#: wiki/models/urlpath.py:155
+msgid "A non-root note must always have a slug."
+msgstr "非根节点必须有固定链接地址。"
+
+#: wiki/models/urlpath.py:158
+#, python-format
+msgid "There is already a root node on %s"
+msgstr "在%s已经存在一个根节点"
+
+#: wiki/models/urlpath.py:262
+msgid ""
+"Articles who lost their parents\n"
+"===============================\n"
+"\n"
+"The children of this article have had their parents deleted. You should probably find a new home for them."
+msgstr "丢失父链接的文档\n===============================\n\n该子文档的父链接已经被删除。你可以可以重新为他们寻找一个新的链接点。"
+
+#: wiki/models/urlpath.py:265
+msgid "Lost and found"
+msgstr "失物招领"
+
+#: wiki/plugins/attachments/forms.py:9
+msgid "Description"
+msgstr "描述"
+
+#: wiki/plugins/attachments/forms.py:10
+msgid "A short summary of what the file contains"
+msgstr "该文档包含内容的简要说明"
+
+#: wiki/plugins/attachments/forms.py:19
+msgid "Yes I am sure..."
+msgstr "是的我很确定…"
+
+#: wiki/plugins/attachments/markdown_extensions.py:33
+msgid "Click to download file"
+msgstr "点击以下载文件"
+
+#: wiki/plugins/attachments/models.py:21
+msgid ""
+"The revision of this attachment currently in use (on all articles using the "
+"attachment)"
+msgstr "该附件的修订版本正在使用中(适用于所有使用该附件的文档)"
+
+#: wiki/plugins/attachments/models.py:24
+msgid "original filename"
+msgstr "原始文件名"
+
+#: wiki/plugins/attachments/models.py:36
+msgid "attachment"
+msgstr "附件"
+
+#: wiki/plugins/attachments/models.py:37
+msgid "attachments"
+msgstr "附件"
+
+#: wiki/plugins/attachments/models.py:79
+msgid "file"
+msgstr "文件"
+
+#: wiki/plugins/attachments/models.py:85
+msgid "attachment revision"
+msgstr "附件修订版本"
+
+#: wiki/plugins/attachments/models.py:86
+msgid "attachment revisions"
+msgstr "附件修订版本"
+
+#: wiki/plugins/attachments/views.py:49
+#, python-format
+msgid "%s was successfully added."
+msgstr "%s已经成功添加。"
+
+#: wiki/plugins/attachments/views.py:51 wiki/plugins/attachments/views.py:116
+#, python-format
+msgid "Your file could not be saved: %s"
+msgstr "你的文件无法被保存：%s"
+
+#: wiki/plugins/attachments/views.py:53 wiki/plugins/attachments/views.py:120
+msgid ""
+"Your file could not be saved, probably because of a permission error on the "
+"web server."
+msgstr "你的文件无法被保存，可能是由于或者Web服务器的权限异常。"
+
+#: wiki/plugins/attachments/views.py:114
+#, python-format
+msgid "%s uploaded and replaces old attachment."
+msgstr "%s上传成功并覆盖原有附件。"
+
+#: wiki/plugins/attachments/views.py:128
+msgid ""
+"Your new file will automatically be renamed to match the file already "
+"present. Files with different extensions are not allowed."
+msgstr "你的新文件将被自动重命名以匹配已经存在的文件。不允许使用不同的文件扩展名。"
+
+#: wiki/plugins/attachments/views.py:182
+#, python-format
+msgid "Current revision changed for %s."
+msgstr "对%s当前修订版本的变更。"
+
+#: wiki/plugins/attachments/views.py:203
+#, python-format
+msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
+msgstr "从“%(art)s”添加一个引用到“%(att)s”。"
+
+#: wiki/plugins/attachments/views.py:233
+#, python-format
+msgid "The file %s was deleted."
+msgstr "文档%s被删除。"
+
+#: wiki/plugins/attachments/views.py:236
+#, python-format
+msgid "This article is no longer related to the file %s."
+msgstr "该文档与文件%s不再关联。"
+
+#: wiki/plugins/attachments/wiki_plugin.py:30
+msgid "Attachments"
+msgstr "附件"
+
+#: wiki/plugins/attachments/wiki_plugin.py:36
+#, python-format
+msgid "A file was changed: %s"
+msgstr "文件被修改：%s"
+
+#: wiki/plugins/attachments/wiki_plugin.py:36
+#, python-format
+msgid "A file was deleted: %s"
+msgstr "文件被删除：%s"
+
+#: wiki/plugins/help/wiki_plugin.py:12
+msgid "Help"
+msgstr "帮助"
+
+#: wiki/plugins/images/forms.py:16
+#, python-format
+msgid ""
+"New image %s was successfully uploaded. You can use it by selecting it from "
+"the list of available images."
+msgstr "新图片%s已经成功上传，您可以从图片库中选择使用它。"
+
+#: wiki/plugins/images/forms.py:59
+msgid "Are you sure?"
+msgstr "您确定？"
+
+#: wiki/plugins/images/models.py:40
+msgid "image"
+msgstr "图片"
+
+#: wiki/plugins/images/models.py:41
+msgid "images"
+msgstr "图片"
+
+#: wiki/plugins/images/models.py:45
+#, python-format
+msgid "Image: %s"
+msgstr "图片：%s"
+
+#: wiki/plugins/images/models.py:45
+msgid "Current revision not set!!"
+msgstr "尚未设置当前的修订版本！！"
+
+#: wiki/plugins/images/models.py:92
+msgid "image revision"
+msgstr "图片修订版本"
+
+#: wiki/plugins/images/models.py:93
+msgid "image revisions"
+msgstr "图片修订版本"
+
+#: wiki/plugins/images/models.py:98
+#, python-format
+msgid "Image Revsion: %d"
+msgstr "图片修订版本：%d"
+
+#: wiki/plugins/images/views.py:64
+#, python-format
+msgid "%s has been restored"
+msgstr "%s已经被恢复"
+
+#: wiki/plugins/images/views.py:66
+#, python-format
+msgid "%s has been marked as deleted"
+msgstr "%s已经被标注为已删除"
+
+#: wiki/plugins/images/views.py:120
+#, python-format
+msgid "%(file)s has been changed to revision #%(revision)d"
+msgstr "%(file)s已经被变更到修订版本#%(revision)d"
+
+#: wiki/plugins/images/views.py:158
+#, python-format
+msgid "%(file)s has been saved."
+msgstr "%(file)s已经被保存。"
+
+#: wiki/plugins/images/wiki_plugin.py:15
+msgid "Images"
+msgstr "图片"
+
+#: wiki/plugins/images/wiki_plugin.py:26
+#, python-format
+msgid "An image was added: %s"
+msgstr "已经添加图片：%s"
+
+#: wiki/plugins/links/wiki_plugin.py:20
+msgid "Links"
+msgstr "链接"
+
+#: wiki/plugins/notifications/forms.py:13
+msgid "Notifications"
+msgstr "通知"
+
+#: wiki/plugins/notifications/forms.py:17
+msgid "When this article is edited"
+msgstr "当这篇文章被编辑"
+
+#: wiki/plugins/notifications/forms.py:18
+msgid "Also receive emails about article edits"
+msgstr "接收关于该文档编辑的电子邮件"
+
+#: wiki/plugins/notifications/forms.py:41
+msgid "Your notification settings were updated."
+msgstr "你的通知设置已经更新。"
+
+#: wiki/plugins/notifications/forms.py:43
+msgid "Your notification settings were unchanged, so nothing saved."
+msgstr "你的通知设置没有变更，因此无需保存。"
+
+#: wiki/plugins/notifications/models.py:17
+#, python-format
+msgid "%(user)s subscribing to %(article)s (%(type)s)"
+msgstr "%(user)s订阅%(article)s(%(type)s)"
+
+#: wiki/plugins/notifications/models.py:38
+#, python-format
+msgid "Article deleted: %s"
+msgstr "被删除的文档：%s"
+
+#: wiki/plugins/notifications/models.py:41
+#, python-format
+msgid "Article modified: %s"
+msgstr "被修改文档：%s"
+
+#: wiki/plugins/notifications/models.py:44
+#, python-format
+msgid "New article created: %s"
+msgstr "创建的新文档：%s"
+
+#: wiki/views/accounts.py:25
+msgid "You are now sign up... and now you can sign in!"
+msgstr "您正在注册……现在你可以登录了！"
+
+#: wiki/views/accounts.py:32
+msgid "You are no longer logged in. Bye bye!"
+msgstr "您已经退出。再见！"
+
+#: wiki/views/accounts.py:57
+msgid "You are now logged in! Have fun!"
+msgstr "您已经登录！好好体验吧！"
+
+#: wiki/views/article.py:87
+#, python-format
+msgid "New article '%s' created."
+msgstr "新文章“%s”已经创建。"
+
+#: wiki/views/article.py:92
+#, python-format
+msgid "There was an error creating this article: %s"
+msgstr "该文档创建过程中出错：%s"
+
+#: wiki/views/article.py:94
+msgid "There was an error creating this article."
+msgstr "在文档创建过程中出错了。"
+
+#: wiki/views/article.py:175
+msgid ""
+"This article cannot be deleted because it has children or is a root article."
+msgstr "这篇文章不能被删除，因为它有子类或是根文章。"
+
+#: wiki/views/article.py:186
+msgid ""
+"This article together with all its contents are now completely gone! Thanks!"
+msgstr "文档及其所有内容已经删除！谢谢！"
+
+#: wiki/views/article.py:193
+#, python-format
+msgid ""
+"The article \"%s\" is now marked as deleted! Thanks for keeping the site "
+"free from unwanted material!"
+msgstr "文档“%s”现在已被标记为删除了！感谢您为网站清除不必要的材料！"
+
+#: wiki/views/article.py:276
+msgid "Your changes were saved."
+msgstr "您的更改已被保存。"
+
+#: wiki/views/article.py:299
+msgid "A new revision of the article was successfully added."
+msgstr "成功添加了这篇文章的新的版本"
+
+#: wiki/views/article.py:356
+msgid "Restoring article"
+msgstr "恢复文档"
+
+#: wiki/views/article.py:358
+#, python-format
+msgid "The article \"%s\" and its children are now restored."
+msgstr "文档“%s”及其子链接已经被恢复。"
+
+#: wiki/views/article.py:542
+#, python-format
+msgid ""
+"The article %(title)s is now set to display revision #%(revision_number)d"
+msgstr "文章“%(title)s”当前已设置为显示修订版本 #%(revision_number)d"
+
+#: wiki/views/article.py:607
+msgid "New title"
+msgstr "新标题"
+
+#: wiki/views/article.py:631
+#, python-format
+msgid "Merge between Revision #%(r1)d and Revision #%(r2)d"
+msgstr "合并修订版本#%(r1)d与#%(r2)d"
+
+#: wiki/views/article.py:635
+#, python-format
+msgid ""
+"A new revision was created: Merge between Revision #%(r1)d and Revision "
+"#%(r2)d"
+msgstr "产生新的修订版本：合并修订版本#%(r1)d与#%(r2)d"

@@ -1,0 +1,4788 @@
+# edX translation file.
+# Copyright (C) 2017 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# 
+# Translators:
+# alisan617, 2017
+# shuchuanchen <am15501@163.com>, 2014
+# BertZou <turingcat@gmail.com>, 2015
+# bnw, 2014
+# 肖寒 <bookman@vip.163.com>, 2013
+# chalow <charlotteouya@hotmail.com>, 2015
+# Changyue Wang <peterwang.dut@gmail.com>, 2014-2015
+# CharlotteDing <kikyoru@hotmail.com>, 2015
+# chalow <charlotteouya@hotmail.com>, 2015
+# ckyOL, 2015
+# shuchuanchen <am15501@163.com>, 2014
+# daisybellamy <linmiaoqiqi@hotmail.com>, 2014
+# felicitychou <felicitychou@hotmail.com>, 2014
+# felicitychou <felicitychou@hotmail.com>, 2014
+# focusheart <focusheart@gmail.com>, 2014
+# focusheart <focusheart@gmail.com>, 2014
+# freakylemon <freakylemon@ymail.com>, 2014
+# freakylemon <freakylemon@ymail.com>, 2014
+# ckyOL, 2015
+# GoodLuck <1833447072@qq.com>, 2014
+# Wentao Han <wentao.han@gmail.com>, 2013
+# Harry Li <harry75369@gmail.com>, 2014
+# hohomi <hohomi@gmail.com>, 2014,2016
+# hohomi <hohomi@gmail.com>, 2014,2016
+# bnw, 2014
+# Jerome Huang <canni3269@gmail.com>, 2014
+# jg Ma <jg20040308@126.com>, 2016
+# Jianfei Wang <me@thinxer.com>, 2013
+# jiangnan.hugo <jiangnan.hugo@gmail.com>, 2014
+# jiangnan.hugo <jiangnan.hugo@gmail.com>, 2014
+# jsgang <jsgang9@gmail.com>, 2014-2017
+# Juan Camilo Montoya Franco <juan.montoya@edunext.co>, 2017
+# daisybellamy <linmiaoqiqi@hotmail.com>, 2014
+# 刘洋 <liuyang2011@tsinghua.edu.cn>, 2013
+# Luyi Zheng <luyi.zheng@mail.mcgill.ca>, 2016
+# pku9104038 <pku9104038@hotmail.com>, 2014
+# pku9104038 <pku9104038@hotmail.com>, 2014
+# ranfish <ranfish@gmail.com>, 2015
+# ruiruillp <gaier1993@163.com>, 2015
+# Sarina Canelake <sarina@edx.org>, 2014
+# shuchuanchen <am15501@163.com>, 2014
+# skyclass443 <cyx19920829@gmail.com>, 2014
+# louyihua <supermouselyh@hotmail.com>, 2014-2016
+# Jianfei Wang <me@thinxer.com>, 2013
+# 沈世奇 <vicapple22@gmail.com>, 2013
+# Wentao Han <wentao.han@gmail.com>, 2013
+# wzhd <transifex@wzhd.org>, 2015
+# 熊冬升 <xdsnet@gmail.com>, 2013
+# Xuejia Tong <snowytong@hotmail.com>, 2016
+# yan9yu, 2014
+# yan9yu, 2014
+# youjialin <hackeris@qq.com>, 2014
+# Yue Fang <yfang@juilliard.edu>, 2016
+# 刘知远 <liuliudong@163.com>, 2013
+# 张太红 <zth@xjau.edu.cn>, 2014
+# 亚仑 <fl_meng@163.com>, 2014
+# 刘洋 <liuyang2011@tsinghua.edu.cn>, 2013
+# 刘知远 <liuliudong@163.com>, 2013
+# 周歆荷 <zhxh401@126.com>, 2015
+# 周歆荷 <zhxh401@126.com>, 2015
+# 张太红 <zth@xjau.edu.cn>, 2014,2017
+# 汤和果 <hgtang93@163.com>, 2015,2017
+# 沈世奇 <vicapple22@gmail.com>, 2013
+# 熊冬升 <xdsnet@gmail.com>, 2013
+# 竹轩 <fmyzjs@gmail.com>, 2014
+# 肖寒 <bookman@vip.163.com>, 2013
+# 顾翔 <c0710204@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2017-09-28 16:55+0000\n"
+"PO-Revision-Date: 2017-09-28 16:58+0000\n"
+"Last-Translator: Zimeng Chen <schen@edx.org>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/open-edx/edx-platform/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: cms/static/cms/js/main.js:37
+#: cms/static/js/views/active_video_upload_list.js:34
+#: common/static/bundles/Import.js:39
+msgid ""
+"This may be happening because of an error with our server or your internet "
+"connection. Try refreshing the page or making sure you are online."
+msgstr "此情况可能由于服务器错误或者您的网络连接错误导致。尝试刷新页面或者确保网络畅通。"
+
+#: cms/static/cms/js/main.js:46 common/static/bundles/Import.js:48
+msgid "Studio's having trouble saving your work"
+msgstr "保存时遇到问题"
+
+#: cms/static/cms/js/xblock/cms.runtime.v1.js:113
+#: cms/static/js/certificates/views/signatory_details.js:70
+#: cms/static/js/models/section.js:27 cms/static/js/utils/drag_and_drop.js:296
+#: cms/static/js/views/asset.js:82 cms/static/js/views/container.js:42
+#: cms/static/js/views/course_info_handout.js:62
+#: cms/static/js/views/course_info_update.js:172
+#: cms/static/js/views/edit_textbook.js:63
+#: cms/static/js/views/list_item_editor.js:38
+#: cms/static/js/views/modals/edit_xblock.js:166
+#: cms/static/js/views/tabs.js:85 cms/static/js/views/tabs.js:117
+#: cms/static/js/views/utils/xblock_utils.js:204
+#: cms/static/js/views/utils/xblock_utils.js:219
+#: lms/static/js/ccx/schedule.js:251 lms/static/js/views/fields.js:70
+msgid "Saving"
+msgstr "正在保存"
+
+#: cms/static/js/certificates/views/signatory_editor.js:139
+#: cms/static/js/views/asset.js:54 cms/static/js/views/list_item.js:59
+#: cms/static/js/views/manage_users_and_roles.js:31
+#: cms/static/js/views/show_textbook.js:38
+#: common/static/js/vendor/ova/catch/js/catch.js:139
+#: common/static/js/vendor/ova/catch/js/catch.js:252
+#: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:35
+msgid "Delete"
+msgstr "删除"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/certificates/views/signatory_editor.js:162
+#: cms/static/js/views/asset.js:70
+#: cms/static/js/views/course_info_update.js:271
+#: cms/static/js/views/export.js:360
+#: cms/static/js/views/manage_users_and_roles.js:32
+#: cms/static/js/views/modals/base_modal.js:134
+#: cms/static/js/views/modals/course_outline_modals.js:205
+#: cms/static/js/views/show_textbook.js:52 cms/static/js/views/tabs.js:187
+#: cms/static/js/views/validation.js:127
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:204
+#: common/static/common/js/components/utils/view_utils.js:62
+#: lms/static/js/Markdown.Editor.js:1106
+msgid "Cancel"
+msgstr "取消"
+
+#: cms/static/js/features/import/factories/import.js:20
+#: common/static/bundles/Import.js:109
+msgid "There was an error during the upload process."
+msgstr "在文件上传过程中发生错误。"
+
+#: cms/static/js/features/import/factories/import.js:21
+#: common/static/bundles/Import.js:109
+msgid "There was an error while unpacking the file."
+msgstr "解压过程中发生错误。"
+
+#: cms/static/js/features/import/factories/import.js:22
+#: common/static/bundles/Import.js:109
+msgid "There was an error while verifying the file you submitted."
+msgstr "在验证您提交的文件时出现错误。"
+
+#: cms/static/js/features/import/factories/import.js:31
+#: common/static/bundles/Import.js:115
+msgid "Choose new file"
+msgstr "选择文件"
+
+#: cms/static/js/features/import/factories/import.js:46
+#: common/static/bundles/Import.js:129
+msgid ""
+"File format not supported. Please upload a file with a {ext} extension."
+msgstr ""
+
+#: cms/static/js/features/import/factories/import.js:54
+#: common/static/bundles/Import.js:136
+msgid "There was an error while importing the new library to our database."
+msgstr "在导入新知识库到数据库时发生错误。"
+
+#: cms/static/js/features/import/factories/import.js:56
+#: common/static/bundles/Import.js:138
+msgid "There was an error while importing the new course to our database."
+msgstr "在导入新课程到数据库时发生错误。"
+
+#: cms/static/js/features/import/factories/import.js:119
+#: common/static/bundles/Import.js:196
+msgid "Your import has failed."
+msgstr "导入失败。"
+
+#: cms/static/js/features/import/views/import.js:66
+#: common/static/bundles/Import.js:319
+msgid "Your import is in progress; navigating away will abort it."
+msgstr "你正在导入中，浏览会中断这个过程。"
+
+#: cms/static/js/features/import/views/import.js:253
+#: common/static/bundles/Import.js:487
+msgid "Error importing course"
+msgstr "导入课程过程中出现错误"
+
+#: cms/static/js/features/import/views/import.js:298
+#: common/static/bundles/Import.js:533
+msgid "There was an error with the upload"
+msgstr "文件上传错误"
+
+#. Translators: This is the status of an active video upload
+#: cms/static/js/models/active_video_upload.js:11
+#: cms/static/js/views/assets.js:237 cms/static/js/views/video_thumbnail.js:57
+#: lms/static/js/views/image_field.js:19
+msgid "Uploading"
+msgstr "上传中"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/active_video_upload.js:45
+#: cms/static/js/views/modals/edit_xblock.js:115
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:254
+#: lms/static/js/student_account/tos_modal.js:48
+msgid "Close"
+msgstr "关闭"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/assets.js:110
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:724
+msgid "Name"
+msgstr "名称"
+
+#: cms/static/js/views/assets.js:257 lms/static/js/Markdown.Editor.js:1107
+msgid "Choose File"
+msgstr "选择文件"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/course_info_update.js:245
+#: cms/static/js/views/tabs.js:163
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:769
+#: lms/static/js/Markdown.Editor.js:1105
+msgid "OK"
+msgstr "是的"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/manage_users_and_roles.js:10
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:764
+msgid "Ok"
+msgstr "确定"
+
+#: cms/static/js/views/manage_users_and_roles.js:12
+#: lms/static/js/instructor_dashboard/util.js:165
+msgid "Unknown"
+msgstr "未知"
+
+#: cms/static/js/views/metadata.js:291
+#: cms/static/js/views/previous_video_upload.js:60
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:84
+#: lms/static/js/views/image_field.js:17
+msgid "Remove"
+msgstr "移除"
+
+#: cms/static/js/views/metadata.js:538 lms/static/js/views/file_uploader.js:47
+msgid "Upload File"
+msgstr "上传文件"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/modals/base_modal.js:45
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:924
+msgid "Save"
+msgstr "保存"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: cms/static/js/views/modals/course_outline_modals.js:861
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:114
+msgid "Advanced"
+msgstr "高级"
+
+#: cms/static/js/views/previous_video_upload.js:63
+#: lms/static/js/views/image_field.js:20
+msgid "Removing"
+msgstr "移除中"
+
+#: cms/static/js/views/validation.js:146
+#: lms/static/js/discussions_management/views/divided_discussions_course_wide.js:75
+#: lms/static/js/discussions_management/views/divided_discussions_inline.js:142
+#: lms/static/js/views/fields.js:71
+msgid "Your changes have been saved."
+msgstr "您所作的变更已保存。"
+
+#. Translators: This message will be added to the front of messages of type
+#. error,
+#. e.g. "Error: required field is missing".
+#: cms/static/js/views/xblock_validation.js:54
+#: common/static/common/js/discussion/utils.js:198
+#: common/static/common/js/discussion/utils.js:235
+#: common/static/common/js/discussion/views/discussion_inline_view.js:198
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:320
+#: common/static/common/js/discussion/views/discussion_thread_view.js:217
+#: common/static/common/js/discussion/views/discussion_thread_view.js:222
+#: common/static/common/js/discussion/views/discussion_thread_view.js:227
+#: common/static/common/js/discussion/views/response_comment_view.js:119
+#: lms/static/js/student_account/views/FinishAuthView.js:80
+#: lms/static/js/verify_student/views/payment_confirmation_step_view.js:63
+#: lms/static/js/verify_student/views/step_view.js:50
+#: lms/static/js/views/fields.js:41
+msgid "Error"
+msgstr "错误"
+
+#: common/lib/xmodule/xmodule/assets/library_content/public/js/library_content_edit.js:18
+#: common/lib/xmodule/xmodule/js/public/js/library_content_edit.js:18
+msgid "Updating with latest library content"
+msgstr "更新最新的库内容"
+
+#: common/lib/xmodule/xmodule/assets/split_test/public/js/split_test_author_view.js:12
+#: common/lib/xmodule/xmodule/js/public/js/split_test_author_view.js:12
+msgid "Creating missing groups"
+msgstr "正在创建缺失的组。"
+
+#: common/lib/xmodule/xmodule/assets/word_cloud/public/js/word_cloud_main.js:264
+msgid "{start_strong}{total}{end_strong} words submitted in total."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/assets/word_cloud/public/js/word_cloud_main.js:291
+msgid "text_word_{uniqueId} title_word_{uniqueId}"
+msgstr ""
+
+#: common/lib/xmodule/xmodule/assets/word_cloud/public/js/word_cloud_main.js:302
+msgid "title_word_{uniqueId}"
+msgstr ""
+
+#: common/lib/xmodule/xmodule/assets/word_cloud/public/js/word_cloud_main.js:326
+msgid "text_word_{uniqueId}"
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:223
+msgid "Show Annotations"
+msgstr "显示批注"
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:225
+msgid "Hide Annotations"
+msgstr "隐藏批注"
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:240
+msgid "Expand Instructions"
+msgstr "展开说明"
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:242
+msgid "Collapse Instructions"
+msgstr "折叠说明"
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:330
+msgid "Commentary"
+msgstr "评注"
+
+#: common/lib/xmodule/xmodule/js/src/annotatable/display.js:341
+msgid "Reply to Annotation"
+msgstr "回复批注"
+
+#. Translators: %(num_points)s is the number of points possible (examples: 1,
+#. 3, 10).;
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:232
+msgid "%(num_points)s point possible (graded, results hidden)"
+msgid_plural "%(num_points)s points possible (graded, results hidden)"
+msgstr[0] "权重%(num_points)s分(计入课程成绩，结果隐藏)"
+
+#. Translators: %(num_points)s is the number of points possible (examples: 1,
+#. 3, 10).;
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:239
+msgid "%(num_points)s point possible (ungraded, results hidden)"
+msgid_plural "%(num_points)s points possible (ungraded, results hidden)"
+msgstr[0] "权重%(num_points)s分(计入课程成绩，结果隐藏)"
+
+#. Translators: %(num_points)s is the number of points possible (examples: 1,
+#. 3, 10).;
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:250
+msgid "%(num_points)s point possible (graded)"
+msgid_plural "%(num_points)s points possible (graded)"
+msgstr[0] "权重%(num_points)s分(计入课程成绩)"
+
+#. Translators: %(num_points)s is the number of points possible (examples: 1,
+#. 3, 10).;
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:256
+msgid "%(num_points)s point possible (ungraded)"
+msgid_plural "%(num_points)s points possible (ungraded)"
+msgstr[0] "权重%(num_points)s分(不计入课程成绩)"
+
+#. Translators: %(earned)s is the number of points earned. %(possible)s is the
+#. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
+#. points will always be at least 1. We pluralize based on the total number of
+#. points (example: 0/1 point; 1/2 points);
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:266
+msgid "%(earned)s/%(possible)s point (graded)"
+msgid_plural "%(earned)s/%(possible)s points (graded)"
+msgstr[0] "得分：%(earned)s(满分：%(possible)s，计入课程成绩) "
+
+#. Translators: %(earned)s is the number of points earned. %(possible)s is the
+#. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
+#. points will always be at least 1. We pluralize based on the total number of
+#. points (example: 0/1 point; 1/2 points);
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:273
+msgid "%(earned)s/%(possible)s point (ungraded)"
+msgid_plural "%(earned)s/%(possible)s points (ungraded)"
+msgstr[0] "得分：%(earned)s(满分：%(possible)s，不计入课程成绩) "
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:345
+msgid "The grading process is still running. Refresh the page to see updates."
+msgstr "评分过程仍在进行，请刷新页面查看更新。"
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:452
+msgid "Could not grade your answer. The submission was aborted."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:516
+msgid ""
+"Submission aborted! Sorry, your browser does not support file uploads. If "
+"you can, please use Chrome or Safari which have been verified to support "
+"file uploads."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:542
+msgid "You submitted {filename}; only {allowedFiles} are allowed."
+msgstr "您提交了 {filename}；仅支持提交 {allowedFiles} 格式的文件。"
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:555
+msgid "Your file {filename} is too large (max size: {maxSize}MB)."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:570
+msgid "You did not submit the required files: {requiredFiles}."
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:580
+msgid "You did not select any files to submit."
+msgstr "您未选择任何要上传的文件。"
+
+#. Translators: This is only translated to allow for reordering of label and
+#. associated status.;
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:663
+msgid "{label}: {status}"
+msgstr "{label}: {status}"
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:694
+msgid "This problem has been reset."
+msgstr "此问题已重置。"
+
+#: common/lib/xmodule/xmodule/js/src/capa/display.js:996
+msgid "unsubmitted"
+msgstr ""
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:85
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:779
+msgid "Paragraph"
+msgstr "段落"
+
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:86
+msgid "Preformatted"
+msgstr "预设格式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:87
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:529
+msgid "Heading 3"
+msgstr "标题 3"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:88
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:534
+msgid "Heading 4"
+msgstr "标题 4"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:89
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:539
+msgid "Heading 5"
+msgstr "标题 5"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:90
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:544
+msgid "Heading 6"
+msgstr "标题 6"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:109
+msgid "Add to Dictionary"
+msgstr "加入到字典"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:119
+msgid "Align center"
+msgstr "居中对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:124
+msgid "Align left"
+msgstr "左对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:129
+msgid "Align right"
+msgstr "右对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:134
+msgid "Alignment"
+msgstr "对齐方式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:139
+msgid "Alternative source"
+msgstr "备用源"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:144
+msgid "Anchor"
+msgstr "锚点"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:149
+msgid "Anchors"
+msgstr "锚点"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:154
+msgid "Author"
+msgstr "作者"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:159
+msgid "Background color"
+msgstr "背景色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:164
+#: lms/static/js/Markdown.Editor.js:1868
+msgid "Blockquote"
+msgstr "引用"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:169
+msgid "Blocks"
+msgstr "块"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:174
+msgid "Body"
+msgstr "主体"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:179
+msgid "Bold"
+msgstr "粗体"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:184
+msgid "Border color"
+msgstr "边框色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:189
+msgid "Border"
+msgstr "边框"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:194
+msgid "Bottom"
+msgstr "底端"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:199
+msgid "Bullet list"
+msgstr "项目符号列表"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:209
+msgid "Caption"
+msgstr "标题"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:214
+msgid "Cell padding"
+msgstr "单元格边距"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:219
+msgid "Cell properties"
+msgstr "单元格属性"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:224
+msgid "Cell spacing"
+msgstr "单元格间距"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:229
+msgid "Cell type"
+msgstr "单元格类型"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:234
+msgid "Cell"
+msgstr "单元格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:239
+msgid "Center"
+msgstr "居中对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:244
+msgid "Circle"
+msgstr "空心圆"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:249
+msgid "Clear formatting"
+msgstr "清除格式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:259
+msgid "Code block"
+msgstr "代码块"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:264
+msgid "Code"
+msgstr "代码"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:269
+msgid "Color"
+msgstr "颜色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:274
+msgid "Cols"
+msgstr "列"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:279
+msgid "Column group"
+msgstr "列组"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:284
+msgid "Column"
+msgstr "列"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:289
+msgid "Constrain proportions"
+msgstr "保持纵横比"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:294
+msgid "Copy row"
+msgstr "复制行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:299
+msgid "Copy"
+msgstr "复制"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:304
+msgid "Could not find the specified string."
+msgstr "无法找到指定的字符串。"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:309
+msgid "Custom color"
+msgstr "自定义颜色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:314
+msgid "Custom..."
+msgstr "自定义…"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:319
+msgid "Cut row"
+msgstr "剪切行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:324
+msgid "Cut"
+msgstr "剪切"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:329
+msgid "Decrease indent"
+msgstr "减少缩进"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:334
+msgid "Default"
+msgstr "默认"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:339
+msgid "Delete column"
+msgstr "删除列"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:344
+msgid "Delete row"
+msgstr "删除行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:349
+msgid "Delete table"
+msgstr "删除表格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:354
+msgid "Description"
+msgstr "描述"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:359
+msgid "Dimensions"
+msgstr "尺寸"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:364
+msgid "Disc"
+msgstr "实心圆"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:369
+msgid "Div"
+msgstr "Div 标签"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:374
+msgid "Document properties"
+msgstr "文档属性"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:379
+msgid "Edit HTML"
+msgstr "编辑 HTML"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:384
+#: common/static/js/vendor/ova/catch/js/catch.js:249
+msgid "Edit"
+msgstr "编辑"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:389
+msgid "Embed"
+msgstr "内嵌"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:394
+msgid "Emoticons"
+msgstr "表情"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:399
+msgid "Encoding"
+msgstr "编码"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:404
+msgid "File"
+msgstr "文件"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:409
+msgid "Find and replace"
+msgstr "查找和替换"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:414
+msgid "Find next"
+msgstr "查找下一个"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:419
+msgid "Find previous"
+msgstr "查找上一个"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:424
+msgid "Find"
+msgstr "查找"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:429
+msgid "Finish"
+msgstr "完成"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:434
+msgid "Font Family"
+msgstr "字体"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:439
+msgid "Font Sizes"
+msgstr "字号"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:444
+msgid "Footer"
+msgstr "脚注"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:449
+msgid "Format"
+msgstr "格式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:454
+msgid "Formats"
+msgstr "格式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:459
+msgid "Fullscreen"
+msgstr "全屏"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:464
+msgid "General"
+msgstr "一般"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:469
+msgid "H Align"
+msgstr "水平对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:474
+msgid "Header 1"
+msgstr "标题 1"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:479
+msgid "Header 2"
+msgstr "标题 2"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:484
+msgid "Header 3"
+msgstr "标题 3"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:489
+msgid "Header 4"
+msgstr "标题 4"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:494
+msgid "Header 5"
+msgstr "标题 5"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:499
+msgid "Header 6"
+msgstr "标题 6"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:504
+msgid "Header cell"
+msgstr "表头单元格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:509
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:49
+msgid "Header"
+msgstr "表头"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:514
+msgid "Headers"
+msgstr "标题"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:519
+msgid "Heading 1"
+msgstr "标题 1"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:524
+msgid "Heading 2"
+msgstr "标题 2"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:549
+msgid "Headings"
+msgstr "标题"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:554
+msgid "Height"
+msgstr "高度"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:559
+msgid "Horizontal line"
+msgstr "水平线"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:564
+msgid "Horizontal space"
+msgstr "水平间距"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:569
+msgid "HTML source code"
+msgstr "HTML 源代码"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:574
+msgid "Ignore all"
+msgstr "全部忽略"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:579
+msgid "Ignore"
+msgstr "忽略"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:584
+msgid "Image description"
+msgstr "图片描述"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:589
+msgid "Increase indent"
+msgstr "增加缩进"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:594
+msgid "Inline"
+msgstr "对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:599
+msgid "Insert column after"
+msgstr "在右侧插入列"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:604
+msgid "Insert column before"
+msgstr "在左侧插入列"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:609
+msgid "Insert date/time"
+msgstr "插入日期／时间"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:614
+msgid "Insert image"
+msgstr "插入图片"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:619
+msgid "Insert link"
+msgstr "插入链接"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:624
+msgid "Insert row after"
+msgstr "在下方插入行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:629
+msgid "Insert row before"
+msgstr "在上方插入行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:634
+msgid "Insert table"
+msgstr "插入表格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:639
+msgid "Insert template"
+msgstr "插入模板"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:644
+msgid "Insert video"
+msgstr "插入视频"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:649
+msgid "Insert"
+msgstr "插入"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:654
+msgid "Insert/edit image"
+msgstr "插入／编辑图片"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:659
+msgid "Insert/edit link"
+msgstr "插入／编辑链接"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:664
+msgid "Insert/edit video"
+msgstr "插入／编辑视频"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:669
+msgid "Italic"
+msgstr "斜体"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:674
+msgid "Justify"
+msgstr "两端对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:679
+msgid "Keywords"
+msgstr "关键字"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:684
+msgid "Left to right"
+msgstr "从左向右"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:689
+msgid "Left"
+msgstr "左对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:694
+msgid "Lower Alpha"
+msgstr "小写字母"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:699
+msgid "Lower Greek"
+msgstr "小写希腊字母"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:704
+msgid "Lower Roman"
+msgstr "小写罗马字母"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:709
+msgid "Match case"
+msgstr "匹配大小写"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:714
+msgid "Merge cells"
+msgstr "合并单元格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:719
+msgid "Middle"
+msgstr "中间"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:729
+msgid "New document"
+msgstr "新建文档"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:734
+msgid "New window"
+msgstr "新建窗口"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:739
+msgid "Next"
+msgstr "下一个"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:744
+msgid "No color"
+msgstr "无颜色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:749
+msgid "Nonbreaking space"
+msgstr "不间断空格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:754
+msgid "None"
+msgstr "无"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:759
+msgid "Numbered list"
+msgstr "编号列表"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:774
+msgid "Page break"
+msgstr "分页符"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:784
+msgid "Paste as text"
+msgstr "粘贴为文本"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:789
+msgid ""
+"Paste is now in plain text mode. Contents will now be pasted as plain text "
+"until you toggle this option off."
+msgstr "当前为纯文本粘贴模式，所有内容都将以纯文本形式粘贴。关闭该选项以回到普通粘贴模式。"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:794
+msgid "Paste row after"
+msgstr "在下方粘贴行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:799
+msgid "Paste row before"
+msgstr "在上方粘贴行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:804
+msgid "Paste your embed code below:"
+msgstr "将内嵌代码粘贴到下方："
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:809
+msgid "Paste"
+msgstr "粘贴"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:814
+msgid "Poster"
+msgstr "封面"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:819
+msgid "Pre"
+msgstr "Pre 标签"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:824
+msgid "Prev"
+msgstr "上一个"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:829
+#: lms/static/coffee/src/customwmd.js:157
+msgid "Preview"
+msgstr "预览"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:834
+msgid "Print"
+msgstr "打印"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:839
+msgid "Redo"
+msgstr "重做"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:844
+msgid "Remove link"
+msgstr "移除链接"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:849
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:854
+msgid "Replace all"
+msgstr "全部替换"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:859
+msgid "Replace with"
+msgstr "替换为"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:864
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:869
+msgid "Replace"
+msgstr "替换"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:874
+msgid "Restore last draft"
+msgstr "恢复上一版草稿"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:879
+msgid ""
+"Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press "
+"ALT-0 for help"
+msgstr "丰富文本区域。按 ALT-F9 打开菜单，按 ALT-F10 打开工具栏，按 ALT-0 查看帮助"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:884
+msgid "Right to left"
+msgstr "从右向左"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:889
+msgid "Right"
+msgstr "右对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:894
+msgid "Robots"
+msgstr "机器人"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:899
+msgid "Row group"
+msgstr "行组"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:904
+msgid "Row properties"
+msgstr "行属性"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:909
+msgid "Row type"
+msgstr "行类型"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:914
+msgid "Row"
+msgstr "行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:919
+msgid "Rows"
+msgstr "行"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:929
+msgid "Scope"
+msgstr "范围"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:934
+msgid "Select all"
+msgstr "全选"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:939
+msgid "Show blocks"
+msgstr "显示块"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:944
+msgid "Show invisible characters"
+msgstr "显示不可见字符"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:949
+msgid "Source code"
+msgstr "源代码"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:954
+msgid "Source"
+msgstr "源"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:959
+msgid "Special character"
+msgstr "特殊字符"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:964
+msgid "Spellcheck"
+msgstr "拼写检查"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:969
+msgid "Split cell"
+msgstr "拆分单元格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:974
+msgid "Square"
+msgstr "正方形"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:979
+msgid "Start search"
+msgstr "开始搜索"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:984
+msgid "Strikethrough"
+msgstr "删除线"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:989
+msgid "Style"
+msgstr "样式"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:994
+msgid "Subscript"
+msgstr "下标"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:999
+msgid "Superscript"
+msgstr "上标"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1004
+msgid "Table properties"
+msgstr "表格属性"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1009
+msgid "Table"
+msgstr "表格"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1014
+msgid "Target"
+msgstr "目标"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1019
+msgid "Templates"
+msgstr "模板"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1024
+msgid "Text color"
+msgstr "文本颜色"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1029
+msgid "Text to display"
+msgstr "要显示的文字"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1034
+msgid ""
+"The URL you entered seems to be an email address. Do you want to add the "
+"required mailto: prefix?"
+msgstr "输入的URL似乎是一个电子邮件地址，您想加上必要的“mailto:”前缀吗？"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1039
+msgid ""
+"The URL you entered seems to be an external link. Do you want to add the "
+"required http:// prefix?"
+msgstr "输入的 URL 似乎是一个外部链接，您想加上必要的 http:// 前缀吗？"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1044
+msgid "Title"
+msgstr "标题"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1049
+msgid "Tools"
+msgstr "工具"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1054
+msgid "Top"
+msgstr "顶端"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1059
+msgid "Underline"
+msgstr "下划线"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1064
+msgid "Undo"
+msgstr "撤销"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1069
+msgid "Upper Alpha"
+msgstr "大写字母"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1074
+msgid "Upper Roman"
+msgstr "大写罗马字母"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1079
+msgid "Url"
+msgstr "URL"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1084
+msgid "V Align"
+msgstr "垂直对齐"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1089
+msgid "Vertical space"
+msgstr "垂直间距"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1094
+msgid "View"
+msgstr "视图"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1099
+msgid "Visual aids"
+msgstr "网格线"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1104
+msgid "Whole words"
+msgstr "全字匹配"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1109
+msgid "Width"
+msgstr "宽"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1114
+msgid "Words: {0}"
+msgstr "字数： {0}"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1119
+msgid "You have unsaved changes are you sure you want to navigate away?"
+msgstr "有未保存的更改，确定要离开吗？"
+
+#. Translators: this is a message from the raw HTML editor displayed in the
+#. browser when a user needs to edit HTML
+#: common/lib/xmodule/xmodule/js/src/html/edit.js:1124
+msgid ""
+"Your browser doesn't support direct access to the clipboard. Please use the "
+"Ctrl+X/C/V keyboard shortcuts instead."
+msgstr "您的浏览器不支持直接访问剪贴板，请使用快捷键 Ctrl+X/C/V 代替。"
+
+#: common/lib/xmodule/xmodule/js/src/lti/lti.js:20
+msgid ""
+"Click OK to have your username and e-mail address sent to a 3rd party application.\n"
+"\n"
+"Click Cancel to return to this page without sending your information."
+msgstr "单击确定，将您的用户名和电子邮件地址发送给第三方应用程序。\n\n单击取消，取消发送信息并返回本页。"
+
+#: common/lib/xmodule/xmodule/js/src/lti/lti.js:22
+msgid ""
+"Click OK to have your username sent to a 3rd party application.\n"
+"\n"
+"Click Cancel to return to this page without sending your information."
+msgstr "单击确定，将您的用户名发送给第3方应用程序。\n\n单击取消，取消发送信息并返回本页。"
+
+#: common/lib/xmodule/xmodule/js/src/lti/lti.js:24
+msgid ""
+"Click OK to have your e-mail address sent to a 3rd party application.\n"
+"\n"
+"Click Cancel to return to this page without sending your information."
+msgstr "单击确定，将你的电子邮件地址发送给第三方应用程序。\n\n单击取消，取消发送信息并返回本页。"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:34
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:46
+msgid "incorrect"
+msgstr "不正确"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:34
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:37
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:46
+msgid "correct"
+msgstr "正确"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:40
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:43
+msgid "answer"
+msgstr "答案"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:52
+msgid "Short explanation"
+msgstr "简要说明"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:130
+msgid ""
+"If you use the Advanced Editor, this problem will be converted to XML and you will not be able to return to the Simple Editor Interface.\n"
+"\n"
+"Proceed to the Advanced Editor and convert this problem to XML?"
+msgstr "如果你使用高级编辑器，该问题将转为XML，同时您也无法再回到简易编辑器界面。\n\n要继续使用高级编辑器并将该问题转为XML吗？"
+
+#: common/lib/xmodule/xmodule/js/src/problem/edit.js:725
+msgid "Explanation"
+msgstr "解释"
+
+#: common/lib/xmodule/xmodule/js/src/sequence/display.js:319
+msgid ""
+"Sequence error! Cannot navigate to %(tab_name)s in the current "
+"SequenceModule. Please contact the course staff."
+msgstr "序列错误！ 无法导航到当前序列模块中的%(tab_name)s，请联系课程工作人员。"
+
+#: common/lib/xmodule/xmodule/js/src/sequence/display.js:417
+#: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:10
+msgid "Bookmarked"
+msgstr "已收藏"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:14
+#: common/lib/xmodule/xmodule/js/src/video/09_play_pause_control.js:29
+#: common/lib/xmodule/xmodule/js/src/video/09_play_pause_control.js:87
+#: common/lib/xmodule/xmodule/js/src/video/09_play_skip_control.js:29
+msgid "Play"
+msgstr "开始"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:15
+#: common/lib/xmodule/xmodule/js/src/video/09_play_pause_control.js:77
+msgid "Pause"
+msgstr "暂停"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:16
+msgid "Mute"
+msgstr "静音"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:17
+msgid "Unmute"
+msgstr "取消静音"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:18
+#: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:159
+msgid "Exit full browser"
+msgstr "退出全屏"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:19
+#: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:6
+#: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:137
+msgid "Fill browser"
+msgstr "全屏"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:20
+#: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:45
+msgid "Speed"
+msgstr "速度"
+
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:21
+#: common/lib/xmodule/xmodule/js/src/video/07_video_volume_control.js:69
+msgid "Volume"
+msgstr "音量"
+
+#. Translators: Volume level equals 0%.
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:23
+msgid "Muted"
+msgstr "静音"
+
+#. Translators: Volume level in range ]0,20]%
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:25
+msgid "Very low"
+msgstr "很低"
+
+#. Translators: Volume level in range ]20,40]%
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:27
+msgid "Low"
+msgstr "低"
+
+#. Translators: Volume level in range ]40,60]%
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:29
+msgid "Average"
+msgstr "平均"
+
+#. Translators: Volume level in range ]60,80]%
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:31
+msgid "Loud"
+msgstr "音量高"
+
+#. Translators: Volume level in range ]80,99]%
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:33
+msgid "Very loud"
+msgstr "音量很高"
+
+#. Translators: Volume level equals 100%.
+#: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:35
+msgid "Maximum"
+msgstr "最大数值"
+
+#: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js:87
+msgid "This browser cannot play .mp4, .ogg, or .webm files."
+msgstr "当前浏览器不支持播放 MP4、OGG 或 WEBM 格式的文件。"
+
+#: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js:88
+msgid "Try using a different browser, such as Google Chrome."
+msgstr "请试着更换一个浏览器，如谷歌的 Chrome 浏览器。"
+
+#: common/lib/xmodule/xmodule/js/src/video/05_video_quality_control.js:23
+msgid "High Definition"
+msgstr "高级定义"
+
+#: common/lib/xmodule/xmodule/js/src/video/05_video_quality_control.js:24
+#: common/lib/xmodule/xmodule/js/src/video/05_video_quality_control.js:156
+msgid "off"
+msgstr "关闭"
+
+#: common/lib/xmodule/xmodule/js/src/video/05_video_quality_control.js:150
+msgid "on"
+msgstr "开启"
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:16
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:107
+msgid "Video position. Press space to toggle playback"
+msgstr ""
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:302
+msgid "Video ended"
+msgstr "视频结束"
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:306
+msgid "Video position"
+msgstr "视频位置"
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:321
+msgid "%(value)s hour"
+msgid_plural "%(value)s hours"
+msgstr[0] "%(value)s 小时"
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:324
+msgid "%(value)s minute"
+msgid_plural "%(value)s minutes"
+msgstr[0] "%(value)s 分钟"
+
+#: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:327
+msgid "%(value)s second"
+msgid_plural "%(value)s seconds"
+msgstr[0] "%(value)s 秒钟"
+
+#: common/lib/xmodule/xmodule/js/src/video/07_video_volume_control.js:67
+msgid ""
+"Click on this button to mute or unmute this video or press UP or DOWN "
+"buttons to increase or decrease volume level."
+msgstr "请点击此按钮以对该视频静音／取消静音, 或者使用键盘的上下方向键增大或减小音量。"
+
+#: common/lib/xmodule/xmodule/js/src/video/07_video_volume_control.js:68
+msgid "Adjust video volume"
+msgstr "调整视频音量"
+
+#: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:35
+msgid ""
+"Press UP to enter the speed menu then use the UP and DOWN arrow keys to "
+"navigate the different speeds, then press ENTER to change to the selected "
+"speed."
+msgstr "按向上键打开速度菜单，再按上下方向键来调整速度，然后按回车键切换到选定速度。"
+
+#: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:39
+msgid "Adjust video speed"
+msgstr "调整视频播放速度"
+
+#: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:268
+msgid "Video speed: "
+msgstr "视频播放速度:"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_play_skip_control.js:78
+msgid "Skip"
+msgstr "跳过"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_poster.js:30
+msgid "Play video"
+msgstr "播放视频"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_skip_control.js:32
+msgid "Do not show again"
+msgstr "不再显示"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:101
+msgid "Open language menu"
+msgstr "开启语言功能菜单"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:549
+msgid "Transcript will be displayed when you start playing the video."
+msgstr "当你开始播放视频时将显示字幕。"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:793
+msgid ""
+"Activating a link in this group will skip to the corresponding point in the "
+"video."
+msgstr "激活本组中的链接将跳转至视频中相应的地方。"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:796
+msgid "Video transcript"
+msgstr "视频字幕"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:799
+msgid "Start of transcript. Skip to the end."
+msgstr "字幕开始。跳转至结尾。"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:803
+msgid "End of transcript. Skip to the start."
+msgstr "字幕结尾。跳转至开始。"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:807
+msgid ""
+"Press the UP arrow key to enter the language menu then use UP and DOWN arrow"
+" keys to navigate language options. Press ENTER to change to the selected "
+"language."
+msgstr "按向上键打开语言功能菜单，然后使用上下方向键来选择语言选项。按回车键以切换到所选择的语言。"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:1185
+msgid "Hide closed captions"
+msgstr "隐藏CC字幕"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:1192
+msgid "(Caption will be displayed when you start playing the video.)"
+msgstr "(当视频开始播放时将显示字幕)"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:1207
+msgid "Turn on closed captioning"
+msgstr "打开CC字幕"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:1255
+msgid "Turn on transcripts"
+msgstr "打开字幕"
+
+#: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:1267
+msgid "Turn off transcripts"
+msgstr "关闭字幕"
+
+#: common/static/common/js/components/utils/view_utils.js:208
+msgid "Required field."
+msgstr "必填字段。"
+
+#: common/static/common/js/components/utils/view_utils.js:222
+msgid "Please do not use any spaces in this field."
+msgstr "此字段的内容不能包含空格。"
+
+#: common/static/common/js/components/utils/view_utils.js:227
+msgid "Please do not use any spaces or special characters in this field."
+msgstr "此字段的内容不能包含空格或特殊字符。"
+
+#: common/static/common/js/components/views/paginated_view.js:47
+#: common/static/common/js/components/views/paging_footer.js:21
+msgid "Pagination"
+msgstr "页码"
+
+#: common/static/common/js/components/views/paginated_view.js:75
+msgid ""
+"Your request could not be completed. Reload the page and try again. If the "
+"issue persists, click the Help tab to report the problem."
+msgstr "您的请求无法完成。重新加载页面并重试。如果问题仍然存在，点击“帮助”选项报告问题。"
+
+#: common/static/common/js/components/views/paging_header.js:37
+msgid "Showing {firstIndex} out of {numItems} total"
+msgstr ""
+
+#: common/static/common/js/components/views/paging_header.js:42
+msgid "Showing {firstIndex}-{lastIndex} out of {numItems} total"
+msgstr ""
+
+#: common/static/common/js/discussion/utils.js:142
+msgid "Loading content"
+msgstr "正在加载内容"
+
+#: common/static/common/js/discussion/utils.js:199
+msgid "Your request could not be processed. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/utils.js:469
+#: common/static/common/js/discussion/utils.js:493
+msgid "…"
+msgstr "…"
+
+#: common/static/common/js/discussion/utils.js:506
+msgid "Some images in this post have been omitted"
+msgstr ""
+
+#: common/static/common/js/discussion/utils.js:512
+msgid "image omitted"
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:280
+msgid "there is currently {numVotes} vote"
+msgid_plural "there are currently {numVotes} votes"
+msgstr[0] ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:286
+msgid "{numVotes} Vote"
+msgid_plural "{numVotes} Votes"
+msgstr[0] ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:354
+msgid ""
+"You could not be subscribed to this post. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:356
+msgid ""
+"You could not be unsubscribed from this post. Refresh the page and try "
+"again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:383
+msgid ""
+"This response could not be marked as an answer. Refresh the page and try "
+"again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:385
+msgid ""
+"This response could not be unmarked as an answer. Refresh the page and try "
+"again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:389
+msgid ""
+"This response could not be marked as endorsed. Refresh the page and try "
+"again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:391
+msgid "This response could not be unendorsed. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:423
+msgid "This vote could not be processed. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:439
+msgid "This post could not be pinned. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:441
+msgid "This post could not be unpinned. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:457
+msgid ""
+"This post could not be flagged for abuse. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:460
+msgid ""
+"This post could not be unflagged for abuse. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:480
+msgid "This post could not be closed. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_content_view.js:482
+msgid "This post could not be reopened. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_inline_view.js:190
+#: common/static/common/js/discussion/views/discussion_inline_view.js:228
+msgid "Hide Discussion"
+msgstr "隐藏讨论"
+
+#: common/static/common/js/discussion/views/discussion_inline_view.js:199
+msgid "This discussion could not be loaded. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_inline_view.js:210
+msgid "Show Discussion"
+msgstr "显示讨论"
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:269
+msgid "Loading more threads"
+msgstr "载入更多的主题"
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:321
+msgid "Additional posts could not be loaded. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:382
+msgid "Current conversation"
+msgstr "当前对话"
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:498
+msgid "Loading posts list"
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:516
+msgid ""
+"No results found for {original_query}. Showing results for "
+"{suggested_query}."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:535
+msgid "No posts matched your query."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_list_view.js:570
+msgid "Show posts by {username}."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:218
+msgid "The post you selected has been deleted."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:223
+msgid "Responses could not be loaded. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:228
+msgid ""
+"Additional responses could not be loaded. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:244
+msgid "{numResponses} other response"
+msgid_plural "{numResponses} other responses"
+msgstr[0] ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:251
+msgid "{numResponses} response"
+msgid_plural "{numResponses} responses"
+msgstr[0] ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:263
+msgid "Showing all responses"
+msgstr "显示所有的回复"
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:268
+msgid "Showing first response"
+msgid_plural "Showing first {numResponses} responses"
+msgstr[0] ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:281
+msgid "Load all responses"
+msgstr "载入所有的回复"
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:284
+msgid "Load next {numResponses} responses"
+msgstr ""
+
+#: common/static/common/js/discussion/views/discussion_thread_view.js:449
+msgid "Are you sure you want to delete this post?"
+msgstr "您确定要删除这个帖子？"
+
+#: common/static/common/js/discussion/views/new_post_view.js:193
+msgid "Your post will be discarded."
+msgstr "您的帖子将被撤销。"
+
+#: common/static/common/js/discussion/views/response_comment_show_view.js:58
+msgid "anonymous"
+msgstr "匿名"
+
+#: common/static/common/js/discussion/views/response_comment_view.js:104
+msgid "Are you sure you want to delete this comment?"
+msgstr "您确定要删除这条评论吗？"
+
+#: common/static/common/js/discussion/views/response_comment_view.js:120
+msgid "This comment could not be deleted. Refresh the page and try again."
+msgstr ""
+
+#: common/static/common/js/discussion/views/thread_response_view.js:229
+msgid "Are you sure you want to delete this response?"
+msgstr "您确定要删除这个回复吗"
+
+#: common/static/common/js/utils/edx.utils.validate.js:27
+msgid "The email address you've provided isn't formatted correctly."
+msgstr "您所提供的电子邮件地址的格式不正确。"
+
+#: common/static/common/js/utils/edx.utils.validate.js:28
+msgid "%(field)s must have at least %(count)d characters."
+msgstr "%(field)s 至少要有 %(count)d 字符。"
+
+#: common/static/common/js/utils/edx.utils.validate.js:29
+msgid "%(field)s can only contain up to %(count)d characters."
+msgstr "%(field)s 最多只能有 %(count)d 个字符。"
+
+#: common/static/common/js/utils/edx.utils.validate.js:30
+msgid "Please enter your %(field)s."
+msgstr "请输入您的 %(field)s."
+
+#: common/static/js/capa/drag_and_drop/base_image.js:21
+msgid "Drop target image"
+msgstr "拖放的目标图像"
+
+#: common/static/js/capa/drag_and_drop/draggable_events.js:86
+msgid "dragging out of slider"
+msgstr "拖拽出滑块区域"
+
+#: common/static/js/capa/drag_and_drop/draggable_events.js:88
+msgid "dragging"
+msgstr "拖拽"
+
+#: common/static/js/capa/drag_and_drop/draggable_events.js:110
+msgid "dropped in slider"
+msgstr "在滑块中放下"
+
+#: common/static/js/capa/drag_and_drop/draggable_events.js:112
+msgid "dropped on target"
+msgstr "在目标上放下"
+
+#. Translators: %s will be a time quantity, such as "4 minutes" or "1 day"
+#: common/static/js/src/jquery.timeago.locale.js:3
+#, javascript-format
+msgid "%s ago"
+msgstr "%s 以前"
+
+#. Translators: %s will be a time quantity, such as "4 minutes" or "1 day"
+#: common/static/js/src/jquery.timeago.locale.js:5
+#, javascript-format
+msgid "%s from now"
+msgstr "距现在:%s"
+
+#: common/static/js/src/jquery.timeago.locale.js:6
+msgid "less than a minute"
+msgstr "少于一分钟"
+
+#: common/static/js/src/jquery.timeago.locale.js:7
+msgid "about a minute"
+msgstr "大约一分钟"
+
+#: common/static/js/src/jquery.timeago.locale.js:8
+#, javascript-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d 分钟"
+
+#: common/static/js/src/jquery.timeago.locale.js:9
+msgid "about an hour"
+msgstr "大约一小时"
+
+#: common/static/js/src/jquery.timeago.locale.js:10
+#, javascript-format
+msgid "about %d hour"
+msgid_plural "about %d hours"
+msgstr[0] "大约 %d 小时"
+
+#: common/static/js/src/jquery.timeago.locale.js:11
+msgid "a day"
+msgstr "一天"
+
+#: common/static/js/src/jquery.timeago.locale.js:12
+#, javascript-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d 天"
+
+#: common/static/js/src/jquery.timeago.locale.js:13
+msgid "about a month"
+msgstr "大约一个月"
+
+#: common/static/js/src/jquery.timeago.locale.js:14
+#, javascript-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d 个月"
+
+#: common/static/js/src/jquery.timeago.locale.js:15
+msgid "about a year"
+msgstr "大约一年"
+
+#: common/static/js/src/jquery.timeago.locale.js:16
+#, javascript-format
+msgid "%d year"
+msgid_plural "%d years"
+msgstr[0] "%d 年"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:45
+msgid "User"
+msgstr "用户"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:49
+msgid "Annotation"
+msgstr "批注"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:54
+msgid "Start"
+msgstr "开始"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:58
+msgid "End"
+msgstr "结束"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:63
+msgid "#Replies"
+msgstr "回复"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:67
+msgid "Date posted"
+msgstr "发表日期"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:76
+#: lms/static/js/courseware/credit_progress.js:7
+#: lms/static/js/courseware/credit_progress.js:14
+msgid "More"
+msgstr "更多"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:81
+#: common/static/js/vendor/ova/catch/js/catch.js:92
+msgid "My Notes"
+msgstr "我的笔记"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:82
+msgid "Instructor"
+msgstr "教师"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:83
+#: common/static/js/vendor/ova/catch/js/catch.js:93
+msgid "Public"
+msgstr "公开"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:84
+#: common/static/js/vendor/ova/catch/js/catch.js:94
+msgid "Search"
+msgstr "搜索"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:85
+#: common/static/js/vendor/ova/catch/js/catch.js:95
+msgid "Users"
+msgstr "用户"
+
+#. Translators: 'Tags' is the name of the view (noun) within the Student Notes
+#. page that shows all
+#. notes organized by the tags the student has associated with them (if any).
+#. When defining a
+#. note in the courseware, the student can choose to associate 1 or more tags
+#. with the note
+#. in order to group similar notes together and help with search.
+#: common/static/js/vendor/ova/catch/js/catch.js:86
+#: common/static/js/vendor/ova/catch/js/catch.js:96
+#: lms/static/js/edxnotes/views/tabs/tags.js:130
+msgid "Tags"
+msgstr "标签"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:87
+#: common/static/js/vendor/ova/catch/js/catch.js:97
+msgid "Annotation Text"
+msgstr "批注文本"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:88
+#: common/static/js/vendor/ova/catch/js/catch.js:98
+msgid "Clear"
+msgstr "清除"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:104
+msgid "Text"
+msgstr "文本"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:107
+msgid "Video"
+msgstr "视频"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:110
+#: lms/static/js/views/image_field.js:23
+msgid "Image"
+msgstr "图像"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:246
+msgid "Reply"
+msgstr "回复"
+
+#: common/static/js/vendor/ova/catch/js/catch.js:261
+msgid "Tags:"
+msgstr "标签："
+
+#. Translators: please note that this is not a literal flag, but rather a
+#. report
+#: common/static/js/vendor/ova/flagging-annotator.js:48
+msgid "Check the box to remove all flags."
+msgstr "选中此选框以移除所有标记"
+
+#. Translators: 'totalFlags' is the number of flags solely for that annotation
+#: common/static/js/vendor/ova/flagging-annotator.js:93
+msgid "Check the box to remove %(totalFlags)s flag."
+msgid_plural "Check the box to remove %(totalFlags)s flags."
+msgstr[0] "选中此选框以移除所有 %(totalFlags)s 个标记。"
+
+#. Translators: 'count' is the number of flags solely for that annotation that
+#. will be removed
+#: common/static/js/vendor/ova/flagging-annotator.js:102
+msgid "Check the box to remove %(count)s flag."
+msgid_plural "Check the box to remove %(count)s flags."
+msgstr[0] "选中此选框以移除 %(count)s 个标记。"
+
+#: common/static/js/vendor/ova/flagging-annotator.js:105
+msgid "All flags have been removed. To undo, uncheck the box."
+msgstr "所有标记已移除。取消选中此选框以撤销。"
+
+#: common/static/js/vendor/ova/flagging-annotator.js:153
+#: common/static/js/vendor/ova/flagging-annotator.js:198
+msgid "You have already reported this annotation."
+msgstr "您已经报告过了此批注。"
+
+#: common/static/js/vendor/ova/flagging-annotator.js:165
+#: common/static/js/vendor/ova/flagging-annotator.js:223
+msgid "Report annotation as inappropriate or offensive."
+msgstr "报告此批注不恰当或具有攻击性。"
+
+#. Translators: 'count' is the number of flags solely for that annotation
+#: common/static/js/vendor/ova/flagging-annotator.js:183
+msgid "This annotation has %(count)s flag."
+msgid_plural "This annotation has %(count)s flags."
+msgstr[0] "此注释带有 %(count)s 个标记。"
+
+#: lms/djangoapps/support/static/support/js/views/certificates.js:51
+msgid "An unexpected error occurred.  Please try again."
+msgstr "意外错误发生，请重试。"
+
+#: lms/djangoapps/support/static/support/js/views/enrollment.js:15
+msgid "Financial Assistance"
+msgstr "经济补助"
+
+#: lms/djangoapps/support/static/support/js/views/enrollment.js:16
+msgid "Upset Learner"
+msgstr "感到不满意的学生"
+
+#: lms/djangoapps/support/static/support/js/views/enrollment.js:17
+msgid "Teaching Assistant"
+msgstr "助教"
+
+#: lms/djangoapps/support/static/support/js/views/enrollment_modal.js:51
+msgid "Please specify a reason."
+msgstr "请说明原因。"
+
+#: lms/djangoapps/support/static/support/js/views/enrollment_modal.js:62
+msgid "Something went wrong changing this enrollment. Please try again."
+msgstr "在变更这项注册时出现了一些问题。请再试一次。"
+
+#: lms/djangoapps/teams/static/teams/js/collections/team.js:35
+msgid "last activity"
+msgstr "最后活动"
+
+#: lms/djangoapps/teams/static/teams/js/collections/team.js:36
+msgid "open slots"
+msgstr "开放的时段"
+
+#: lms/djangoapps/teams/static/teams/js/collections/topic.js:25
+msgid "name"
+msgstr "名称"
+
+#. Translators: This refers to the number of teams (a count of how many teams
+#. there are)
+#: lms/djangoapps/teams/static/teams/js/collections/topic.js:27
+msgid "team count"
+msgstr "团队计数"
+
+#: lms/djangoapps/teams/static/teams/js/teams_tab_factory.js:9
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:135
+msgid "Teams"
+msgstr "团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:33
+msgid "Create"
+msgstr "创建"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:38
+msgid "Update"
+msgstr "更新"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:43
+msgid "Team Name (Required) *"
+msgstr "团队名(必需)*"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:45
+msgid "A name that identifies your team (maximum 255 characters)."
+msgstr "团队名称 (不长于255个字符)"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:50
+msgid "Team Description (Required) *"
+msgstr "团队介绍(必需)*"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:54
+msgid ""
+"A short description of the team to help other learners understand the goals "
+"or direction of the team (maximum 300 characters)."
+msgstr "简短的团队描述，以帮助其他学习者了解此团队的目标与方向 (最大为300个字符长度)"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:59
+#: lms/static/js/student_account/views/account_settings_factory.js:117
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:145
+msgid "Language"
+msgstr "语言"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:65
+msgid ""
+"The language that team members primarily use to communicate with each other."
+msgstr "团队成员主要使用的交流语言。"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:70
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:133
+msgid "Country"
+msgstr "国家／地区"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:76
+msgid "The country that team members primarily identify with."
+msgstr "多数团队成员来自的国家"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:143
+#: lms/static/js/views/fields.js:68
+msgid "An error occurred. Please try again."
+msgstr "发生了一个未知错误，请重试。"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:153
+msgid "Check the highlighted fields below and try again."
+msgstr "请确认下方提醒的字段并重新输入。"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:163
+msgid "Enter team name."
+msgstr "输入团队名"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:169
+msgid "Team name cannot have more than 255 characters."
+msgstr "团队名称不能超过 255 个字符"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:177
+msgid "Enter team description."
+msgstr "输入团队介绍"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team.js:183
+msgid "Team description cannot have more than 300 characters."
+msgstr "团队描述不能超过 300 个字符。"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:18
+msgid "An error occurred while removing the member from the team. Try again."
+msgstr "移除成员时发生错误。请重试一次。"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:38
+msgid "This team does not have any members."
+msgstr "本团队没有成员。"
+
+#. Translators: 'date' is a placeholder for a fuzzy, relative timestamp (see:
+#. https://github.com/rmm5t/jquery-timeago)
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:53
+msgid "Joined %(date)s"
+msgstr "于 %(date)s 加入"
+
+#. Translators: 'date' is a placeholder for a fuzzy, relative timestamp (see:
+#. https://github.com/rmm5t/jquery-timeago)
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:60
+msgid "Last Activity %(date)s"
+msgstr "上一次活动在 %(date)s "
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:82
+msgid "Remove this team member?"
+msgstr "移除此成员?"
+
+#: lms/djangoapps/teams/static/teams/js/views/edit_team_members.js:83
+msgid ""
+"This learner will be removed from the team, allowing another learner to take"
+" the available spot."
+msgstr "此成员将被移除，释出名额后其他成员可加入。"
+
+#: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:33
+msgid "Delete this team?"
+msgstr "删除此团队?"
+
+#: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:34
+msgid ""
+"Deleting a team is permanent and cannot be undone. All members are removed "
+"from the team, and team discussions can no longer be accessed."
+msgstr "删除团队是永久性的，无法挽回。所有成员会从团队移除，团队讨论将无法再被造访。"
+
+#: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:58
+msgid "Team \"{team}\" successfully deleted."
+msgstr "团队 \"{team}\" 已成功删除。"
+
+#: lms/djangoapps/teams/static/teams/js/views/my_teams.js:16
+msgid "You are not currently a member of any team."
+msgstr "你目前不是任何团队中的一员。"
+
+#. Translators: "and others" refers to fact that additional members of a team
+#. exist that are not displayed.
+#: lms/djangoapps/teams/static/teams/js/views/team_card.js:49
+msgid "and others"
+msgstr "其他"
+
+#. Translators: 'date' is a placeholder for a fuzzy, relative timestamp (see:
+#. http://momentjs.com/)
+#: lms/djangoapps/teams/static/teams/js/views/team_card.js:88
+msgid "Last activity %(date)s"
+msgstr "上一次活动在 %(date)s "
+
+#: lms/djangoapps/teams/static/teams/js/views/team_card.js:123
+msgid "View %(span_start)s %(team_name)s %(span_end)s"
+msgstr "查看%(span_start)s %(team_name)s %(span_end)s"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile.js:21
+#: lms/djangoapps/teams/static/teams/js/views/team_profile_header_actions.js:13
+msgid "An error occurred. Try again."
+msgstr "发生错误。 再试一次。"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile.js:92
+msgid "Leave this team?"
+msgstr "离开这个团队？"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile.js:93
+msgid ""
+"If you leave, you can no longer post in this team's discussions. Your place "
+"will be available to another learner."
+msgstr "如果你离开了，你不能在本团队的讨论区上发言。您的位置将提供给其它的学习者。"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile.js:94
+#: lms/static/js/verify_student/views/reverify_view.js:50
+msgid "Confirm"
+msgstr "确认"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile_header_actions.js:14
+msgid "You already belong to another team."
+msgstr "你已经属于另一个团队。"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_profile_header_actions.js:15
+msgid "This team is full."
+msgstr "这个团队已经满了。"
+
+#: lms/djangoapps/teams/static/teams/js/views/team_utils.js:26
+msgid "%(memberCount)s / %(maxMemberCount)s Member"
+msgid_plural "%(memberCount)s / %(maxMemberCount)s Members"
+msgstr[0] "%(memberCount)s / %(maxMemberCount)s 个成员"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams.js:15
+msgid "All teams"
+msgstr "所有群组"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams.js:18
+msgid "Teams Pagination"
+msgstr "团队分页"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:36
+msgid "Topics"
+msgstr "主题"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:136
+msgid ""
+"See all teams in your course, organized by topic. Join a team to collaborate"
+" with other learners who are interested in the same topic as you are."
+msgstr "在你的课程中查看以主题组织的所有团队。加入一个团队，与其他志同道合的学习者合作。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:139
+msgid "My Team"
+msgstr "我的团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:143
+msgid "Browse"
+msgstr "浏览"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:175
+msgid "Your request could not be completed. Reload the page and try again."
+msgstr "您的请求无法完成。刷新页面，然后重试。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:180
+msgid ""
+"Your request could not be completed due to a server problem. Reload the page"
+" and try again. If the issue persists, click the Help tab to report the "
+"problem."
+msgstr "系统问题造成您的请求无法完成。请刷新页面，然后重试。如果问题仍然存在，点击帮助选项来回报问题。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:217
+msgid "Team Search"
+msgstr "搜索团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:219
+msgid "Showing results for \"{searchString}\""
+msgstr ""
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:238
+msgid "Create a New Team"
+msgstr "创建新的团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:239
+msgid ""
+"Create a new team if you can't find an existing team to join, or if you "
+"would like to learn with friends you know."
+msgstr "建立一个新的团队-- 如果你找不到现有的团队加入，或者你想和你认识的朋友组队。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:272
+msgid "Edit Team"
+msgstr "编辑团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:273
+msgid ""
+"If you make significant changes, make sure you notify members of the team "
+"before making these changes."
+msgstr "如果你做较大更改，请确保您在进行这些更改之前通知团队成员。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:301
+msgid "Membership"
+msgstr "会员资格"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:302
+msgid ""
+"You can remove members from this team, especially if they have not "
+"participated in the team's activity."
+msgstr "您可以从此组中删除成员，尤其是还没有参加团队活动的成员。"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:361
+msgid "Search teams"
+msgstr "搜索团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:457
+msgid "All Topics"
+msgstr "所有主题"
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:588
+msgid "The page \"{route}\" could not be found."
+msgstr ""
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:597
+msgid "The topic \"{topic}\" could not be found."
+msgstr ""
+
+#: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:606
+msgid "The team \"{team}\" could not be found."
+msgstr ""
+
+#: lms/djangoapps/teams/static/teams/js/views/topic_card.js:19
+msgid "%(team_count)s Team"
+msgid_plural "%(team_count)s Teams"
+msgstr[0] "%(team_count)s 个团队"
+
+#: lms/djangoapps/teams/static/teams/js/views/topic_card.js:39
+msgid "Topic"
+msgstr "主题"
+
+#: lms/djangoapps/teams/static/teams/js/views/topic_card.js:46
+msgid "View Teams in the %(topic_name)s Topic"
+msgstr "查看 %(topic_name)s主题下的团队"
+
+#. Translators: this string is shown at the bottom of the teams page
+#. to find a team to join or else to create a new one. There are three
+#. links that need to be included in the message:
+#. 1. Browse teams in other topics
+#. 2. search teams
+#. 3. create a new team
+#. Be careful to start each link with the appropriate start indicator
+#. (e.g. {browse_span_start} for #1) and finish it with {span_end}.
+#: lms/djangoapps/teams/static/teams/js/views/topic_teams.js:47
+msgid ""
+"{browse_span_start}Browse teams in other topics{span_end} or "
+"{search_span_start}search teams{span_end} in this topic. If you still can't "
+"find a team to join, {create_span_start}create a new team in this "
+"topic{span_end}."
+msgstr "{browse_span_start} 用其他标题浏览团队 {span_end} 或 {search_span_start} 搜索团队{span_end} 於此标题。 如果你仍然无法找到团队来加入， {create_span_start} 在此标题新创一个团队{span_end}。"
+
+#: lms/djangoapps/teams/static/teams/js/views/topics.js:15
+msgid "All topics"
+msgstr "所有主题"
+
+#: lms/static/coffee/src/calculator.js:40
+msgid "Open Calculator"
+msgstr "打开计算器"
+
+#: lms/static/coffee/src/calculator.js:47
+msgid "Close Calculator"
+msgstr "关闭计算器"
+
+#: lms/static/coffee/src/customwmd.js:157
+msgid "HTML preview of post"
+msgstr ""
+
+#: lms/static/coffee/src/customwmd.js:158
+msgid "Post body"
+msgstr "帖子内容"
+
+#: lms/static/js/Markdown.Editor.js:28
+msgid "Insert Hyperlink"
+msgstr "插入超链接"
+
+#: lms/static/js/Markdown.Editor.js:29
+msgid "e.g. 'http://google.com'"
+msgstr "例如“http://google.com/”"
+
+#: lms/static/js/Markdown.Editor.js:30
+msgid "Link Description"
+msgstr "链接的描述"
+
+#: lms/static/js/Markdown.Editor.js:31
+msgid "e.g. 'google'"
+msgstr "例如'google'"
+
+#: lms/static/js/Markdown.Editor.js:32
+msgid "Please provide a description of the link destination."
+msgstr "请提供链接的描述。"
+
+#: lms/static/js/Markdown.Editor.js:36
+msgid "Insert Image (upload file or type URL)"
+msgstr "插入图片 (上传文件或输入URL)"
+
+#: lms/static/js/Markdown.Editor.js:37
+msgid ""
+"Type in a URL or use the \"Choose File\" button to upload a file from your "
+"machine. (e.g. 'http://example.com/img/clouds.jpg')"
+msgstr "输入一个网址，或按下“选择文件”按钮来上传文件。(例如'http://example.com/img/clouds.jpg')"
+
+#: lms/static/js/Markdown.Editor.js:38
+msgid "Image Description"
+msgstr "图片描述"
+
+#: lms/static/js/Markdown.Editor.js:40
+msgid ""
+"Please describe this image or agree that it has no contextual value by "
+"checking the checkbox."
+msgstr "请描述本图片或勾选复选框表示图片不含与内容相关的价值。"
+
+#: lms/static/js/Markdown.Editor.js:41
+msgid ""
+"e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
+"the image."
+msgstr "例如“天空有云”。该描述对于无法看见图片的使用者是有帮助的。"
+
+#: lms/static/js/Markdown.Editor.js:44
+msgid "How to create useful text alternatives."
+msgstr "如何建立有用的文字替代物。"
+
+#: lms/static/js/Markdown.Editor.js:46
+msgid ""
+"This image is for decorative purposes only and does not require a "
+"description."
+msgstr "此图片仅作装饰用，无需描述。"
+
+#: lms/static/js/Markdown.Editor.js:49
+msgid "Markdown Editing Help"
+msgstr "Markdown编辑帮助"
+
+#: lms/static/js/Markdown.Editor.js:50
+msgid "URL"
+msgstr "URL"
+
+#: lms/static/js/Markdown.Editor.js:51
+msgid "Please provide a valid URL."
+msgstr "请提供一个有效的网址。"
+
+#. Translators: 'errorCount' is the number of errors found in the form.
+#: lms/static/js/Markdown.Editor.js:1076
+msgid "%(errorCount)s error found in form."
+msgid_plural "%(errorCount)s errors found in form."
+msgstr[0] "表格中发现 %(errorCount)s 个错误。"
+
+#: lms/static/js/Markdown.Editor.js:1471
+msgid "Bold (Ctrl+B)"
+msgstr "粗体(Ctrl+B)"
+
+#: lms/static/js/Markdown.Editor.js:1472
+msgid "Italic (Ctrl+I)"
+msgstr "斜体(Ctrl+I)"
+
+#: lms/static/js/Markdown.Editor.js:1474
+msgid "Hyperlink (Ctrl+L)"
+msgstr "超链接(Ctrl+L)"
+
+#: lms/static/js/Markdown.Editor.js:1477
+msgid "Blockquote (Ctrl+Q)"
+msgstr "引用(Ctrl+Q)"
+
+#: lms/static/js/Markdown.Editor.js:1478
+msgid "Code Sample (Ctrl+K)"
+msgstr "代码示例(Ctrl+K)"
+
+#: lms/static/js/Markdown.Editor.js:1479
+msgid "Image (Ctrl+G)"
+msgstr "图片(Ctrl+G)"
+
+#: lms/static/js/Markdown.Editor.js:1483
+msgid "Numbered List (Ctrl+O)"
+msgstr "有序列表(Ctrl+O)"
+
+#: lms/static/js/Markdown.Editor.js:1486
+msgid "Bulleted List (Ctrl+U)"
+msgstr "符号列表(Ctrl+U)"
+
+#: lms/static/js/Markdown.Editor.js:1489
+msgid "Heading (Ctrl+H)"
+msgstr "标题(Ctrl+H)"
+
+#: lms/static/js/Markdown.Editor.js:1490
+msgid "Horizontal Rule (Ctrl+R)"
+msgstr "水平线(Ctrl+R)"
+
+#: lms/static/js/Markdown.Editor.js:1492
+msgid "Undo (Ctrl+Z)"
+msgstr "撤销(Ctrl+Z)"
+
+#: lms/static/js/Markdown.Editor.js:1496
+msgid "Redo (Ctrl+Y)"
+msgstr "重做(Ctrl+Y)"
+
+#: lms/static/js/Markdown.Editor.js:1497
+msgid "Redo (Ctrl+Shift+Z)"
+msgstr "重做(Ctrl+Shift+Z)"
+
+#: lms/static/js/Markdown.Editor.js:1563
+msgid "strong text"
+msgstr "加粗文字"
+
+#: lms/static/js/Markdown.Editor.js:1567
+msgid "emphasized text"
+msgstr "强调文字"
+
+#: lms/static/js/Markdown.Editor.js:1764
+msgid "enter link description here"
+msgstr "此处输入链接的描述"
+
+#: lms/static/js/Markdown.Editor.js:2022 lms/static/js/Markdown.Editor.js:2045
+msgid "enter code here"
+msgstr "此处输入代码"
+
+#: lms/static/js/Markdown.Editor.js:2136
+msgid "List item"
+msgstr "列表项"
+
+#: lms/static/js/Markdown.Editor.js:2166
+msgid "Heading"
+msgstr "标题"
+
+#: lms/static/js/ajax-error.js:4
+msgid ""
+"You have been logged out of your edX account. Click Okay to log in again "
+"now. Click Cancel to stay on this page (you must log in again to save your "
+"work)."
+msgstr ""
+
+#: lms/static/js/api_admin/views/catalog_preview.js:24
+msgid "Preview this query"
+msgstr "预览该查询"
+
+#: lms/static/js/ccx/schedule.js:62
+msgid "All subsections"
+msgstr "所有节"
+
+#: lms/static/js/ccx/schedule.js:84
+msgid "All units"
+msgstr "所有单元"
+
+#: lms/static/js/ccx/schedule.js:183 lms/static/js/ccx/schedule.js:185
+msgid "Click to change"
+msgstr "点击更改"
+
+#: lms/static/js/ccx/schedule.js:221
+msgid "Select a chapter"
+msgstr "选择一章"
+
+#: lms/static/js/ccx/schedule.js:262 lms/static/js/ccx/schedule.js:273
+msgid "Save changes"
+msgstr "保存修改"
+
+#: lms/static/js/ccx/schedule.js:294
+msgid "Please enter valid start date and time."
+msgstr "请输入有效的开始日期与时间"
+
+#: lms/static/js/ccx/schedule.js:301
+msgid "Due date cannot be before start date."
+msgstr "课程的结束日期不能在开始日期之前。"
+
+#: lms/static/js/ccx/schedule.js:429
+msgid "Enter Due Date and Time"
+msgstr "输入截止日期"
+
+#: lms/static/js/ccx/schedule.js:430
+msgid "Enter Start Date and Time"
+msgstr "输入开始日期与时间"
+
+#: lms/static/js/certificates/models/certificate_exception.js:31
+msgid ""
+"Student username/email field is required and can not be empty. Kindly fill "
+"in username/email and then press \"Add to Exception List\" button."
+msgstr "学生使用者名称及电子邮件是必填且不能空白。请填入使用者名称及电子邮件，并按“加入例外名单”按钮。"
+
+#: lms/static/js/certificates/models/certificate_invalidation.js:28
+msgid ""
+"Student username/email field is required and can not be empty. Kindly fill "
+"in username/email and then press \"Invalidate Certificate\" button."
+msgstr "学生使用者名称及email是必填的且不能空白。请填入使用者名称及email，并按“作废证书”的按钮。"
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:83
+msgid "Uploaded file issues. Click on \"+\" to view."
+msgstr "上传文件有问题。点击 “+” 来检视。"
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:159
+msgid " learners are successfully added to exception list"
+msgstr "学习者已经成功地加入到例外列表"
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:160
+msgid " learner is successfully added to the exception list"
+msgstr "学习者已经成功地加入到例外列表"
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:164
+msgid " records are not in correct format and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:166
+msgid " record is not in correct format and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:171
+msgid " learners do not exist in LMS and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:173
+msgid " learner does not exist in LMS and not added to the exception list"
+msgstr "学习者不存在系统中，将不加到例外列表中"
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:177
+msgid " learners are already white listed and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:179
+msgid " learner is already white listed and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:184
+msgid ""
+" learners are not enrolled in course and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_bulk_whitelist.js:186
+msgid " learner is not enrolled in course and not added to the exception list"
+msgstr ""
+
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:49
+msgid ""
+"Certificate of <%= user %> has already been invalidated. Please check your "
+"spelling and retry."
+msgstr " <%= user %> 的证书已经无效。请确认您的拼写并再试一次。"
+
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:59
+msgid "Certificate has been successfully invalidated for <%= user %>."
+msgstr " <%= user %> 的证书已成功地转为失效"
+
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:70
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:100
+#: lms/static/js/certificates/views/certificate_whitelist.js:102
+#: lms/static/js/certificates/views/certificate_whitelist_editor.js:112
+msgid "Server Error, Please refresh the page and try again."
+msgstr "服务器错误。请刷新页面并再试一次。"
+
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:90
+msgid ""
+"The certificate for this learner has been re-validated and the system is re-"
+"running the grade for this learner."
+msgstr "这名学生的证书已经重新验证及系统重新计算该名学生的成绩。"
+
+#: lms/static/js/certificates/views/certificate_invalidation_view.js:110
+msgid ""
+"Could not find Certificate Invalidation in the list. Please refresh the page"
+" and try again"
+msgstr "无法在这份列表中找到证书失效证明。请重新载入页面或再试一次。"
+
+#: lms/static/js/certificates/views/certificate_whitelist.js:59
+msgid "Student Removed from certificate white list successfully."
+msgstr "学生已从证书许可名单中移除成功。"
+
+#: lms/static/js/certificates/views/certificate_whitelist.js:70
+msgid ""
+"Could not find Certificate Exception in white list. Please refresh the page "
+"and try again"
+msgstr "在许可名单中找不到证书特例的人。请重新载入页面或再试一次。"
+
+#: lms/static/js/certificates/views/certificate_whitelist_editor.js:61
+msgid "<%= user %> already in exception list."
+msgstr "<%= user %> 已在特例名单中。"
+
+#: lms/static/js/certificates/views/certificate_whitelist_editor.js:67
+msgid ""
+"<%= user %> has been successfully added to the exception list. Click "
+"Generate Exception Certificate below to send the certificate."
+msgstr "已经成功新增<%= user %>到特例名单中。请点击下面的产生特例证书并发送证书。"
+
+#: lms/static/js/course_survey.js:73
+msgid "There has been an error processing your survey."
+msgstr "在处理您的调查时出现了一个错误。"
+
+#: lms/static/js/courseware/credit_progress.js:14
+msgid "Less"
+msgstr "收起"
+
+#: lms/static/js/dashboard/donation.js:175
+msgid "Please enter a valid donation amount."
+msgstr "请输入一个有效的捐助金额。"
+
+#: lms/static/js/dashboard/donation.js:207
+msgid "Your donation could not be submitted."
+msgstr "您的捐款无法提交。"
+
+#: lms/static/js/dashboard/legacy.js:88 lms/static/js/dashboard/legacy.js:100
+msgid "You will be refunded the amount you paid."
+msgstr "你将会收到全额退款。"
+
+#: lms/static/js/dashboard/legacy.js:90
+msgid "You will not be refunded the amount you paid."
+msgstr "你将无法获得全额退款。"
+
+#: lms/static/js/dashboard/legacy.js:92
+msgid ""
+"Are you sure you want to unenroll from the purchased course %(courseName)s "
+"(%(courseNumber)s)?"
+msgstr ""
+
+#: lms/static/js/dashboard/legacy.js:95
+msgid ""
+"Are you sure you want to unenroll from %(courseName)s (%(courseNumber)s)?"
+msgstr ""
+
+#: lms/static/js/dashboard/legacy.js:98
+msgid ""
+"Are you sure you want to unenroll from the verified %(certNameLong)s  track "
+"of %(courseName)s  (%(courseNumber)s)?"
+msgstr ""
+
+#: lms/static/js/dashboard/legacy.js:102
+msgid ""
+"Are you sure you want to unenroll from the verified %(certNameLong)s track "
+"of %(courseName)s (%(courseNumber)s)?"
+msgstr ""
+
+#: lms/static/js/dashboard/legacy.js:104
+msgid ""
+"The refund deadline for this course has passed,so you will not receive a "
+"refund."
+msgstr ""
+
+#: lms/static/js/dashboard/legacy.js:171 lms/static/js/dashboard/legacy.js:181
+#: lms/static/js/learner_dashboard/views/unenroll_view.js:61
+msgid ""
+"Unable to determine whether we should give you a refund because of System "
+"Error. Please try again later."
+msgstr ""
+
+#: lms/static/js/discovery/views/search_form.js:48
+#, javascript-format
+msgid "Viewing %s course"
+msgid_plural "Viewing %s courses"
+msgstr[0] "查看 %s 个课程"
+
+#: lms/static/js/discovery/views/search_form.js:57
+#, javascript-format
+msgid "We couldn't find any results for \"%s\"."
+msgstr "我们找不到有关“%s”的任何结果。"
+
+#: lms/static/js/discovery/views/search_form.js:65
+msgid "There was an error, try searching again."
+msgstr "出错了，请尝试重新搜素。"
+
+#: lms/static/js/discussions_management/views/discussions.js:59
+msgid "Not divided"
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:60
+msgid ""
+"Discussions are unified; all learners interact with posts from other "
+"learners, regardless of the group they are in."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:66
+msgid "Enrollment Tracks"
+msgstr "选课记录"
+
+#: lms/static/js/discussions_management/views/discussions.js:67
+msgid ""
+"Use enrollment tracks as the basis for dividing discussions. All learners, "
+"regardless of their enrollment track, see the same discussion topics, but "
+"within divided topics, only learners who are in the same enrollment track "
+"see and respond to each others’ posts."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:73
+msgid "Cohorts"
+msgstr "群组"
+
+#: lms/static/js/discussions_management/views/discussions.js:74
+msgid ""
+"Use cohorts as the basis for dividing discussions. All learners, regardless "
+"of cohort, see the same discussion topics, but within divided topics, only "
+"members of the same cohort see and respond to each others’ posts. "
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:181
+msgid "Discussion topics in the course are not divided."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:184
+msgid "Any divided discussion topics are divided based on enrollment track."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:187
+msgid "Any divided discussion topics are divided based on cohort."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:194
+msgid "Your changes have been saved. {details}"
+msgstr ""
+
+#: lms/static/js/discussions_management/views/discussions.js:209
+msgid "We have encountered an error. Refresh your browser and then try again."
+msgstr ""
+
+#: lms/static/js/discussions_management/views/divided_discussions.js:62
+#: lms/static/js/discussions_management/views/divided_discussions_course_wide.js:79
+#: lms/static/js/discussions_management/views/divided_discussions_inline.js:145
+#: lms/static/js/groups/views/cohort_form.js:162
+#: lms/static/js/groups/views/cohorts.js:161
+msgid "We've encountered an error. Refresh your browser and then try again."
+msgstr "我们遇到了一个错误。请刷新您的浏览器并重试。"
+
+#: lms/static/js/edxnotes/views/notes_visibility_factory.js:12
+#: lms/static/js/edxnotes/views/search_box.js:17
+msgid ""
+"An error has occurred. Make sure that you are connected to the Internet, and"
+" then try refreshing the page."
+msgstr "出现了一个错误。请确保您已联网，然后刷新页面。"
+
+#: lms/static/js/edxnotes/views/notes_visibility_factory.js:57
+msgid "Hide notes"
+msgstr "隐藏注释"
+
+#: lms/static/js/edxnotes/views/notes_visibility_factory.js:58
+msgid "Notes visible"
+msgstr "注释可见"
+
+#: lms/static/js/edxnotes/views/notes_visibility_factory.js:64
+msgid "Show notes"
+msgstr "显示注释"
+
+#: lms/static/js/edxnotes/views/notes_visibility_factory.js:65
+msgid "Notes hidden"
+msgstr "注释已隐藏"
+
+#: lms/static/js/edxnotes/views/search_box.js:20
+msgid "Please enter a term in the {anchorStart} search field{anchorEnd}."
+msgstr ""
+
+#: lms/static/js/edxnotes/views/tab_item.js:25
+msgid "Current tab"
+msgstr "当前标签"
+
+#: lms/static/js/edxnotes/views/tabs/course_structure.js:49
+msgid "Location in Course"
+msgstr "课程中的位置"
+
+#: lms/static/js/edxnotes/views/tabs/recent_activity.js:25
+msgid "Recent Activity"
+msgstr "近期活动"
+
+#: lms/static/js/edxnotes/views/tabs/search_results.js:34
+msgid "No results found for \"%(query_string)s\". Please try searching again."
+msgstr "未找到有关\"%(query_string)s\"的任何结果。请重新搜索。"
+
+#: lms/static/js/edxnotes/views/tabs/search_results.js:48
+msgid "Search Results"
+msgstr "搜索结果"
+
+#. Translators: this is a title shown before all Notes that have no associated
+#. tags. It is put within
+#. brackets to differentiate it from user-defined tags, but it should still be
+#. translated.
+#: lms/static/js/edxnotes/views/tabs/tags.js:38
+msgid "[no tags]"
+msgstr "[无标签]"
+
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:35
+msgid "Unable to submit application"
+msgstr "无法提交申请"
+
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:103
+#: lms/static/js/student_account/views/LoginView.js:175
+msgid "An error has occurred. Check your Internet connection and try again."
+msgstr "错误发生。请检查您的网络连接情况，并且重试一次。"
+
+#: lms/static/js/financial-assistance/views/financial_assistance_form_view.js:140
+msgid "Choose one"
+msgstr "请选择"
+
+#: lms/static/js/groups/views/cohort_editor.js:62
+msgid "Selected tab"
+msgstr "选中的标签"
+
+#: lms/static/js/groups/views/cohort_editor.js:76
+msgid "Saved cohort"
+msgstr "已保存的群组"
+
+#: lms/static/js/groups/views/cohort_editor.js:119
+msgid "Error adding learners."
+msgstr ""
+
+#: lms/static/js/groups/views/cohort_editor.js:122
+msgid "Enter a username or email."
+msgstr "输入用户名或电子邮件地址。"
+
+#: lms/static/js/groups/views/cohort_editor.js:174
+msgid "{numUsersAdded} learner has been added to this cohort. "
+msgid_plural "{numUsersAdded} learners have been added to this cohort. "
+msgstr[0] ""
+
+#: lms/static/js/groups/views/cohort_editor.js:194
+msgid "{numMoved} learner was moved from {prevCohort}"
+msgid_plural "{numMoved} learners were moved from {prevCohort}"
+msgstr[0] ""
+
+#: lms/static/js/groups/views/cohort_editor.js:204
+msgid "{numPresent} learner was already in the cohort"
+msgid_plural "{numPresent} learners were already in the cohort"
+msgstr[0] ""
+
+#: lms/static/js/groups/views/cohort_editor.js:230
+msgid "{email}"
+msgstr ""
+
+#: lms/static/js/groups/views/cohort_editor.js:236
+msgid ""
+"{numPreassigned} learner was pre-assigned for this cohort. This learner will"
+" automatically be added to the cohort when they enroll in the course."
+msgid_plural ""
+"{numPreassigned} learners were pre-assigned for this cohort. These learners "
+"will automatically be added to the cohort when they enroll in the course."
+msgstr[0] ""
+
+#: lms/static/js/groups/views/cohort_editor.js:274
+msgid "Unknown username: {user}"
+msgstr ""
+
+#: lms/static/js/groups/views/cohort_editor.js:278
+msgid "Invalid email address: {email}"
+msgstr ""
+
+#: lms/static/js/groups/views/cohort_editor.js:285
+msgid "There was an error when trying to add learners:"
+msgid_plural "{numErrors} learners could not be added to this cohort:"
+msgstr[0] ""
+
+#: lms/static/js/groups/views/cohort_editor.js:300
+msgid "View all errors"
+msgstr "查看所有错误"
+
+#: lms/static/js/groups/views/cohort_form.js:107
+msgid "You must specify a name for the cohort"
+msgstr "您必须为该群组命名。"
+
+#: lms/static/js/groups/views/cohort_form.js:111
+msgid "You did not select a content group"
+msgstr "您未选取内容组。"
+
+#: lms/static/js/groups/views/cohort_form.js:114
+msgid "The selected content group does not exist"
+msgstr "选取的内容组不存在。"
+
+#: lms/static/js/groups/views/cohort_form.js:142
+msgid "The cohort cannot be saved"
+msgstr "该群组不能保存"
+
+#: lms/static/js/groups/views/cohort_form.js:142
+msgid "The cohort cannot be added"
+msgstr "该群组不能添加"
+
+#: lms/static/js/groups/views/cohorts.js:121
+msgid "You currently have no cohorts configured"
+msgstr "您目前没有已配置的群组"
+
+#: lms/static/js/groups/views/cohorts.js:122
+msgid "Add Cohort"
+msgstr "添加群组"
+
+#: lms/static/js/groups/views/cohorts.js:262
+msgid ""
+"The {cohortGroupName} cohort has been created. You can manually add students"
+" to this cohort below."
+msgstr "{cohortGroupName}群组已经创建，您可以手动添加学生到这个群组。"
+
+#: lms/static/js/groups/views/cohorts.js:292
+msgid "Assign students to cohorts by uploading a CSV file."
+msgstr "上传一个 CSV 文件以将学生分配到群组中。"
+
+#: lms/static/js/groups/views/cohorts.js:293
+msgid "Choose a .csv file"
+msgstr "选择一个.csv的文件"
+
+#: lms/static/js/groups/views/cohorts.js:294
+msgid "Only properly formatted .csv files will be accepted."
+msgstr "只有标准的CSV格式文件会被接受。"
+
+#: lms/static/js/groups/views/cohorts.js:295
+msgid "Upload File and Assign Students"
+msgstr "上传文件并为学生分组"
+
+#: lms/static/js/groups/views/cohorts.js:300
+msgid ""
+"Your file '{file}' has been uploaded. Allow a few minutes for processing."
+msgstr "你的文件'{file}'已经上传。需要几分钟时间进行处理。"
+
+#: lms/static/js/groups/views/course_cohort_settings_notification.js:21
+msgid "Cohorts Enabled"
+msgstr "群组已启用"
+
+#: lms/static/js/groups/views/course_cohort_settings_notification.js:23
+msgid "Cohorts Disabled"
+msgstr "群组已禁用"
+
+#: lms/static/js/groups/views/verified_track_settings_notification.js:35
+msgid ""
+"This course uses automatic cohorting for verified track learners. You cannot"
+" disable cohorts, and you cannot rename the manual cohort named "
+"'{verifiedCohortName}'. To change the configuration for verified track "
+"cohorts, contact your edX partner manager."
+msgstr "这门课程为要获取认证证书的学生自动分组。您无法取消分组，也无法重新命名手动设置的群组'{verifiedCohortName}'。如要改变认证组的分组设置，请联系您的edX 合作经理。"
+
+#: lms/static/js/groups/views/verified_track_settings_notification.js:44
+msgid ""
+"This course has automatic cohorting enabled for verified track learners, but"
+" the required cohort does not exist. You must create a manually-assigned "
+"cohort named '{verifiedCohortName}' for the feature to work."
+msgstr "这门课程为要获取认证证书的学生自动分组，但要求的群组不存在。为了使该功能正常运行，您必须手动设置一个群组，名为'{verifiedCohortName}'。"
+
+#: lms/static/js/groups/views/verified_track_settings_notification.js:54
+msgid ""
+"This course has automatic cohorting enabled for verified track learners, but"
+" cohorts are disabled. You must enable cohorts for the feature to work."
+msgstr "这门课程为要获取认证证书的学生自动分组，但是群组功能被禁止。为了使该功能正常运行，您必须启用群组功能，"
+
+#: lms/static/js/instructor_dashboard/certificates.js:20
+msgid "Allow students to generate certificates for this course?"
+msgstr "是否允许学生生成该课程证书？"
+
+#: lms/static/js/instructor_dashboard/certificates.js:22
+msgid "Prevent students from generating certificates in this course?"
+msgstr "是否阻止学生生成该课程证书？"
+
+#: lms/static/js/instructor_dashboard/certificates.js:44
+msgid "Start generating certificates for all students in this course?"
+msgstr "是否开始为该课程的所有学生生成证书？"
+
+#: lms/static/js/instructor_dashboard/certificates.js:59
+msgid "Error while generating certificates. Please try again."
+msgstr "生成证书期间出现错误，请重试。"
+
+#: lms/static/js/instructor_dashboard/certificates.js:68
+msgid "Start regenerating certificates for students in this course?"
+msgstr "确定重新产生此课程所有学生的证书？"
+
+#: lms/static/js/instructor_dashboard/certificates.js:96
+msgid "Error while regenerating certificates. Please try again."
+msgstr "产生错误证书。 请再试一次。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:30
+msgid "Loading data..."
+msgstr "载入数据中......"
+
+#: lms/static/js/instructor_dashboard/data_download.js:37
+msgid "Error getting issued certificates list."
+msgstr "获取已颁发证书的列表时发生错误"
+
+#: lms/static/js/instructor_dashboard/data_download.js:125
+msgid "Error generating proctored exam results. Please try again."
+msgstr "产生考试成绩错误。 请再试一次。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:151
+msgid "Error generating survey results. Please try again."
+msgstr "产生调查结果时发生错误。 请再试一次。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:177
+msgid "Error generating student profile information. Please try again."
+msgstr "生成学生档案信息时发生错误，请重试。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:203
+#: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmarks_list.js:23
+msgid "Loading"
+msgstr "正在加载"
+
+#: lms/static/js/instructor_dashboard/data_download.js:211
+msgid "Error getting student list."
+msgstr "获取学生列表时发生错误"
+
+#: lms/static/js/instructor_dashboard/data_download.js:278
+msgid "Error generating list of students who may enroll. Please try again."
+msgstr "获取可能选课的学生列表时出现错误，请重试。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:310
+msgid "Error retrieving grading configuration."
+msgstr "取得评分标准时错误。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:335
+msgid "Error generating grades. Please try again."
+msgstr "生成评分结果时发生错误，请重试。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:337
+msgid "Error generating problem grade report. Please try again."
+msgstr "生成评分结果报告时发生错误，请重试。"
+
+#: lms/static/js/instructor_dashboard/data_download.js:339
+msgid "Error generating ORA data report. Please try again."
+msgstr "产生ORA数据报告时发生错误。请重新再试。"
+
+#: lms/static/js/instructor_dashboard/ecommerce.js:58
+#: lms/static/js/instructor_dashboard/ecommerce.js:78
+msgid ""
+"There was a problem creating the report. Select \"Create Executive Summary\""
+" to try again."
+msgstr "创建报告时发生问题，请选择“创建执行摘要”重新尝试。"
+
+#: lms/static/js/instructor_dashboard/ecommerce.js:92
+msgid "Enter the enrollment code."
+msgstr "输入选课码。"
+
+#: lms/static/js/instructor_dashboard/ecommerce.js:120
+msgid "Cancel enrollment code"
+msgstr "取消选课码"
+
+#: lms/static/js/instructor_dashboard/ecommerce.js:130
+msgid "Restore enrollment code"
+msgstr "恢复选课码"
+
+#: lms/static/js/instructor_dashboard/ecommerce.js:140
+msgid "Mark enrollment code as unused"
+msgstr "标记选课码为尚未使用的"
+
+#: lms/static/js/instructor_dashboard/membership.js:111
+#: lms/static/js/instructor_dashboard/membership.js:116
+#: lms/static/js/student_account/views/account_settings_factory.js:74
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:98
+msgid "Username"
+msgstr "用户名"
+
+#: lms/static/js/instructor_dashboard/membership.js:111
+#: lms/static/js/instructor_dashboard/membership.js:116
+msgid "Email"
+msgstr "电子邮件"
+
+#: lms/static/js/instructor_dashboard/membership.js:111
+#: lms/static/js/instructor_dashboard/membership.js:116
+#: lms/static/js/instructor_dashboard/membership.js:172
+msgid "Revoke access"
+msgstr "取消授权"
+
+#: lms/static/js/instructor_dashboard/membership.js:116
+msgid "Group"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/membership.js:122
+msgid "Enter username or email"
+msgstr "输入用户名或者电子邮件地址"
+
+#: lms/static/js/instructor_dashboard/membership.js:156
+msgid "Please enter a username or email."
+msgstr "请输入一个用户名或者电子邮件。"
+
+#: lms/static/js/instructor_dashboard/membership.js:197
+#: lms/static/js/instructor_dashboard/membership.js:1026
+msgid "This role requires a divided discussions scheme."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/membership.js:261
+#: lms/static/js/instructor_dashboard/membership.js:961
+msgid "Error changing user's permissions."
+msgstr "更改用户权限出错。"
+
+#: lms/static/js/instructor_dashboard/membership.js:271
+msgid ""
+"Could not find a user with username or email address '<%- identifier %>'."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/membership.js:276
+msgid ""
+"Error: User '<%- username %>' has not yet activated their account. Users "
+"must create and activate their accounts before they can be assigned a role."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/membership.js:282
+msgid "Error: You cannot remove yourself from the Instructor group!"
+msgstr "错误：您不可以将自己从教师组中删除。"
+
+#: lms/static/js/instructor_dashboard/membership.js:391
+msgid "Errors"
+msgstr "错误"
+
+#: lms/static/js/instructor_dashboard/membership.js:392
+msgid "The following errors were generated:"
+msgstr "出现以下错误："
+
+#: lms/static/js/instructor_dashboard/membership.js:396
+msgid "Warnings"
+msgstr "警告"
+
+#: lms/static/js/instructor_dashboard/membership.js:397
+msgid "The following warnings were generated:"
+msgstr "出现以下警告："
+
+#: lms/static/js/instructor_dashboard/membership.js:401
+#: lms/static/js/views/fields.js:56
+msgid "Success"
+msgstr "成功"
+
+#: lms/static/js/instructor_dashboard/membership.js:402
+msgid "All accounts were created successfully."
+msgstr "所有账户创建成功。"
+
+#: lms/static/js/instructor_dashboard/membership.js:456
+msgid "Error adding/removing users as beta testers."
+msgstr "添加／删除beta测试用户出错。"
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:527
+msgid "These users were successfully added as beta testers:"
+msgstr "这些用户已经添加为beta测试者："
+
+#: lms/static/js/instructor_dashboard/membership.js:532
+msgid ""
+"These users could not be added as beta testers because their accounts are "
+"not yet activated:"
+msgstr ""
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:538
+msgid "These users were successfully removed as beta testers:"
+msgstr "这些用户不再是beta测试者："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:550
+msgid "These users were not added as beta testers:"
+msgstr "这些用户未添加为beta测试者："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:562
+msgid "These users were not removed as beta testers:"
+msgstr "这些用户未从beta测试者中删除："
+
+#: lms/static/js/instructor_dashboard/membership.js:574
+msgid ""
+"Users must create and activate their account before they can be promoted to "
+"beta tester."
+msgstr "成为beta测试者之前，需要创建并激活账户。"
+
+#: lms/static/js/instructor_dashboard/membership.js:576
+msgid "Could not find users associated with the following identifiers:"
+msgstr "未能找到与以下识别码关联的用户："
+
+#: lms/static/js/instructor_dashboard/membership.js:608
+msgid "Reason field should not be left blank."
+msgstr "原因不能为空。"
+
+#: lms/static/js/instructor_dashboard/membership.js:629
+msgid "Error enrolling/unenrolling users."
+msgstr "用户选课／放弃选课时出错。"
+
+#: lms/static/js/instructor_dashboard/membership.js:708
+msgid "The following email addresses and/or usernames are invalid:"
+msgstr "以下电子邮件地址／用户名无效："
+
+#: lms/static/js/instructor_dashboard/membership.js:745
+msgid "Successfully enrolled and sent email to the following users:"
+msgstr "以下用户已成功选课，并向他们发送电子邮件："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:757
+msgid "Successfully enrolled the following users:"
+msgstr "以下用户已经成功选课："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:769
+msgid ""
+"Successfully sent enrollment emails to the following users. They will be "
+"allowed to enroll once they register:"
+msgstr "选课邮件已成功发送至以下用户，他们注册后即可选课："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:781
+msgid "These users will be allowed to enroll once they register:"
+msgstr "这些用户一旦注册即可选课："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:793
+msgid ""
+"Successfully sent enrollment emails to the following users. They will be "
+"enrolled once they register:"
+msgstr "选课邮件已成功发送至这些用户，他们注册后即已选课："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:805
+msgid "These users will be enrolled once they register:"
+msgstr "这些用户注册后即已选课："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:817
+msgid ""
+"Emails successfully sent. The following users are no longer enrolled in the "
+"course:"
+msgstr "邮件发送成功，以下用户已不再选修本课程："
+
+#. Translators: A list of users appears after this sentence;
+#: lms/static/js/instructor_dashboard/membership.js:829
+msgid "The following users are no longer enrolled in the course:"
+msgstr "以下用户已不再选修本课程："
+
+#: lms/static/js/instructor_dashboard/membership.js:840
+msgid ""
+"These users were not affiliated with the course so could not be unenrolled:"
+msgstr "这些用户并不属于本课程学员，因此无法使其放弃选修："
+
+#: lms/static/js/instructor_dashboard/send_email.js:67
+msgid "Your message must have a subject."
+msgstr "您的消息必须有一个标题。"
+
+#: lms/static/js/instructor_dashboard/send_email.js:69
+msgid "Your message cannot be blank."
+msgstr "您的消息不能为空。"
+
+#: lms/static/js/instructor_dashboard/send_email.js:72
+msgid "Your message must have at least one target."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:77
+msgid ""
+"There are invalid keywords in your email. Check the following keywords and "
+"try again."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:84
+msgid "Yourself"
+msgstr "自己"
+
+#: lms/static/js/instructor_dashboard/send_email.js:86
+msgid "Everyone who has staff privileges in this course"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:88
+msgid "All learners who are enrolled in this course"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:90
+msgid "All learners in the {cohort_name} cohort"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:93
+msgid "All learners in the {track_name} track"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:97
+msgid ""
+"Your email message was successfully queued for sending. In courses with a "
+"large number of learners, email messages to learners might take up to an "
+"hour to be sent."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:99
+msgid ""
+"You are sending an email message with the subject {subject} to the following"
+" recipients."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/send_email.js:104
+msgid "Is this OK?"
+msgstr "这样可以吗？"
+
+#: lms/static/js/instructor_dashboard/send_email.js:122
+msgid "Error sending email."
+msgstr "发送电子邮件时出错。"
+
+#: lms/static/js/instructor_dashboard/send_email.js:142
+#: lms/static/js/instructor_dashboard/send_email.js:170
+msgid "There is no email history for this course."
+msgstr "本课程尚无发送电子邮件记录。"
+
+#: lms/static/js/instructor_dashboard/send_email.js:151
+msgid "There was an error obtaining email task history for this course."
+msgstr "获取该课程的邮件任务历史记录时发生错误。"
+
+#: lms/static/js/instructor_dashboard/send_email.js:179
+msgid "There was an error obtaining email content history for this course."
+msgstr "存在能获取该课程邮件内容历史记录的错误"
+
+#: lms/static/js/instructor_dashboard/send_email.js:206
+msgid "Send to:"
+msgstr "发至："
+
+#: lms/static/js/instructor_dashboard/student_admin.js:78
+#: lms/static/js/instructor_dashboard/student_admin.js:108
+#: lms/static/js/instructor_dashboard/student_admin.js:149
+#: lms/static/js/instructor_dashboard/student_admin.js:201
+#: lms/static/js/instructor_dashboard/student_admin.js:236
+#: lms/static/js/instructor_dashboard/student_admin.js:308
+#: lms/static/js/instructor_dashboard/student_admin.js:453
+#: lms/static/js/instructor_dashboard/student_admin.js:502
+#: lms/static/js/instructor_dashboard/student_admin.js:553
+msgid "Please enter a student email address or username."
+msgstr "请输入学生的邮件地址或用户名。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:81
+msgid ""
+"Error getting student progress url for '<%- student_id %>'. Make sure that "
+"the student identifier is spelled correctly."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:112
+#: lms/static/js/instructor_dashboard/student_admin.js:154
+#: lms/static/js/instructor_dashboard/student_admin.js:206
+#: lms/static/js/instructor_dashboard/student_admin.js:373
+#: lms/static/js/instructor_dashboard/student_admin.js:425
+#: lms/static/js/instructor_dashboard/student_admin.js:458
+#: lms/static/js/instructor_dashboard/student_admin.js:507
+#: lms/static/js/instructor_dashboard/student_admin.js:592
+msgid "Please enter a problem location."
+msgstr "请输入问题的位置。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:119
+msgid ""
+"Success! Problem attempts reset for problem '<%- problem_id %>' and student "
+"'<%- student_id %>'."
+msgstr "成功！问题'<%- problem_id %>' 与学生'<%- student_id %>'的问题尝试重置了。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:120
+msgid ""
+"Error resetting problem attempts for problem '<%= problem_id %>' and student"
+" '<%- student_id %>'. Make sure that the problem and student identifiers are"
+" complete and correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:157
+msgid ""
+"Delete student '<%- student_id %>'s state on problem '<%- problem_id %>'?"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:168
+msgid ""
+"Error deleting student '<%- student_id %>'s state on problem '<%- problem_id"
+" %>'. Make sure that the problem and student identifiers are complete and "
+"correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:179
+msgid "Module state successfully deleted."
+msgstr "已成功删除模块状态。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:213
+msgid ""
+"Error getting task history for problem '<%- problem_id %>' and student '<%- "
+"student_id %>'. Make sure that the problem and student identifiers are "
+"complete and correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:250
+msgid "Entrance exam attempts is being reset for student '{student_id}'."
+msgstr "正在重置学生“{student_id}”的入学考试尝试次数。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:258
+msgid ""
+"Error resetting entrance exam attempts for student '{student_id}'. Make sure"
+" student identifier is correct."
+msgstr "重置学生'{student_id}'的入学考试尝试次数时出错了，请确认学生编号无误。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:276
+#: lms/static/js/instructor_dashboard/student_admin.js:343
+msgid "Enter a student's username or email address."
+msgstr "输入学生的用户名或电子邮件地址。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:278
+msgid ""
+"Do you want to allow this student ('{student_id}') to skip the entrance "
+"exam?"
+msgstr "您是否允许该学生('{student_id}')跳过入学考试？"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:296
+msgid ""
+"An error occurred. Make sure that the student's username or email address is"
+" correct and try again."
+msgstr "发生了一个错误，请确认学生用户名或电子邮件地址正确并再次尝试。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:322
+msgid "Entrance exam state is being deleted for student '{student_id}'."
+msgstr "学生'{student_id}'的入学考试的状态已被删除。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:330
+msgid ""
+"Error deleting entrance exam state for student '{student_id}'. Make sure "
+"student identifier is correct."
+msgstr "删除学生'{student_id}'的入学考试状态时出错了，请确认学生编号无误。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:359
+msgid ""
+"Error getting entrance exam task history for student '{student_id}'. Make "
+"sure student identifier is correct."
+msgstr "获取学生'{student_id}'的入学考试任务历史时出错了，请确认学生编号无误。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:376
+msgid "Reset attempts for all students on problem '<%- problem_id %>'?"
+msgstr "要重置所有学生针对'<%- problem_id %>'题目的尝试次数吗？"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:385
+msgid ""
+"Successfully started task to reset attempts for problem '<%- problem_id %>'."
+" Click the 'Show Task Status' button to see the status of the task."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:389
+msgid ""
+"Error starting a task to reset attempts for all students on problem '<%- "
+"problem_id %>'. Make sure that the problem identifier is complete and "
+"correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:438
+msgid "Error listing task history for this student and problem."
+msgstr "显示此学生与问题的任务历史时发生错误。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:466
+msgid ""
+"Started rescore problem task for problem '<%- problem_id %>' and student "
+"'<%- student_id %>'. Click the 'Show Task Status' button to see the status "
+"of the task."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:471
+msgid ""
+"Error starting a task to rescore problem '<%- problem_id %>' for student "
+"'<%- student_id %>'. Make sure that the the problem and student identifiers "
+"are complete and correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:512
+msgid "Please enter a score."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:520
+msgid ""
+"Started task to override the score for problem '<%- problem_id %>' and "
+"student '<%- student_id %>'. Click the 'Show Task Status' button to see the "
+"status of the task."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:525
+msgid ""
+"Error starting a task to override score for problem '<%- problem_id %>' for "
+"student '<%- student_id %>'. Make sure that the the score and the problem "
+"and student identifiers are complete and correct."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:567
+msgid ""
+"Started entrance exam rescore task for student '{student_id}'. Click the "
+"'Show Task Status' button to see the status of the task."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:575
+msgid ""
+"Error starting a task to rescore entrance exam for student '{student_id}'. "
+"Make sure that entrance exam has problems in it and student identifier is "
+"correct."
+msgstr "为学生'{student_id}'开始运行重新计算入学考试分数的任务时出错了，请确认该入学考试中有题目并且学生编号无误。"
+
+#: lms/static/js/instructor_dashboard/student_admin.js:595
+msgid "Rescore problem '<%- problem_id %>' for all students?"
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:605
+msgid ""
+"Successfully started task to rescore problem '<%- problem_id %>' for all "
+"students. Click the 'Show Task Status' button to see the status of the task."
+msgstr ""
+
+#: lms/static/js/instructor_dashboard/student_admin.js:609
+msgid ""
+"Error starting a task to rescore problem '<%- problem_id %>'. Make sure that"
+" the problem identifier is complete and correct."
+msgstr ""
+
+#. Translators: a "Task" is a background process such as grading students or
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:63
+msgid "Task Type"
+msgstr "任务类型"
+
+#. Translators: a "Task" is a background process such as grading students or
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:72
+msgid "Task inputs"
+msgstr "任务输入"
+
+#. Translators: a "Task" is a background process such as grading students or
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:81
+msgid "Task ID"
+msgstr "任务ID"
+
+#. Translators: a "Requester" is a username that requested a task such as
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:90
+msgid "Requester"
+msgstr "请求者"
+
+#. Translators: A timestamp of when a task (eg, sending email) was submitted
+#. appears after this
+#: lms/static/js/instructor_dashboard/util.js:99
+msgid "Submitted"
+msgstr "已提交"
+
+#. Translators: The length of a task (eg, sending email) in seconds appears
+#. this
+#: lms/static/js/instructor_dashboard/util.js:108
+msgid "Duration (sec)"
+msgstr "持续时间(秒)"
+
+#. Translators: The state (eg, "In progress") of a task (eg, sending email)
+#. appears after this.
+#: lms/static/js/instructor_dashboard/util.js:117
+msgid "State"
+msgstr "状态"
+
+#. Translators: a "Task" is a background process such as grading students or
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:126
+msgid "Task Status"
+msgstr "任务状态"
+
+#. Translators: a "Task" is a background process such as grading students or
+#. sending email
+#: lms/static/js/instructor_dashboard/util.js:135
+msgid "Task Progress"
+msgstr "任务进度"
+
+#: lms/static/js/instructor_dashboard/util.js:150
+msgid ""
+"An error occurred retrieving your email. Please try again later, and contact"
+" technical support if the problem persists."
+msgstr "获取邮件发生错误，请稍后重试。如问题持续发生，请咨询技术支持。"
+
+#: lms/static/js/instructor_dashboard/util.js:199
+msgid "Subject"
+msgstr "标题"
+
+#: lms/static/js/instructor_dashboard/util.js:206
+msgid "Sent By"
+msgstr "发送人"
+
+#: lms/static/js/instructor_dashboard/util.js:214
+msgid "Sent To"
+msgstr "发送给"
+
+#: lms/static/js/instructor_dashboard/util.js:222
+msgid "Time Sent"
+msgstr "发送时间"
+
+#: lms/static/js/instructor_dashboard/util.js:229
+msgid "Number Sent"
+msgstr "发送数目"
+
+#: lms/static/js/instructor_dashboard/util.js:270
+msgid "Copy Email To Editor"
+msgstr "复制邮件至编辑器"
+
+#: lms/static/js/instructor_dashboard/util.js:286
+msgid "Subject:"
+msgstr "标题"
+
+#: lms/static/js/instructor_dashboard/util.js:287
+msgid "Sent By:"
+msgstr "发件人"
+
+#: lms/static/js/instructor_dashboard/util.js:288
+msgid "Time Sent:"
+msgstr "发送时间"
+
+#: lms/static/js/instructor_dashboard/util.js:289
+msgid "Sent To:"
+msgstr "发送至"
+
+#: lms/static/js/instructor_dashboard/util.js:301
+msgid "Message:"
+msgstr "消息："
+
+#: lms/static/js/instructor_dashboard/util.js:388
+msgid "No tasks currently running."
+msgstr "没有正在执行的任务"
+
+#: lms/static/js/instructor_dashboard/util.js:484
+msgid "File Name"
+msgstr "文件名"
+
+#: lms/static/js/instructor_dashboard/util.js:485
+msgid ""
+"Links are generated on demand and expire within 5 minutes due to the "
+"sensitive nature of student information."
+msgstr "由于包含涉及学生的敏感信息，生成的链接将在5分钟后失效。"
+
+#: lms/static/js/learner_dashboard/views/program_details_sidebar_view.js:50
+msgid "{type} Progress"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_details_sidebar_view.js:53
+#: lms/static/js/learner_dashboard/views/program_details_sidebar_view.js:71
+msgid "Earned Certificates"
+msgstr ""
+
+#: lms/static/js/learner_dashboard/views/program_details_view.js:113
+msgid "Enrolled"
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:79
+msgid "Successfully reset the attempts for user {user}"
+msgstr "成功重置用户{user}的请求"
+
+#: lms/static/js/staff_debug_actions.js:80
+msgid "Failed to reset attempts for user."
+msgstr "重置请求失败。"
+
+#: lms/static/js/staff_debug_actions.js:90
+msgid "Successfully deleted student state for user {user}"
+msgstr "成功删除学生{user}的状态"
+
+#: lms/static/js/staff_debug_actions.js:91
+msgid "Failed to delete student state for user."
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:101
+msgid "Successfully rescored problem for user {user}"
+msgstr "成功重评用户 {user}得分"
+
+#: lms/static/js/staff_debug_actions.js:102
+msgid "Failed to rescore problem for user."
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:112
+msgid "Successfully rescored problem to improve score for user {user}"
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:113
+msgid "Failed to rescore problem to improve score for user."
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:123
+msgid "Successfully overrode problem score for {user}"
+msgstr ""
+
+#: lms/static/js/staff_debug_actions.js:124
+msgid "Could not override problem score for {user}."
+msgstr ""
+
+#: lms/static/js/student_account/account.js:47
+msgid "The data could not be saved."
+msgstr "该数据无法保存。"
+
+#: lms/static/js/student_account/account.js:58
+msgid "Please enter a valid email address"
+msgstr "请输入一个有效的电子邮件地址。"
+
+#: lms/static/js/student_account/account.js:61
+msgid "Please enter a valid password"
+msgstr "请输入一个有效的密码。"
+
+#: lms/static/js/student_account/account.js:128
+msgid ""
+"Password reset email sent. Follow the link in the email to change your "
+"password."
+msgstr "密码重置邮件已经发送。请通过点击邮件中的链接更改你的密码。"
+
+#: lms/static/js/student_account/account.js:133
+msgid "We weren't able to send you a password reset email."
+msgstr "密码重置邮件发送失败。"
+
+#: lms/static/js/student_account/account.js:162
+msgid "Please check your email to confirm the change"
+msgstr "请检查您的邮件以确认修改"
+
+#: lms/static/js/student_account/tos_modal.js:47
+msgid "Terms of Service and Honor Code"
+msgstr "服务条款和诚信准则"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:107
+msgid "Saving your email preference"
+msgstr "正在保存您的电子邮件偏好"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:125
+msgid "Enrolling you in the selected course"
+msgstr "将您加入到选定的课程"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:157
+msgid "Adding the selected course to your cart"
+msgstr "正在将您所选的课程添加到您的购物车"
+
+#: lms/static/js/student_account/views/FinishAuthView.js:170
+msgid "Loading your courses"
+msgstr "正在加载您的课程"
+
+#: lms/static/js/student_account/views/FormView.js:19
+#: lms/static/js/student_account/views/RegisterView.js:70
+msgid "An error occurred."
+msgstr "发生了一个错误。"
+
+#. Translators: This string is appended to optional field labels on the
+#. student login, registration, and
+#. profile forms.
+#: lms/static/js/student_account/views/FormView.js:32
+msgid "(optional)"
+msgstr ""
+
+#: lms/static/js/student_account/views/LoginView.js:36
+msgid "We couldn't sign you in."
+msgstr "登录失败。"
+
+#: lms/static/js/student_account/views/LoginView.js:87
+#, javascript-format
+msgid "An error occurred when signing you in to %s."
+msgstr ""
+
+#: lms/static/js/student_account/views/LoginView.js:127
+msgid "Check Your Email"
+msgstr "检查你的电子邮件"
+
+#: lms/static/js/student_account/views/LoginView.js:129
+msgid ""
+"{paragraphStart}You entered {boldStart}{email}{boldEnd}. If this email "
+"address is associated with your {platform_name} account, we will send a "
+"message with password reset instructions to this email "
+"address.{paragraphEnd}{paragraphStart}If you do not receive a password reset"
+" message, verify that you entered the correct email address, or check your "
+"spam folder.{paragraphEnd}{paragraphStart}If you need further assistance, "
+"{anchorStart}contact technical support{anchorEnd}.{paragraphEnd}"
+msgstr ""
+
+#: lms/static/js/student_account/views/LoginView.js:177
+msgid ""
+"An error has occurred. Try refreshing the page, or check your Internet "
+"connection."
+msgstr "发生错误。请尝试刷新页面，或检查您的网络连接情况。"
+
+#: lms/static/js/student_account/views/LoginView.js:209
+msgid ""
+"You have successfully signed into %(currentProvider)s, but your "
+"%(currentProvider)s account does not have a linked %(platformName)s account."
+" To link your accounts, sign in now using your %(platformName)s password."
+msgstr "您已成功登录 %(currentProvider)s，但是您的 %(currentProvider)s 帐户尚无已链接的 %(platformName)s 帐户。要链接到您的账户，请使用您的 %(platformName)s 密码登录。"
+
+#: lms/static/js/student_account/views/RegisterView.js:41
+msgid "We couldn't create your account."
+msgstr "我们无法创建您的账户。"
+
+#: lms/static/js/student_account/views/RegisterView.js:62
+msgid "Create Account"
+msgstr "创建账号"
+
+#: lms/static/js/student_account/views/RegisterView.js:138
+msgid "(required)"
+msgstr ""
+
+#: lms/static/js/student_account/views/RegisterView.js:291
+msgid "You've successfully signed into %(currentProvider)s."
+msgstr "您已成功登录%(currentProvider)s。"
+
+#: lms/static/js/student_account/views/RegisterView.js:293
+msgid ""
+"We just need a little more information before you start learning with "
+"%(platformName)s."
+msgstr "您只需再多提供一点信息就可以开始在%(platformName)s学习了。"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:43
+#: lms/static/js/student_account/views/account_settings_factory.js:56
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:46
+msgid ""
+"The email address you use to sign in. Communications from {platform_name} "
+"and your courses are sent to this address."
+msgstr "用于登录、接收来自 {platform_name} 及您的注册课程信息的电子邮箱。"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:59
+msgid ""
+"The email address you use to sign in. Communications from {platform_name} "
+"and your courses are sent to this address.  To change the email address, "
+"please contact {contact_email}."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:68
+#: lms/static/js/student_account/views/account_settings_factory.js:235
+msgid "Basic Account Information"
+msgstr "基本账户信息"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:69
+msgid "These settings include basic information about your account."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:77
+msgid ""
+"The name that identifies you throughout {platform_name}. You cannot change "
+"your username."
+msgstr "该名称为您在整个 {platform_name}的标识。确认后无法更改您的用户名。"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:85
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:105
+msgid "Full Name"
+msgstr "全名"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:88
+msgid ""
+"The name that is used for ID verification and that appears on your "
+"certificates. Other learners see your full name if you have selected "
+"{bold_start}Full Profile{bold_end} for profile visibility. Make sure to "
+"enter your name exactly as it appears on your photo ID, including any non-"
+"Roman characters."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:101
+msgid "Password"
+msgstr "密码"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:102
+#: lms/static/js/student_account/views/account_settings_factory.js:106
+msgid "Reset Your Password"
+msgstr "重置您的密码"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:109
+msgid ""
+"When you select \"Reset Your Password\", a message will be sent to the email"
+" address for your {platform_name} account. Click the link in the message to "
+"reset your password."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:122
+msgid ""
+"The language used throughout this site. This site is currently available in "
+"a limited number of languages."
+msgstr "整个网站显示的语言。目前仅限于几种语言。"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:133
+msgid "Country or Region of Residence"
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:137
+msgid "The country or region where you live."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:144
+msgid "Time Zone"
+msgstr "时区"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:146
+msgid ""
+"Select the time zone for displaying course dates. If you do not specify a "
+"time zone, course dates, including assignment deadlines, will be displayed "
+"in your browser's local time zone."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:148
+msgid "All Time Zones"
+msgstr "所有时区"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:150
+msgid "Default (Local Time Zone)"
+msgstr "默认 (本地时区)"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:158
+msgid "Additional Information"
+msgstr "其他信息"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:163
+msgid "Education Completed"
+msgstr "教育程度"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:172
+msgid "Gender"
+msgstr "性别"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:181
+msgid "Year of Birth"
+msgstr "出生年份"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:190
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:148
+msgid "Preferred Language"
+msgstr "首选语言"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:202
+msgid "Social Media Links"
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:203
+msgid ""
+"Optionally, link your personal accounts to the social media icons on your "
+"edX profile."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:213
+msgid " Link"
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:216
+msgid "Enter your "
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_factory.js:243
+#: lms/static/js/student_account/views/account_settings_view.js:29
+msgid "Linked Accounts"
+msgstr "关联的帐户"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:245
+msgid ""
+"You can link your social media accounts to simplify signing in to "
+"{platform_name}."
+msgstr "您可以把社交媒体账户与您的edX账户关联来登录{platform_name}。"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:267
+msgid "ORDER NAME"
+msgstr "订单名称"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:268
+msgid "ORDER PLACED"
+msgstr "订单"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:269
+msgid "TOTAL"
+msgstr "总共"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:270
+msgid "ORDER NUMBER"
+msgstr "订单号"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:276
+msgid "My Orders"
+msgstr "我的订单"
+
+#: lms/static/js/student_account/views/account_settings_factory.js:278
+msgid ""
+"This page contains information about orders that you have placed with "
+"{platform_name}."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_fields.js:45
+msgid ""
+"We've sent a confirmation message to {new_email_address}. Click the link in "
+"the message to update your email address."
+msgstr "我们已会发送一个验证讯息至 {new_email_address}。点击讯息中的链接以更新您的电子邮件信箱。"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:71
+msgid ""
+"You must sign out and sign back in before your language changes take effect."
+msgstr "语言设置将在您重新登录后生效"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:192
+msgid ""
+"We've sent a message to {email}. Click the link in the message to reset your"
+" password. Didn't receive the message? Contact {anchorStart}technical "
+"support{anchorEnd}."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_fields.js:275
+msgid "Link your {accountName} account"
+msgstr "关联您的{accountName}帐户"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:279
+msgid "Unlink This Account"
+msgstr "解绑此账户"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:282
+msgid ""
+"You can use your {accountName} account to sign in to your {platformName} "
+"account."
+msgstr "您可以把您的{accountName}账户与您的{platformName}关联来登录。"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:286
+msgid "Unlink your {accountName} account"
+msgstr "解绑您的{accountName}帐户"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:290
+msgid "Link Your Account"
+msgstr "关联您的账户"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:293
+msgid ""
+"Link your {accountName} account to your {platformName} account and use "
+"{accountName} to sign in to {platformName}."
+msgstr ""
+
+#: lms/static/js/student_account/views/account_settings_fields.js:350
+msgid "Unlinking"
+msgstr "解绑中"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:350
+msgid "Linking"
+msgstr "关联中"
+
+#: lms/static/js/student_account/views/account_settings_fields.js:354
+msgid "Successfully unlinked."
+msgstr "解绑成功。"
+
+#: lms/static/js/student_account/views/account_settings_view.js:20
+msgid "Account Information"
+msgstr "帐户信息"
+
+#: lms/static/js/student_account/views/account_settings_view.js:37
+msgid "Order History"
+msgstr "订单记录"
+
+#: lms/static/js/verify_student/views/image_input_view.js:91
+msgid "Image Upload Error"
+msgstr "图片上传错误"
+
+#: lms/static/js/verify_student/views/image_input_view.js:92
+msgid "Please verify that you have uploaded a valid image (PNG and JPEG)."
+msgstr "请验证您已上传了一张有效的图片(PNG或JPEG格式)。"
+
+#: lms/static/js/verify_student/views/incourse_reverify_view.js:83
+#: lms/static/js/verify_student/views/review_photos_step_view.js:71
+msgid "An error has occurred. Please try again later."
+msgstr "发生了一个错误，请稍后重试。"
+
+#: lms/static/js/verify_student/views/incourse_reverify_view.js:93
+#: lms/static/js/verify_student/views/review_photos_step_view.js:81
+msgid "Could not submit photos"
+msgstr "照片提交失败"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:50
+msgid "Professional Education Verified Certificate"
+msgstr "专业教育认证证书"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:52
+msgid "Professional Education"
+msgstr "专业教育"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:55
+msgid "Verified Certificate upgrade"
+msgstr "认证证书升级"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:57
+msgid "Verified Certificate"
+msgstr "认证证书"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:64
+msgid "Checkout"
+msgstr "付款"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:66
+msgid "Checkout with PayPal"
+msgstr "使用PayPal付款"
+
+#. Translators: 'processor' is the name of a third-party payment processing
+#. vendor (example: "PayPal")
+#: lms/static/js/verify_student/views/make_payment_step_view.js:70
+msgid "Checkout with {processor}"
+msgstr "使用{processor}付款"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:124
+msgid "All payment options are currently unavailable."
+msgstr "所有的付款方式目前不可用。"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:125
+msgid "Try the transaction again in a few minutes."
+msgstr "请等待几分钟后再尝试。"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:214
+#: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:7
+#: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmarks_list.js:22
+msgid "An error has occurred. Please try again."
+msgstr "发生了一个未知错误，请重试。"
+
+#: lms/static/js/verify_student/views/make_payment_step_view.js:221
+msgid "Could not submit order"
+msgstr "订单提交失败"
+
+#: lms/static/js/verify_student/views/payment_confirmation_step_view.js:64
+msgid "Could not retrieve payment information"
+msgstr "无法读取支付信息"
+
+#: lms/static/js/verify_student/views/reverify_view.js:48
+msgid "Take a photo of your ID"
+msgstr "拍摄一张您的身份证件的照片"
+
+#: lms/static/js/verify_student/views/reverify_view.js:49
+msgid "Review your info"
+msgstr "审核您的信息"
+
+#: lms/static/js/verify_student/views/step_view.js:51
+msgid "An error has occurred. Please try reloading the page."
+msgstr "发生了一个错误。请重新加载这个页面。"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:103
+msgid "Video Capture Error"
+msgstr "视频捕获失败"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:104
+msgid ""
+"Please verify that your webcam is connected and that you have allowed your "
+"browser to access it."
+msgstr "请检查您的摄像头已连接并且允许浏览器使用它。"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:196
+msgid "No Webcam Detected"
+msgstr "没有检测到摄像头"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:197
+msgid "You don't seem to have a webcam connected."
+msgstr "您似乎没有连接一个摄像头。"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:198
+msgid "Double-check that your webcam is connected and working to continue."
+msgstr "继续前请再次确认您的摄像头已经连接并且可以正常使用。"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:346
+msgid "Photo Captured successfully."
+msgstr "照片获取成功！"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:387
+msgid "No Flash Detected"
+msgstr "没有发现Flash"
+
+#: lms/static/js/verify_student/views/webcam_photo_view.js:388
+msgid ""
+"You don't seem to have Flash installed. Get Flash to continue your "
+"verification."
+msgstr "您似乎并未安装Flash软件。为能继续进行认证，请安装Flash。"
+
+#: lms/static/js/views/fields.js:36
+msgid "Editable"
+msgstr "可编辑"
+
+#: lms/static/js/views/fields.js:46
+msgid "Validation Error"
+msgstr "验证错误"
+
+#: lms/static/js/views/fields.js:51
+msgid "In Progress"
+msgstr "正在进行中"
+
+#: lms/static/js/views/fields.js:61
+msgid "Placeholder"
+msgstr "占位符"
+
+#: lms/static/js/views/file_uploader.js:85
+msgid "Your upload of '{file}' succeeded."
+msgstr "您的文件'{file}'上传成功。"
+
+#: lms/static/js/views/file_uploader.js:110
+msgid "Your upload of '{file}' failed."
+msgstr "您的文件'{file}'上传失败。"
+
+#: lms/static/js/views/image_field.js:15
+msgid "Upload an image"
+msgstr "上传图片"
+
+#: lms/static/js/views/image_field.js:16
+msgid "Change image"
+msgstr "修改图片"
+
+#: lms/static/js/views/image_field.js:29
+msgid "An error has occurred. Refresh the page, and then try again."
+msgstr "发生了一个错误，请刷新页面后重试。"
+
+#: lms/static/js/views/image_field.js:169
+msgid "The file must be at least {size} in size."
+msgstr "文件必须大于 {size}"
+
+#: lms/static/js/views/image_field.js:177
+msgid "The file must be smaller than {size} in size."
+msgstr "文件必须小于 {size} "
+
+#: lms/static/js/views/image_field.js:212
+msgid ""
+"Upload is in progress. To avoid errors, stay on this page until the process "
+"is complete."
+msgstr "正在上传。为避免发生错误，在上传完成前请不要离开本页。"
+
+#: lms/static/js/views/image_field.js:214
+msgid ""
+"Removal is in progress. To avoid errors, stay on this page until the process"
+" is complete."
+msgstr "正在移除。为避免发生错误，在上传完成前请不要离开本页。"
+
+#: lms/static/js/views/image_field.js:219
+msgid "bytes"
+msgstr "字节"
+
+#: lms/static/js/views/image_field.js:219
+msgid "KB"
+msgstr "KB"
+
+#: lms/static/js/views/image_field.js:219
+msgid "MB"
+msgstr "MB"
+
+#: lms/static/lms/js/preview/preview_factory.js:13
+msgid "Course is not yet visible to students."
+msgstr "该课程尚未对学生公开"
+
+#: lms/static/lms/js/preview/preview_factory.js:24
+msgid ""
+"You cannot view the course as a student or beta tester before the course "
+"release date."
+msgstr "在此课程公开之前，您无法以学生或测试者身份查看该课程。"
+
+#: lms/templates/class_dashboard/d3_stacked_bar_graph.js:354
+msgid "%(num_students)s student opened Subsection"
+msgid_plural "%(num_students)s students opened Subsection"
+msgstr[0] "%(num_students)s 个学生已打开分项"
+
+#: lms/templates/class_dashboard/d3_stacked_bar_graph.js:358
+msgid "%(num_students)s student"
+msgid_plural "%(num_students)s students"
+msgstr[0] "%(num_students)s 个学生"
+
+#: lms/templates/class_dashboard/d3_stacked_bar_graph.js:360
+msgid "%(num_questions)s question"
+msgid_plural "%(num_questions)s questions"
+msgstr[0] "%(num_questions)s 个问题"
+
+#: lms/templates/class_dashboard/d3_stacked_bar_graph.js:441
+msgid "Number of Students"
+msgstr "学生数目"
+
+#: lms/templates/courseware/progress_graph.js:290
+msgid "Overall Score"
+msgstr ""
+
+#: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmark_button.js:9
+msgid "Bookmark this page"
+msgstr "收藏此页"
+
+#: openedx/features/course_experience/static/course_experience/js/CourseGoals.js:20
+msgid "Thank you for setting your course goal!"
+msgstr ""
+
+#: openedx/features/course_experience/static/course_experience/js/CourseHome.js:100
+msgid "Show more"
+msgstr ""
+
+#: openedx/features/course_experience/static/course_experience/js/CourseHome.js:121
+msgid "Show less"
+msgstr ""
+
+#: openedx/features/course_search/static/course_search/js/views/search_results_view.js:67
+msgid "{total_results} result"
+msgid_plural "{total_results} results"
+msgstr[0] ""
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:74
+msgid "Profile Visibility:"
+msgstr ""
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:77
+msgid "Limited Profile"
+msgstr "部分资料"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:78
+msgid "Full Profile"
+msgstr "全部资料"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:118
+msgid "Joined"
+msgstr ""
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:121
+msgid "Joined Date"
+msgstr ""
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:130
+msgid "Location"
+msgstr "位置"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:137
+msgid "Add Country"
+msgstr "添加国家"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:152
+msgid "Add language"
+msgstr "添加语言"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:165
+msgid "About me"
+msgstr "个人简介"
+
+#: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:167
+msgid ""
+"Tell other learners a little about yourself: where you live, what your "
+"interests are, why you're taking courses, or what you hope to learn."
+msgstr "向其他用户简单介绍下你自己：如居住地、兴趣爱好、为什么选择这些课程，及你希望学习哪方面的知识"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/badge_list_container.js:23
+msgid "Accomplishments Pagination"
+msgstr "成绩分页"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:33
+msgid "Account Settings page."
+msgstr "账户设置页面。"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:39
+msgid ""
+"You must specify your birth year before you can share your full profile. To "
+"specify your birth year, go to the {account_settings_page_link}"
+msgstr "您必须填写出生年份才能分享完整资料。点击 {account_settings_page_link} 填写"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:46
+msgid ""
+"You must be over 13 to share a full profile. If you are over 13, make sure "
+"that you have specified a birth year on the {account_settings_page_link}"
+msgstr "13岁以上的用户才能分享完整资料。如果您在13岁以上，请确认已在 {account_settings_page_link} 页面中填写了出生年份。"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:65
+msgid "Profile Image"
+msgstr "资料照片"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_fields.js:73
+msgid "Profile image for {username}"
+msgstr "{username} 的头像"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_view.js:69
+msgid "About Me"
+msgstr "个人资料"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_view.js:72
+msgid "Accomplishments"
+msgstr "成绩"
+
+#: openedx/features/learner_profile/static/learner_profile/js/views/learner_profile_view.js:87
+msgid "Profile"
+msgstr "用户资料"
