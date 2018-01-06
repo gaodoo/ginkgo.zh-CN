@@ -66,87 +66,86 @@ msgstr ""
 "Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: cms/static/cms/js/xblock/cms.runtime.v1.js:98
+#: cms/static/cms/js/xblock/cms.runtime.v1.js
 msgid "OpenAssessment Save Error"
 msgstr "开放式评估保存错误"
 
-#: cms/static/js/base.js:72
+#: cms/static/js/base.js
 msgid "This link will open in a new browser window/tab"
 msgstr "该链接将会在新的浏览器窗口／标签打开"
 
-#: cms/static/js/base.js:76
+#: cms/static/js/base.js
 msgid "This link will open in a modal window"
 msgstr "该链接将在一个模式窗口中打开"
 
-#: cms/static/js/certificates/collections/certificates.js:38
+#: cms/static/js/certificates/collections/certificates.js
 msgid "Could not parse certificate JSON. %(message)s"
 msgstr "无法解析证书JSON. %(message)s"
 
-#: cms/static/js/certificates/models/certificate.js:77
+#: cms/static/js/certificates/models/certificate.js
 msgid "Certificate name is required."
 msgstr "证书名必须填写。"
 
-#: cms/static/js/certificates/models/certificate.js:86
+#: cms/static/js/certificates/models/certificate.js
 msgid "Signatory field(s) has invalid data."
 msgstr "印章输入框(s)无效的数据。"
 
-#: cms/static/js/certificates/views/certificate_details.js:45
+#: cms/static/js/certificates/views/certificate_details.js
 msgid "Edit this certificate?"
 msgstr "编辑此证书？"
 
-#: cms/static/js/certificates/views/certificate_details.js:46
+#: cms/static/js/certificates/views/certificate_details.js
 msgid ""
 "This certificate has already been activated and is live. Are you sure you "
 "want to continue editing?"
 msgstr "这个证书已经被激活并且正被使用。您确认要继续编辑么？"
 
-#: cms/static/js/certificates/views/certificate_details.js:47
+#: cms/static/js/certificates/views/certificate_details.js
 msgid "Yes, allow edits to the active Certificate"
 msgstr "是的，允许编辑激活的证书"
 
 #. Translators: This field pertains to the custom label for a certificate.
 #. Translators: this refers to a collection of certificates.
-#: cms/static/js/certificates/views/certificate_item.js:21
-#: cms/static/js/certificates/views/certificates_list.js:16
+#: cms/static/js/certificates/views/certificate_item.js
+#: cms/static/js/certificates/views/certificates_list.js
 msgid "certificate"
 msgstr "证书"
 
-#: cms/static/js/certificates/views/certificates_list.js:18
+#: cms/static/js/certificates/views/certificates_list.js
 msgid "Set up your certificate"
 msgstr "设置您的证书"
 
 #. Translators: This line refers to the initial state of the form when no data
 #. has been inserted
-#: cms/static/js/certificates/views/certificates_list.js:21
+#: cms/static/js/certificates/views/certificates_list.js
 msgid "You have not created any certificates yet."
 msgstr "你还没有创建任何证书。"
 
-#: cms/static/js/certificates/views/signatory_editor.js:133
+#: cms/static/js/certificates/views/signatory_editor.js
 msgid "Delete \"<%= signatoryName %>\" from the list of signatories?"
 msgstr "确定要从签章列表中删除 \"<%= signatoryName %>\" 吗？"
 
-#: cms/static/js/certificates/views/signatory_editor.js:136
-#: cms/static/js/views/course_info_update.js:242
+#: cms/static/js/certificates/views/signatory_editor.js
+#: cms/static/js/views/course_info_update.js
 msgid "This action cannot be undone."
 msgstr "这个动作无法取消。"
 
-#: cms/static/js/certificates/views/signatory_editor.js:142
-#: cms/static/js/views/course_info_update.js:253
-#: cms/static/js/views/list_item.js:62 cms/static/js/views/show_textbook.js:42
-#: cms/static/js/views/tabs.js:173
-#: cms/static/js/views/utils/xblock_utils.js:133
+#: cms/static/js/certificates/views/signatory_editor.js
+#: cms/static/js/views/course_info_update.js cms/static/js/views/list_item.js
+#: cms/static/js/views/show_textbook.js cms/static/js/views/tabs.js
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Deleting"
 msgstr "删除中"
 
-#: cms/static/js/certificates/views/signatory_editor.js:175
+#: cms/static/js/certificates/views/signatory_editor.js
 msgid "Upload signature image."
 msgstr "上传签名图片。"
 
-#: cms/static/js/certificates/views/signatory_editor.js:176
+#: cms/static/js/certificates/views/signatory_editor.js
 msgid "Image must be in PNG format."
 msgstr "图像必须是PNG格式"
 
-#: cms/static/js/collections/group.js:42
+#: cms/static/js/collections/group.js
 #, javascript-format
 msgid "Group %s"
 msgstr "%s组"
@@ -154,404 +153,408 @@ msgstr "%s组"
 #. Translators: Dictionary used for creation ids that are used in
 #. default group names. For example: A, B, AA in Group A,
 #. Group B, ..., Group AA, etc.
-#: cms/static/js/collections/group.js:62
+#: cms/static/js/collections/group.js
 msgid "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 msgstr "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
-#: cms/static/js/factories/export.js:35
+#: cms/static/js/factories/export.js
 msgid "Your export has failed."
 msgstr "您的导出失败了。"
 
-#: cms/static/js/factories/manage_users.js:10
+#: cms/static/js/factories/manage_users.js
 msgid "Already a course team member"
 msgstr "已经是课程团队成员"
 
-#: cms/static/js/factories/manage_users.js:12
+#: cms/static/js/factories/manage_users.js
 msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
 msgstr "您确定要从“{container}”的课程团队中删除{email}？"
 
-#: cms/static/js/factories/manage_users.js:19
-#: cms/static/js/factories/manage_users_lib.js:21
+#: cms/static/js/factories/manage_users.js
+#: cms/static/js/factories/manage_users_lib.js
 msgid "Staff"
 msgstr "教员"
 
-#: cms/static/js/factories/manage_users.js:19
-#: cms/static/js/factories/manage_users_lib.js:22
+#: cms/static/js/factories/manage_users.js
+#: cms/static/js/factories/manage_users_lib.js
 msgid "Admin"
 msgstr "管理员"
 
-#: cms/static/js/factories/manage_users_lib.js:10
+#: cms/static/js/factories/manage_users_lib.js
 msgid "Already a library team member"
 msgstr "已经是知识库团队成员"
 
-#: cms/static/js/factories/manage_users_lib.js:12
+#: cms/static/js/factories/manage_users_lib.js
 msgid ""
 "Are you sure you want to delete {email} from the library “{container}”?"
 msgstr "您确定要从知识库“{container}”中删除{email}？"
 
-#: cms/static/js/factories/manage_users_lib.js:20
+#: cms/static/js/factories/manage_users_lib.js
 msgid "Library User"
 msgstr "知识库用户"
 
-#: cms/static/js/factories/settings_advanced.js:32
+#: cms/static/js/factories/settings_advanced.js
 msgid "Hide Deprecated Settings"
 msgstr "隐藏已过时的设置"
 
-#: cms/static/js/factories/settings_advanced.js:37
+#: cms/static/js/factories/settings_advanced.js
 msgid "Show Deprecated Settings"
 msgstr "显示已过时的设置"
 
-#: cms/static/js/factories/textbooks.js:16
-#: cms/static/js/views/pages/group_configurations.js:83
+#: cms/static/js/factories/textbooks.js
+#: cms/static/js/views/pages/group_configurations.js
 msgid "You have unsaved changes. Do you really want to leave this page?"
 msgstr "您尚有未保存的修改，确定要离此页面吗？"
 
-#: cms/static/js/maintenance/force_publish_course.js:71
+#: cms/static/js/maintenance/force_publish_course.js
 msgid "Internal Server Error."
 msgstr "内部服务器错误"
 
 #. Translators: This is the status of a video upload that is queued
 #. waiting for other uploads to complete
-#: cms/static/js/models/active_video_upload.js:9
+#: cms/static/js/models/active_video_upload.js
 msgid "Queued"
 msgstr "已排队"
 
 #. Translators: This is the status of a video upload that has
 #. completed successfully
-#: cms/static/js/models/active_video_upload.js:14
+#: cms/static/js/models/active_video_upload.js
 msgid "Upload completed"
 msgstr "上传完成"
 
 #. Translators: This is the status of a video upload that has failed
-#: cms/static/js/models/active_video_upload.js:16
+#: cms/static/js/models/active_video_upload.js
 msgid "Upload failed"
 msgstr "上传失败"
 
-#: cms/static/js/models/chapter.js:35
+#: cms/static/js/models/chapter.js
 msgid "Chapter name and asset_path are both required"
 msgstr "章节名和asset_path都必填"
 
-#: cms/static/js/models/chapter.js:40
+#: cms/static/js/models/chapter.js
 msgid "Chapter name is required"
 msgstr "章节名称必填"
 
-#: cms/static/js/models/chapter.js:45
+#: cms/static/js/models/chapter.js
 msgid "asset_path is required"
 msgstr "asset_path必填"
 
-#: cms/static/js/models/course.js:8 cms/static/js/models/section.js:9
+#: cms/static/js/models/course.js cms/static/js/models/section.js
 msgid "You must specify a name"
 msgstr "您必须指定一个名称"
 
-#: cms/static/js/models/course_update.js:14
+#: cms/static/js/models/course_update.js
 msgid "Action required: Enter a valid date."
 msgstr "需要采取的行动：输入一个有效的日期"
 
-#: cms/static/js/models/group.js:40
+#: cms/static/js/models/group.js
 msgid "Group name is required"
 msgstr "组名称是必需的"
 
-#: cms/static/js/models/group_configuration.js:16
+#: cms/static/js/models/group_configuration.js
 msgid "Group A"
 msgstr "A 组"
 
-#: cms/static/js/models/group_configuration.js:20
+#: cms/static/js/models/group_configuration.js
 msgid "Group B"
 msgstr "B 组"
 
-#: cms/static/js/models/group_configuration.js:88
+#: cms/static/js/models/group_configuration.js
 msgid "Group Configuration name is required."
 msgstr "组配置名称是必需的。"
 
-#: cms/static/js/models/group_configuration.js:95
+#: cms/static/js/models/group_configuration.js
 msgid "There must be at least one group."
 msgstr "必须至少有一个组。"
 
-#: cms/static/js/models/group_configuration.js:112
+#: cms/static/js/models/group_configuration.js
 msgid "All groups must have a name."
 msgstr "所有组都必须有名称。"
 
-#: cms/static/js/models/group_configuration.js:120
+#: cms/static/js/models/group_configuration.js
 msgid "All groups must have a unique name."
 msgstr "所有的组的名字必须是唯一的。"
 
-#: cms/static/js/models/settings/course_details.js:48
+#: cms/static/js/models/settings/course_details.js
 msgid "The course must have an assigned start date."
 msgstr "课程必须指定开始日期。"
 
-#: cms/static/js/models/settings/course_details.js:52
+#: cms/static/js/models/settings/course_details.js
 msgid "The course end date must be later than the course start date."
 msgstr "课程的结束日期必须晚于课程的开始日期。"
 
-#: cms/static/js/models/settings/course_details.js:55
+#: cms/static/js/models/settings/course_details.js
 msgid "The course start date must be later than the enrollment start date."
 msgstr "课程的开始日期必须晚于课程的注册日期。"
 
-#: cms/static/js/models/settings/course_details.js:58
+#: cms/static/js/models/settings/course_details.js
 msgid "The enrollment start date cannot be after the enrollment end date."
 msgstr "选课开始日期应该早于选课截止日期。"
 
-#: cms/static/js/models/settings/course_details.js:61
+#: cms/static/js/models/settings/course_details.js
 msgid "The enrollment end date cannot be after the course end date."
 msgstr "选课截止日期应在课程结束日期之前。"
 
-#: cms/static/js/models/settings/course_details.js:66
+#: cms/static/js/models/settings/course_details.js
 msgid "The certificate available date must be later than the course end date."
-msgstr ""
+msgstr "可用日期必须晚于课程结束日期"
 
-#: cms/static/js/models/settings/course_details.js:71
+#: cms/static/js/models/settings/course_details.js
 msgid "Key should only contain letters, numbers, _, or -"
 msgstr "关键字只能包含字母、数字、下划线和连字符。"
 
-#: cms/static/js/models/settings/course_details.js:81
+#: cms/static/js/models/settings/course_details.js
 msgid "Please enter an integer between %(min)s and %(max)s."
 msgstr "请输入一个 %(min)s 到 %(max)s 之间的整数。"
 
-#: cms/static/js/models/settings/course_grader.js:27
+#: cms/static/js/models/settings/course_grader.js
 msgid "The assignment type must have a name."
-msgstr ""
+msgstr "这个任务类型必须有一个名称。"
 
-#: cms/static/js/models/settings/course_grader.js:33
+#: cms/static/js/models/settings/course_grader.js
 msgid "There's already another assignment type with this name."
 msgstr "已经有另一个作业类型使用了这个名字。"
 
-#: cms/static/js/models/settings/course_grader.js:40
+#: cms/static/js/models/settings/course_grader.js
 msgid "Please enter an integer between 0 and 100."
 msgstr "请输入一个0到100之间的整数。"
 
-#: cms/static/js/models/settings/course_grader.js:55
+#: cms/static/js/models/settings/course_grader.js
 msgid "Please enter an integer greater than 0."
 msgstr "请输入一个大于0的整数。"
 
-#: cms/static/js/models/settings/course_grader.js:63
+#: cms/static/js/models/settings/course_grader.js
 msgid "Please enter non-negative integer."
 msgstr "请输入非负整数。"
 
-#: cms/static/js/models/settings/course_grader.js:69
+#: cms/static/js/models/settings/course_grader.js
 msgid "Cannot drop more <%= types %> assignments than are assigned."
 msgstr "不能删除更多的 <%= types %> 以至于超过分配的数量"
 
-#: cms/static/js/models/settings/course_grading_policy.js:74
+#: cms/static/js/models/settings/course_grading_policy.js
 msgid "Grace period must be specified in HH:MM format."
 msgstr "宽限时间必须以 HH:MM 格式设定。"
 
-#: cms/static/js/models/settings/course_grading_policy.js:84
+#: cms/static/js/models/settings/course_grading_policy.js
 msgid "Not able to set passing grade to less than %(minimum_grade_cutoff)s%."
 msgstr "及格分数不能低于%(minimum_grade_cutoff)s%。"
 
-#: cms/static/js/models/textbook.js:62
+#: cms/static/js/models/textbook.js
 msgid "Textbook name is required"
 msgstr "教科书名必填"
 
-#: cms/static/js/models/textbook.js:68
+#: cms/static/js/models/textbook.js
 msgid "Please add at least one chapter"
 msgstr "至少添加一个章节"
 
-#: cms/static/js/models/textbook.js:81
+#: cms/static/js/models/textbook.js
 msgid "All chapters must have a name and asset"
 msgstr "所有章节都必须起名并有资源"
 
-#: cms/static/js/models/uploads.js:17
+#: cms/static/js/models/uploads.js
 msgid ""
 "Only <%= fileTypes %> files can be uploaded. Please select a file ending in "
 "<%= fileExtensions %> to upload."
 msgstr "只有 <%= fileTypes %> 格式的文件可以上传。请选择一个以 <%= fileExtensions %> 结尾的文件上传。"
 
-#: cms/static/js/models/uploads.js:63
+#: cms/static/js/models/uploads.js
 msgid "or"
 msgstr "或者"
 
-#: cms/static/js/models/xblock_validation.js:23
+#: cms/static/js/models/xblock_validation.js
 msgid "This unit has validation issues."
-msgstr ""
+msgstr "这个单元有验证问题。"
 
-#: cms/static/js/models/xblock_validation.js:25
+#: cms/static/js/models/xblock_validation.js
 msgid "This component has validation issues."
 msgstr "该组件存在验证问题。"
 
-#: cms/static/js/views/active_video_upload.js:41
-#: cms/static/js/views/assets.js:210
+#: cms/static/js/views/active_video_upload.js cms/static/js/views/assets.js
 msgid "Your file could not be uploaded"
 msgstr "您的文件无法上传。"
 
-#: cms/static/js/views/active_video_upload_list.js:26
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Upload Videos"
-msgstr ""
+msgstr "上传视频"
 
-#: cms/static/js/views/active_video_upload_list.js:28
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Drag and drop or {spanStart}browse your computer{spanEnd}."
-msgstr ""
+msgstr "拖拽或{spanStart}浏览您的电脑{spanEnd}。"
 
-#: cms/static/js/views/active_video_upload_list.js:51
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Maximum file size: {maxFileSize} GB"
-msgstr ""
+msgstr "最大文件大小:{maxFileSize} GB"
 
-#: cms/static/js/views/active_video_upload_list.js:57
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Supported file types: {supportedVideoTypes}"
-msgstr ""
+msgstr "支持的文件类型:{supportedVideoTypes}"
 
-#: cms/static/js/views/active_video_upload_list.js:119
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Your video uploads are not complete."
 msgstr "您的视频还没有上传完成。"
 
-#: cms/static/js/views/active_video_upload_list.js:260
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Upload completed for video {fileName}"
-msgstr ""
+msgstr "视频上传完成{fileName}"
 
-#: cms/static/js/views/active_video_upload_list.js:294
-#: cms/static/js/views/active_video_upload_list.js:318
+#: cms/static/js/views/active_video_upload_list.js
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Upload failed for video {fileName}"
 msgstr "视频{fileName}上传失败"
 
-#: cms/static/js/views/active_video_upload_list.js:347
+#: cms/static/js/views/active_video_upload_list.js
 msgid ""
 "{filename} is not in a supported file format. Supported file formats are "
 "{supportedFileFormats}."
-msgstr ""
+msgstr "{filename}不是在一个受支持的文件格式中。支持文件格式{supportedFileFormats}."
 
-#: cms/static/js/views/active_video_upload_list.js:354
+#: cms/static/js/views/active_video_upload_list.js
 msgid "{filename} exceeds maximum size of {maxFileSizeInGB} GB."
-msgstr ""
+msgstr "{filename}超过最大大小的{maxFileSizeInGB} GB."
 
-#: cms/static/js/views/active_video_upload_list.js:389
+#: cms/static/js/views/active_video_upload_list.js
 msgid ": video upload complete."
-msgstr ""
+msgstr "视频上传完成。"
 
-#: cms/static/js/views/active_video_upload_list.js:398
+#: cms/static/js/views/active_video_upload_list.js
 msgid "Previous Uploads table has been updated."
-msgstr ""
+msgstr "之前的上传表已经更新。"
 
-#: cms/static/js/views/asset.js:50
+#: cms/static/js/views/asset.js
 msgid "Delete File Confirmation"
 msgstr "删除文件确认"
 
-#: cms/static/js/views/asset.js:51
+#: cms/static/js/views/asset.js
 msgid ""
 "Are you sure you wish to delete this item. It cannot be reversed!\n"
 "\n"
 "Also any content that links/refers to this item will no longer work (e.g. broken images and/or links)"
-msgstr "删除的项目不能恢复！您确定要删除这个项目吗?\n\n\n与这个项目相关的一切信息（如相应的图片和链接）都会丢失。"
+msgstr ""
+"删除的项目不能恢复！您确定要删除这个项目吗?\n"
+"\n"
+"\n"
+"与这个项目相关的一切信息（如相应的图片和链接）都会丢失。"
 
-#: cms/static/js/views/asset.js:61
+#: cms/static/js/views/asset.js
 msgid "Your file has been deleted."
 msgstr "您的文件已经被删除"
 
-#: cms/static/js/views/assets.js:111
+#: cms/static/js/views/assets.js
 msgid "Date Added"
 msgstr "添加日期"
 
-#: cms/static/js/views/assets.js:112
+#: cms/static/js/views/assets.js
 msgid "Type"
 msgstr "类型"
 
-#: cms/static/js/views/assets.js:197
+#: cms/static/js/views/assets.js
 msgid "File {filename} exceeds maximum size of {maxFileSizeInMBs} MB"
 msgstr "文件 {filename} 的大小超过了 {maxFileSizeInMBs} MB 的限制"
 
-#: cms/static/js/views/assets.js:204
+#: cms/static/js/views/assets.js
 msgid ""
 "Please follow the instructions here to upload a file elsewhere and link to "
 "it: {maxFileSizeRedirectUrl}"
 msgstr "请按照这里（{maxFileSizeRedirectUrl}）的说明上传文件到别处后链接到该文件。"
 
-#: cms/static/js/views/assets.js:216
+#: cms/static/js/views/assets.js
 msgid "Max file size exceeded"
 msgstr "文件大小超出限制"
 
-#: cms/static/js/views/assets.js:335 cms/static/js/views/assets.js:349
+#: cms/static/js/views/assets.js cms/static/js/views/assets.js
 msgid "Upload New File"
 msgstr "上传新文件"
 
-#: cms/static/js/views/assets.js:340 cms/static/js/views/assets.js:354
+#: cms/static/js/views/assets.js cms/static/js/views/assets.js
 msgid "Load Another File"
 msgstr "加载其他文件"
 
-#: cms/static/js/views/components/add_xblock.js:66
-#: cms/static/js/views/utils/xblock_utils.js:51
+#: cms/static/js/views/components/add_xblock.js
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Adding"
 msgstr "正在添加"
 
-#: cms/static/js/views/course_info_update.js:241
+#: cms/static/js/views/course_info_update.js
 msgid "Are you sure you want to delete this update?"
 msgstr "您确定要删除此更新吗？"
 
-#: cms/static/js/views/course_rerun.js:47
+#: cms/static/js/views/course_rerun.js
 msgid "Create Re-run"
 msgstr "创建重启"
 
-#: cms/static/js/views/course_rerun.js:53
+#: cms/static/js/views/course_rerun.js
 msgid "Processing Re-run Request"
 msgstr "正在处理重启请求"
 
-#: cms/static/js/views/edit_chapter.js:62
+#: cms/static/js/views/edit_chapter.js
 msgid "Upload a new PDF to “<%= name %>”"
 msgstr "上传一个新的PDF文件至“<%= name %>”"
 
-#: cms/static/js/views/edit_chapter.js:64
+#: cms/static/js/views/edit_chapter.js
 msgid "Please select a PDF file to upload."
 msgstr "请选择上传一个PDF文件。"
 
-#: cms/static/js/views/export.js:312
+#: cms/static/js/views/export.js
 msgid "There has been an error while exporting."
 msgstr "导出时出错了。"
 
-#: cms/static/js/views/export.js:313
+#: cms/static/js/views/export.js
 msgid ""
 "There has been a failure to export to XML at least one component. It is "
 "recommended that you go to the edit page and repair the error before "
 "attempting another export. Please check that all components on the page are "
 "valid and do not display any error messages."
-msgstr "至少有一个组件在导出到XML时失败了。在尝试重新导出之前，建议您先去编辑页面并修复错误。请检查并确认这个页面上的所有的组件都有效，而且没有显示任何错误信息。"
+msgstr ""
+"至少有一个组件在导出到XML时失败了。在尝试重新导出之前，建议您先去编辑页面并修复错误。请检查并确认这个页面上的所有的组件都有效，而且没有显示任何错误信息。"
 
-#: cms/static/js/views/export.js:320
+#: cms/static/js/views/export.js
 msgid "Correct failed component"
 msgstr "纠正失败的组件"
 
-#: cms/static/js/views/export.js:327
+#: cms/static/js/views/export.js
 msgid "Return to Export"
 msgstr "返回至导出页面"
 
-#: cms/static/js/views/export.js:336
+#: cms/static/js/views/export.js
 msgid ""
 "Your library could not be exported to XML. There is not enough information "
 "to identify the failed component. Inspect your library to identify any "
 "problematic components and try again."
 msgstr "您的知识库无法导出至XML。暂时没有足够的信息来定位失败的组件，请检查您的知识库以定位任何可能有问题的组件，然后重试。"
 
-#: cms/static/js/views/export.js:339
+#: cms/static/js/views/export.js
 msgid "Take me to the main library page"
 msgstr "跳转至知识库主页"
 
-#: cms/static/js/views/export.js:341
+#: cms/static/js/views/export.js
 msgid ""
 "Your course could not be exported to XML. There is not enough information to"
 " identify the failed component. Inspect your course to identify any "
 "problematic components and try again."
 msgstr "您的课程无法导出至XML。暂时没有足够的信息来定位失败的组件，请检查您的课程以定位任何可能有问题的组件，然后重试。"
 
-#: cms/static/js/views/export.js:344
+#: cms/static/js/views/export.js
 msgid "Take me to the main course page"
 msgstr "跳转至课程主页"
 
-#: cms/static/js/views/export.js:346
+#: cms/static/js/views/export.js
 msgid "The raw error message is:"
 msgstr "原始的错误信息是："
 
-#: cms/static/js/views/export.js:348
+#: cms/static/js/views/export.js
 msgid "There has been an error with your export."
 msgstr "导出时发生了错误。"
 
 #. Translators: 'count' is number of groups that the group
 #. configuration contains.
-#: cms/static/js/views/group_configuration_details.js:70
+#: cms/static/js/views/group_configuration_details.js
 msgid "Contains {count} group"
 msgid_plural "Contains {count} groups"
 msgstr[0] "包含 {count} 组"
 
-#: cms/static/js/views/group_configuration_details.js:81
-#: cms/static/js/views/partition_group_details.js:66
+#: cms/static/js/views/group_configuration_details.js
+#: cms/static/js/views/partition_group_details.js
 msgid "Not in Use"
 msgstr "未使用"
 
@@ -559,92 +562,91 @@ msgstr "未使用"
 #. configuration is used in.
 #. Translators: 'count' is number of locations that the group
 #. configuration is used in.
-#: cms/static/js/views/group_configuration_details.js:89
-#: cms/static/js/views/partition_group_details.js:74
+#: cms/static/js/views/group_configuration_details.js
+#: cms/static/js/views/partition_group_details.js
 msgid "Used in {count} location"
 msgid_plural "Used in {count} locations"
 msgstr[0] ""
 
 #. Translators: this refers to a collection of groups.
-#: cms/static/js/views/group_configuration_item.js:26
-#: cms/static/js/views/group_configurations_list.js:18
+#: cms/static/js/views/group_configuration_item.js
+#: cms/static/js/views/group_configurations_list.js
 msgid "group configuration"
 msgstr "组配置"
 
-#: cms/static/js/views/group_configurations_list.js:20
+#: cms/static/js/views/group_configurations_list.js
 msgid "Add your first group configuration"
 msgstr "添加您的第一个组配置"
 
-#: cms/static/js/views/group_configurations_list.js:22
+#: cms/static/js/views/group_configurations_list.js
 msgid "You have not created any group configurations yet."
 msgstr "您还没有创建任何组配置。"
 
-#: cms/static/js/views/instructor_info.js:74
+#: cms/static/js/views/instructor_info.js
 msgid "Upload instructor image."
 msgstr "上传教师的照片"
 
-#: cms/static/js/views/instructor_info.js:75
-#: cms/static/js/views/settings/main.js:440
+#: cms/static/js/views/instructor_info.js cms/static/js/views/settings/main.js
 msgid "Files must be in JPEG or PNG format."
 msgstr "文件必须是JPEG或者PNG格式。"
 
-#: cms/static/js/views/license.js:8
+#: cms/static/js/views/license.js
 msgid "All Rights Reserved"
 msgstr "保留所有权利"
 
-#: cms/static/js/views/license.js:9
+#: cms/static/js/views/license.js
 msgid "You reserve all rights for your work"
 msgstr "您对您所作出的贡献保留所有权利"
 
-#: cms/static/js/views/license.js:12
+#: cms/static/js/views/license.js
 msgid "Creative Commons"
 msgstr "知识共享"
 
-#: cms/static/js/views/license.js:13
+#: cms/static/js/views/license.js
 msgid "You waive some rights for your work, such that others can use it too"
 msgstr "您需要对您所做的贡献放弃某些权利，例如别人也可以使用您的成果"
 
-#: cms/static/js/views/license.js:17
+#: cms/static/js/views/license.js
 msgid "Version"
 msgstr "版本"
 
-#: cms/static/js/views/license.js:22
+#: cms/static/js/views/license.js
 msgid "Attribution"
 msgstr "署名"
 
-#: cms/static/js/views/license.js:25
+#: cms/static/js/views/license.js
 msgid ""
 "Allow others to copy, distribute, display and perform your copyrighted work "
 "but only if they give credit the way you request. Currently, this option is "
 "required."
 msgstr "按照您指定的方式获取许可，允许其他人复制、发行、展览、表演、放映您的版权作品。当前，该选项是必选的"
 
-#: cms/static/js/views/license.js:29
+#: cms/static/js/views/license.js
 msgid "Noncommercial"
 msgstr "非商业的"
 
-#: cms/static/js/views/license.js:32
+#: cms/static/js/views/license.js
 msgid ""
 "Allow others to copy, distribute, display and perform your work - and "
 "derivative works based upon it - but for noncommercial purposes only."
 msgstr "允许其他人自由复制、散布、展示及演出本作品-以及基于本作品的相关衍生作品；但不得为商业目的。"
 
-#: cms/static/js/views/license.js:35
+#: cms/static/js/views/license.js
 msgid "No Derivatives"
 msgstr "无相关派生"
 
-#: cms/static/js/views/license.js:38
+#: cms/static/js/views/license.js
 msgid ""
 "Allow others to copy, distribute, display and perform only verbatim copies "
 "of your work, not derivative works based upon it. This option is "
 "incompatible with \"Share Alike\"."
 msgstr "允许他人自由复制、发布、展示及演出本作品，但不得改变、转变或更改本作品，以及基于本作品的衍生作品。该选项与“相同方式共享”是冲突的"
 
-#: cms/static/js/views/license.js:42
+#: cms/static/js/views/license.js
 msgid "Share Alike"
 msgstr "相同方式共享"
 
-#: cms/static/js/views/license.js:45
+#: cms/static/js/views/license.js
 msgid ""
 "Allow others to distribute derivative works only under a license identical "
 "to the license that governs your work. This option is incompatible with \"No"
@@ -652,248 +654,250 @@ msgid ""
 msgstr "在遵守与本作品相同的授权条款下，允许他人改变、转变或更改本作品。该选项与“禁止改作”冲突"
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
-#: cms/static/js/views/list_item.js:50
+#: cms/static/js/views/list_item.js
 msgid "Delete this %(item_display_name)s?"
 msgstr "要删除该%(item_display_name)s吗？"
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
-#: cms/static/js/views/list_item.js:55
+#: cms/static/js/views/list_item.js
 msgid "Deleting this %(item_display_name)s is permanent and cannot be undone."
 msgstr "将永久删除该%(item_display_name)s，无法撤销。"
 
-#: cms/static/js/views/manage_users_and_roles.js:11
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "There was an error changing the user's role"
 msgstr "更改用户角色过程中出现错误"
 
-#: cms/static/js/views/manage_users_and_roles.js:15
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Error adding user"
 msgstr "添加用户过程中出现错误"
 
-#: cms/static/js/views/manage_users_and_roles.js:16
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Error removing user"
 msgstr "删除用户过程中出现错误"
 
-#: cms/static/js/views/manage_users_and_roles.js:19
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "A valid email address is required"
 msgstr "需要一个有效的电子邮件地址"
 
-#: cms/static/js/views/manage_users_and_roles.js:20
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "You must enter a valid email address in order to add a new team member"
 msgstr "您必须输入一个有效的电子邮件地址以便添加一个新的团队成员"
 
-#: cms/static/js/views/manage_users_and_roles.js:21
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Return and add email address"
 msgstr "返回并添加电子邮件地址"
 
-#: cms/static/js/views/manage_users_and_roles.js:24
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Already a member"
 msgstr "已经是成员了"
 
-#: cms/static/js/views/manage_users_and_roles.js:25
+#: cms/static/js/views/manage_users_and_roles.js
 msgid ""
 "{email} is already on the {container} team. Recheck the email address if you"
 " want to add a new member."
 msgstr "{email}已在{container}团队中。如果您想添加新成员，请再次检查电子邮件地址。"
 
-#: cms/static/js/views/manage_users_and_roles.js:26
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Return to team listing"
 msgstr "返回团队列表"
 
-#: cms/static/js/views/manage_users_and_roles.js:29
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Are you sure?"
 msgstr "您确定吗？"
 
-#: cms/static/js/views/manage_users_and_roles.js:30
+#: cms/static/js/views/manage_users_and_roles.js
 msgid "Are you sure you want to restrict {email} access to “{container}”?"
 msgstr "您确定要限制{email}对“{container}”的访问？"
 
-#: cms/static/js/views/modals/course_outline_modals.js:111
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "{display_name} Settings"
 msgstr "{display_name} 设置"
 
-#: cms/static/js/views/modals/course_outline_modals.js:191
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "Publish {display_name}"
 msgstr "发布 {display_name}"
 
-#: cms/static/js/views/modals/course_outline_modals.js:198
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "Publish all unpublished changes for this {item}?"
-msgstr ""
+msgstr "发布所有未发布的更改对于这个{item}？"
 
-#: cms/static/js/views/modals/course_outline_modals.js:204
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "Publish"
 msgstr "发布"
 
-#: cms/static/js/views/modals/course_outline_modals.js:650
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "All Learners and Staff"
-msgstr ""
+msgstr "所有的学习者和工作人员"
 
-#: cms/static/js/views/modals/course_outline_modals.js:870
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "Basic"
 msgstr "基本"
 
-#: cms/static/js/views/modals/course_outline_modals.js:875
+#: cms/static/js/views/modals/course_outline_modals.js
 msgid "Visibility"
 msgstr "可见性"
 
 #. Translators: "title" is the name of the current component being edited.
-#: cms/static/js/views/modals/edit_xblock.js:22
+#: cms/static/js/views/modals/edit_xblock.js
 msgid "Editing: %(title)s"
 msgstr "编辑：%(title)s"
 
-#: cms/static/js/views/modals/edit_xblock.js:123
+#: cms/static/js/views/modals/edit_xblock.js
 msgid "Unit"
 msgstr "单元"
 
-#: cms/static/js/views/modals/edit_xblock.js:125
+#: cms/static/js/views/modals/edit_xblock.js
 msgid "Component"
 msgstr "组件"
 
-#: cms/static/js/views/modals/move_xblock_modal.js:37
+#: cms/static/js/views/modals/move_xblock_modal.js
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
-#: cms/static/js/views/modals/move_xblock_modal.js:38
+#: cms/static/js/views/modals/move_xblock_modal.js
 msgid "Choose a location to move your component to"
-msgstr ""
+msgstr "选择一个位置来移动您的组件"
 
-#: cms/static/js/views/modals/move_xblock_modal.js:66
+#: cms/static/js/views/modals/move_xblock_modal.js
 msgid "Move: {displayName}"
-msgstr ""
+msgstr "移动:{displayName}"
 
-#: cms/static/js/views/modals/validation_error_modal.js:16
+#: cms/static/js/views/modals/validation_error_modal.js
 msgid "Validation Error While Saving"
 msgstr "在保存过程中出现验证错误"
 
-#: cms/static/js/views/modals/validation_error_modal.js:21
+#: cms/static/js/views/modals/validation_error_modal.js
 msgid "Undo Changes"
 msgstr "撤销更改"
 
-#: cms/static/js/views/modals/validation_error_modal.js:22
+#: cms/static/js/views/modals/validation_error_modal.js
 msgid "Change Manually"
 msgstr "手动更改"
 
-#: cms/static/js/views/move_xblock_list.js:33
+#: cms/static/js/views/move_xblock_list.js
 msgid "Sections"
 msgstr "章节"
 
-#: cms/static/js/views/move_xblock_list.js:34
+#: cms/static/js/views/move_xblock_list.js
 msgid "Subsections"
-msgstr ""
+msgstr "分段"
 
-#: cms/static/js/views/move_xblock_list.js:35
+#: cms/static/js/views/move_xblock_list.js
 msgid "Units"
 msgstr "单元"
 
-#: cms/static/js/views/move_xblock_list.js:36
+#: cms/static/js/views/move_xblock_list.js
 msgid "Components"
-msgstr ""
+msgstr "组件"
 
-#: cms/static/js/views/move_xblock_list.js:37
+#: cms/static/js/views/move_xblock_list.js
 msgid "Groups"
 msgstr "组"
 
-#: cms/static/js/views/move_xblock_list.js:179
+#: cms/static/js/views/move_xblock_list.js
 msgid "This {parentCategory} has no {childCategory}"
-msgstr ""
+msgstr "这个{parentCategory}没有{childCategory}"
 
-#: cms/static/js/views/move_xblock_list.js:196
+#: cms/static/js/views/move_xblock_list.js
 msgid "Course Outline"
 msgstr "课程大纲"
 
-#: cms/static/js/views/paged_container.js:256
+#: cms/static/js/views/paged_container.js
 msgid "Date added"
 msgstr "添加日期"
 
 #. Translators: "title" is the name of the current component or unit being
 #. edited.
-#: cms/static/js/views/pages/container.js:200
+#: cms/static/js/views/pages/container.js
 msgid "Editing access for: %(title)s"
-msgstr ""
+msgstr "编辑访问:%(title)s"
 
-#: cms/static/js/views/pages/container_subviews.js:165
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Publishing"
 msgstr "正在发布"
 
-#: cms/static/js/views/pages/container_subviews.js:182
-#: cms/static/js/views/pages/container_subviews.js:184
+#: cms/static/js/views/pages/container_subviews.js
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Discard Changes"
 msgstr "放弃更改"
 
-#: cms/static/js/views/pages/container_subviews.js:183
+#: cms/static/js/views/pages/container_subviews.js
 msgid ""
 "Are you sure you want to revert to the last published version of the unit? "
 "You cannot undo this action."
 msgstr "您确定要恢复到该单元的上次发布版本？您无法撤消此操作。"
 
-#: cms/static/js/views/pages/container_subviews.js:186
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Discarding Changes"
 msgstr "正在放弃更改"
 
-#: cms/static/js/views/pages/container_subviews.js:231
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Hiding from Students"
 msgstr "对学生隐藏"
 
-#: cms/static/js/views/pages/container_subviews.js:234
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Explicitly Hiding from Students"
 msgstr "明确对学生隐藏"
 
-#: cms/static/js/views/pages/container_subviews.js:237
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Inheriting Student Visibility"
 msgstr "继承学生可见性"
 
-#: cms/static/js/views/pages/container_subviews.js:240
-#: cms/static/js/views/pages/container_subviews.js:242
+#: cms/static/js/views/pages/container_subviews.js
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Make Visible to Students"
 msgstr "对学生可见"
 
-#: cms/static/js/views/pages/container_subviews.js:241
+#: cms/static/js/views/pages/container_subviews.js
 msgid ""
 "If the unit was previously published and released to students, any changes "
 "you made to the unit when it was hidden will now be visible to students. Do "
 "you want to proceed?"
 msgstr "如果此单元先前已被发布且向学生公开，任何在该单元处于隐藏时的改动都将对学生可见。您要继续吗？"
 
-#: cms/static/js/views/pages/container_subviews.js:244
+#: cms/static/js/views/pages/container_subviews.js
 msgid "Making Visible to Students"
 msgstr "正在对学生可见"
 
-#: cms/static/js/views/pages/course_outline.js:132
+#: cms/static/js/views/pages/course_outline.js
 msgid "Course Index"
 msgstr "课程索引"
 
-#: cms/static/js/views/pages/course_outline.js:140
+#: cms/static/js/views/pages/course_outline.js
 msgid "There were errors reindexing course."
 msgstr "重建课程索引时出错了。"
 
-#: cms/static/js/views/pages/paged_container.js:45
+#: cms/static/js/views/pages/paged_container.js
 msgid "Hide Previews"
 msgstr "隐藏预览"
 
-#: cms/static/js/views/pages/paged_container.js:45
+#: cms/static/js/views/pages/paged_container.js
 msgid "Show Previews"
 msgstr "显示预览"
 
 #. Translators: sample result:
 #. "Showing 0-9 out of 25 total, filtered by Images, sorted by Date Added
 #. ascending"
-#: cms/static/js/views/paging_header.js:52
+#: cms/static/js/views/paging_header.js
 msgid ""
 "Showing {currentItemRange} out of {totalItemsCount}, filtered by "
 "{assetType}, sorted by {sortName} ascending"
-msgstr "展示 {currentItemRange} 了 {totalItemsCount}，{assetType} 按筛选按 {sortName} 升序排序"
+msgstr ""
+"展示 {currentItemRange} 了 {totalItemsCount}，{assetType} 按筛选按 {sortName} 升序排序"
 
 #. Translators: sample result:
 #. "Showing 0-9 out of 25 total, filtered by Images, sorted by Date Added
 #. descending"
-#: cms/static/js/views/paging_header.js:56
+#: cms/static/js/views/paging_header.js
 msgid ""
 "Showing {currentItemRange} out of {totalItemsCount}, filtered by "
 "{assetType}, sorted by {sortName} descending"
-msgstr "展示 {currentItemRange} 了 {totalItemsCount}，{assetType} 按筛选按 {sortName} 降序排序"
+msgstr ""
+"展示 {currentItemRange} 了 {totalItemsCount}，{assetType} 按筛选按 {sortName} 降序排序"
 
 #. Translators: sample result:
 #. "Showing 0-9 out of 25 total, sorted by Date Added ascending"
-#: cms/static/js/views/paging_header.js:63
+#: cms/static/js/views/paging_header.js
 msgid ""
 "Showing {currentItemRange} out of {totalItemsCount}, sorted by {sortName} "
 "ascending"
@@ -901,7 +905,7 @@ msgstr "展示了 {totalItemsCount} {currentItemRange}，按 {sortName} 升序�
 
 #. Translators: sample result:
 #. "Showing 0-9 out of 25 total, sorted by Date Added descending"
-#: cms/static/js/views/paging_header.js:67
+#: cms/static/js/views/paging_header.js
 msgid ""
 "Showing {currentItemRange} out of {totalItemsCount}, sorted by {sortName} "
 "descending"
@@ -909,390 +913,392 @@ msgstr "展示了 {totalItemsCount} {currentItemRange}，{sortName} 降序排序
 
 #. Translators: turns into "25 total" to be used in other sentences, e.g.
 #. "Showing 0-9 out of 25 total".
-#: cms/static/js/views/paging_header.js:98
+#: cms/static/js/views/paging_header.js
 msgid "{totalItems} total"
 msgstr "{totalItems} 共"
 
 #. Translators: This refers to a content group that can be linked to a student
 #. cohort.
-#: cms/static/js/views/partition_group_item.js:24
-#: cms/static/js/views/partition_group_list.js:21
+#: cms/static/js/views/partition_group_item.js
+#: cms/static/js/views/partition_group_list.js
 msgid "content group"
 msgstr "内容组"
 
-#: cms/static/js/views/partition_group_list.js:23
+#: cms/static/js/views/partition_group_list.js
 msgid "Add your first content group"
 msgstr "添加您的第一个内容组"
 
-#: cms/static/js/views/partition_group_list.js:25
+#: cms/static/js/views/partition_group_list.js
 msgid "You have not created any content groups yet."
 msgstr "您还没有创建任何内容组。"
 
-#: cms/static/js/views/previous_video_upload.js:58
+#: cms/static/js/views/previous_video_upload.js
 msgid "Are you sure you want to remove this video from the list?"
-msgstr ""
+msgstr "您确定您想把这个视频从列表中删除吗?"
 
-#: cms/static/js/views/previous_video_upload.js:59
+#: cms/static/js/views/previous_video_upload.js
 msgid ""
 "Removing a video from this list does not affect course content. Any content "
 "that uses a previously uploaded video ID continues to display in the course."
-msgstr ""
+msgstr "从这个列表中删除一个视频不会影响课程内容。任何使用先前上传的视频ID的内容将继续在课程中显示。"
 
-#: cms/static/js/views/settings/advanced.js:68
+#: cms/static/js/views/settings/advanced.js
 msgid ""
 "Your changes will not take effect until you save your progress. Take care "
 "with key and value formatting, as validation is not implemented."
 msgstr "变更在保存之后生效。由于系统暂时不支持校验功能，请仔细检查策略键值对设置。"
 
-#: cms/static/js/views/settings/advanced.js:117
+#: cms/static/js/views/settings/advanced.js
 msgid "Your policy changes have been saved."
 msgstr "您的策略变更已保存。"
 
-#: cms/static/js/views/settings/advanced.js:118
+#: cms/static/js/views/settings/advanced.js
 msgid ""
 "No validation is performed on policy keys or value pairs. If you are having "
 "difficulties, check your formatting."
 msgstr "策略键或值对不执行任何验证。如果你有困难，请检查您的格式设置。"
 
-#: cms/static/js/views/settings/grader.js:58
+#: cms/static/js/views/settings/grader.js
 msgid ""
 "For grading to work, you must change all {oldName} subsections to {newName}."
 msgstr "分级工作，您必须更改所有 {newName} {oldName} 款。"
 
-#: cms/static/js/views/settings/main.js:59
+#: cms/static/js/views/settings/main.js
 msgid "Course Credit Requirements"
 msgstr "课程学分要求"
 
-#: cms/static/js/views/settings/main.js:60
+#: cms/static/js/views/settings/main.js
 msgid "The minimum grade for course credit is not set."
 msgstr "未设置能够获取课程学分的最低分。"
 
-#: cms/static/js/views/settings/main.js:148
+#: cms/static/js/views/settings/main.js
 msgid "Course pacing cannot be changed once a course has started."
 msgstr "一旦课程开始后，课程进程将不能被更改"
 
-#: cms/static/js/views/settings/main.js:213
+#: cms/static/js/views/settings/main.js
 msgid "{hours}:{minutes} (current UTC time)"
 msgstr "{hours}:{minutes}(当前UTC或时间)"
 
-#: cms/static/js/views/settings/main.js:419
+#: cms/static/js/views/settings/main.js
 msgid "Upload your course image."
 msgstr "上传您的课程图片。"
 
-#: cms/static/js/views/settings/main.js:425
+#: cms/static/js/views/settings/main.js
 msgid "Upload your banner image."
 msgstr "上传你的横幅图像。"
 
-#: cms/static/js/views/settings/main.js:431
+#: cms/static/js/views/settings/main.js
 msgid "Upload your video thumbnail image."
 msgstr "上传你的视频缩略图图像。"
 
-#: cms/static/js/views/show_textbook.js:32
+#: cms/static/js/views/show_textbook.js
 msgid "Delete “<%= name %>”?"
 msgstr "删除“<%= name %>”？"
 
-#: cms/static/js/views/show_textbook.js:35
+#: cms/static/js/views/show_textbook.js
 msgid ""
 "Deleting a textbook cannot be undone and once deleted any reference to it in"
 " your courseware's navigation will also be removed."
 msgstr "删除教材的操作无法撤销，同时课件导航中对该教材的引用也将被移除。"
 
-#: cms/static/js/views/tabs.js:159
+#: cms/static/js/views/tabs.js
 msgid "Delete Page Confirmation"
 msgstr "确认删除页面"
 
-#: cms/static/js/views/tabs.js:160
+#: cms/static/js/views/tabs.js
 msgid ""
 "Are you sure you want to delete this page? This action cannot be undone."
 msgstr "您确认要删除该页面吗？该操作无法撤销。"
 
-#: cms/static/js/views/uploads.js:24
+#: cms/static/js/views/uploads.js
 msgid "Upload"
 msgstr "上传"
 
-#: cms/static/js/views/uploads.js:115
+#: cms/static/js/views/uploads.js
 msgid "We're sorry, there was an error"
 msgstr "很抱歉，出现错误"
 
-#: cms/static/js/views/utils/create_course_utils.js:8
+#: cms/static/js/views/utils/create_course_utils.js
 msgid ""
 "The combined length of the organization, course number, and course run "
 "fields cannot be more than <%=limit%> characters."
 msgstr "机构、课程编号和开课时间字段合在一起不能超过 <%=limit%> 个字符。"
 
-#: cms/static/js/views/utils/create_library_utils.js:8
+#: cms/static/js/views/utils/create_library_utils.js
 msgid ""
 "The combined length of the organization and library code fields cannot be "
 "more than <%=limit%> characters."
 msgstr "机构和知识库编号字段合在一起不能超过 <%=limit%> 个字符"
 
-#: cms/static/js/views/utils/move_xblock_utils.js:31
+#: cms/static/js/views/utils/move_xblock_utils.js
 msgid "Success! \"{displayName}\" has been moved."
-msgstr ""
+msgstr "成功！ \"{displayName}\"已被成功移动。"
 
-#: cms/static/js/views/utils/move_xblock_utils.js:56
+#: cms/static/js/views/utils/move_xblock_utils.js
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
-msgstr ""
+msgstr "移动取消。\"{sourceDisplayName}\"已经被移回原来的地方。"
 
-#: cms/static/js/views/utils/move_xblock_utils.js:74
+#: cms/static/js/views/utils/move_xblock_utils.js
 msgid "Undo move"
-msgstr ""
+msgstr "撤销移动"
 
-#: cms/static/js/views/utils/move_xblock_utils.js:90
+#: cms/static/js/views/utils/move_xblock_utils.js
 msgid "Take me to the new location"
-msgstr ""
+msgstr "带我去新的地方"
 
-#: cms/static/js/views/utils/xblock_utils.js:79
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Duplicating"
 msgstr "正在复制"
 
-#: cms/static/js/views/utils/xblock_utils.js:106
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Undo moving"
-msgstr ""
+msgstr "撤销移动"
 
-#: cms/static/js/views/utils/xblock_utils.js:106
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Moving"
-msgstr ""
+msgstr "移动"
 
-#: cms/static/js/views/utils/xblock_utils.js:147
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Deleting this {xblock_type} is permanent and cannot be undone."
-msgstr ""
+msgstr "删除这个{xblock_type}是永久的并且不可撤销。"
 
-#: cms/static/js/views/utils/xblock_utils.js:153
+#: cms/static/js/views/utils/xblock_utils.js
 msgid ""
 "Any content that has listed this content as a prerequisite will also have "
 "access limitations removed."
 msgstr "如果有其他内容将此内容设置为先修内容，则它们的访问限制也会被取消。"
 
-#: cms/static/js/views/utils/xblock_utils.js:156
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Delete this {xblock_type} (and prerequisite)?"
-msgstr ""
+msgstr "删除这个{xblock_type} (and prerequisite)?"
 
-#: cms/static/js/views/utils/xblock_utils.js:162
-#: cms/static/js/views/utils/xblock_utils.js:177
+#: cms/static/js/views/utils/xblock_utils.js
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Yes, delete this {xblock_type}"
-msgstr ""
+msgstr "是的，删除这个 {xblock_type}"
 
-#: cms/static/js/views/utils/xblock_utils.js:171
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "Delete this {xblock_type}?"
-msgstr ""
+msgstr "消除这个 {xblock_type}?"
 
-#: cms/static/js/views/utils/xblock_utils.js:263
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "section"
 msgstr "章"
 
-#: cms/static/js/views/utils/xblock_utils.js:265
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "subsection"
 msgstr "节"
 
-#: cms/static/js/views/utils/xblock_utils.js:267
+#: cms/static/js/views/utils/xblock_utils.js
 msgid "unit"
 msgstr "单元"
 
-#: cms/static/js/views/validation.js:22
+#: cms/static/js/views/validation.js
 msgid "You've made some changes"
 msgstr "您已更改"
 
-#: cms/static/js/views/validation.js:23
+#: cms/static/js/views/validation.js
 msgid "Your changes will not take effect until you save your progress."
 msgstr "您所作变更在保存后才能生效。"
 
-#: cms/static/js/views/validation.js:24
+#: cms/static/js/views/validation.js
 msgid "You've made some changes, but there are some errors"
 msgstr "您所作变更存在错误"
 
-#: cms/static/js/views/validation.js:25
+#: cms/static/js/views/validation.js
 msgid ""
 "Please address the errors on this page first, and then save your progress."
 msgstr "请先解决本页存在的错误，然后保存。"
 
-#: cms/static/js/views/validation.js:118
+#: cms/static/js/views/validation.js
 msgid "Save Changes"
 msgstr "保存更改"
 
-#: cms/static/js/views/video/transcripts/file_uploader.js:110
+#: cms/static/js/views/video/transcripts/file_uploader.js
 msgid "Please select a file in .srt format."
 msgstr "请选择一个 .srt 格式的文件。"
 
-#: cms/static/js/views/video/transcripts/file_uploader.js:188
+#: cms/static/js/views/video/transcripts/file_uploader.js
 msgid "Error: Uploading failed."
 msgstr "错误：上传失败。"
 
-#: cms/static/js/views/video/transcripts/message_manager.js:147
+#: cms/static/js/views/video/transcripts/message_manager.js
 msgid "Error: Import failed."
 msgstr "错误：导入失败。"
 
-#: cms/static/js/views/video/transcripts/message_manager.js:161
+#: cms/static/js/views/video/transcripts/message_manager.js
 msgid "Error: Replacing failed."
 msgstr "错误：替换失败。"
 
-#: cms/static/js/views/video/transcripts/message_manager.js:177
-#: cms/static/js/views/video/transcripts/message_manager.js:191
+#: cms/static/js/views/video/transcripts/message_manager.js
+#: cms/static/js/views/video/transcripts/message_manager.js
 msgid "Error: Choosing failed."
 msgstr "错误：选择失败。"
 
-#: cms/static/js/views/video/transcripts/metadata_videolist.js:66
+#: cms/static/js/views/video/transcripts/metadata_videolist.js
 msgid "Error: Connection with server failed."
 msgstr "错误：连接服务器失败。"
 
-#: cms/static/js/views/video/transcripts/metadata_videolist.js:82
+#: cms/static/js/views/video/transcripts/metadata_videolist.js
 msgid "No sources"
 msgstr "没有源"
 
-#: cms/static/js/views/video/transcripts/metadata_videolist.js:369
+#: cms/static/js/views/video/transcripts/metadata_videolist.js
 msgid "Link types should be unique."
 msgstr "链接类型应当唯一。"
 
-#: cms/static/js/views/video/transcripts/metadata_videolist.js:382
+#: cms/static/js/views/video/transcripts/metadata_videolist.js
 msgid "Links should be unique."
 msgstr "链接应当唯一。"
 
-#: cms/static/js/views/video/transcripts/metadata_videolist.js:404
+#: cms/static/js/views/video/transcripts/metadata_videolist.js
 msgid "Incorrect url format."
 msgstr "无效的 URL 格式。"
 
-#: cms/static/js/views/video/translations_editor.js:15
+#: cms/static/js/views/video/translations_editor.js
 msgid ""
 "Sorry, there was an error parsing the subtitles that you uploaded. Please "
 "check the format and try again."
 msgstr "对不起，您上传的字幕文件存在格式错误，请检查并重新上传。"
 
-#: cms/static/js/views/video/translations_editor.js:155
+#: cms/static/js/views/video/translations_editor.js
 msgid "Upload translation"
 msgstr "上传译文"
 
-#: cms/static/js/views/video_thumbnail.js:31
+#: cms/static/js/views/video_thumbnail.js
 msgid "Add Thumbnail"
-msgstr ""
+msgstr "添加缩略图"
 
-#: cms/static/js/views/video_thumbnail.js:35
+#: cms/static/js/views/video_thumbnail.js
 msgid "Edit Thumbnail"
-msgstr ""
+msgstr "编辑缩略图"
 
 #. Translators: This is a 2 part text which tells the image requirements.
-#: cms/static/js/views/video_thumbnail.js:39
+#: cms/static/js/views/video_thumbnail.js
 msgid ""
 "{InstructionsSpanStart}{videoImageResoultion}{lineBreak} "
 "{videoImageSupportedFileFormats}{spanEnd}"
 msgstr ""
+"{InstructionsSpanStart}{videoImageResoultion}{lineBreak}{videoImageSupportedFileFormats}{spanEnd}"
 
-#: cms/static/js/views/video_thumbnail.js:52
+#: cms/static/js/views/video_thumbnail.js
 msgid "Image upload failed"
-msgstr ""
+msgstr "上传图像失败"
 
 #. Translators: This is a 3 part text which tells the image requirements.
-#: cms/static/js/views/video_thumbnail.js:64
+#: cms/static/js/views/video_thumbnail.js
 msgid ""
 "{ReqTextSpanStart}Requirements{spanEnd}{lineBreak}{InstructionsSpanStart}{videoImageResoultion}{lineBreak}"
 " {videoImageSupportedFileFormats}{spanEnd}"
 msgstr ""
+"{ReqTextSpanStart}Requirements{spanEnd}{lineBreak}{InstructionsSpanStart}{videoImageResoultion}{lineBreak}{videoImageSupportedFileFormats}{spanEnd}"
 
 #. Translators: message will be like 1280x720 pixels
-#: cms/static/js/views/video_thumbnail.js:130
+#: cms/static/js/views/video_thumbnail.js
 msgid "{maxWidth}x{maxHeight} pixels"
-msgstr ""
+msgstr "{maxWidth}x{maxHeight}像素"
 
 #. Translators: message will be like Thumbnail for Arrow.mp4
-#: cms/static/js/views/video_thumbnail.js:138
+#: cms/static/js/views/video_thumbnail.js
 msgid "Thumbnail for {videoName}"
-msgstr ""
+msgstr "{videoName}的缩略图"
 
 #. Translators: message will be like Add Thumbnail - Arrow.mp4
-#: cms/static/js/views/video_thumbnail.js:146
+#: cms/static/js/views/video_thumbnail.js
 msgid "Add Thumbnail - {videoName}"
-msgstr ""
+msgstr "添加缩略图-{videoName}"
 
 #. Translators: humanizeDuration will be like 10 minutes, an hour and 20
 #. minutes etc
-#: cms/static/js/views/video_thumbnail.js:172
+#: cms/static/js/views/video_thumbnail.js
 msgid "Video duration is {humanizeDuration}"
-msgstr ""
+msgstr "视频时间{humanizeDuration}"
 
-#: cms/static/js/views/video_thumbnail.js:189
+#: cms/static/js/views/video_thumbnail.js
 msgid "minutes"
-msgstr ""
+msgstr "多分钟"
 
-#: cms/static/js/views/video_thumbnail.js:189
+#: cms/static/js/views/video_thumbnail.js
 msgid "minute"
-msgstr ""
+msgstr "分"
 
 #. Translators: message will be like 15 minutes, 1 minute
-#: cms/static/js/views/video_thumbnail.js:192
+#: cms/static/js/views/video_thumbnail.js
 msgid "{minutes} {unit}"
-msgstr ""
+msgstr "{minutes} {unit}"
 
-#: cms/static/js/views/video_thumbnail.js:198
+#: cms/static/js/views/video_thumbnail.js
 msgid "seconds"
-msgstr ""
+msgstr "数秒"
 
-#: cms/static/js/views/video_thumbnail.js:198
+#: cms/static/js/views/video_thumbnail.js
 msgid "second"
-msgstr ""
+msgstr "秒"
 
 #. Translators: message will be like 20 seconds, 1 second
-#: cms/static/js/views/video_thumbnail.js:201
+#: cms/static/js/views/video_thumbnail.js
 msgid "{seconds} {unit}"
-msgstr ""
+msgstr "{seconds} {unit}"
 
 #. Translators: `and` will be used to combine both miuntes and seconds like
 #. `13 minutes and 45 seconds`
-#: cms/static/js/views/video_thumbnail.js:207
+#: cms/static/js/views/video_thumbnail.js
 msgid " and "
 msgstr "与"
 
-#: cms/static/js/views/video_thumbnail.js:234
+#: cms/static/js/views/video_thumbnail.js
 msgid "Video image upload started"
-msgstr ""
+msgstr "视频图像上传开始"
 
-#: cms/static/js/views/video_thumbnail.js:246
+#: cms/static/js/views/video_thumbnail.js
 msgid "Video image upload completed"
-msgstr ""
+msgstr "视频图像上传完成"
 
-#: cms/static/js/views/video_thumbnail.js:321
+#: cms/static/js/views/video_thumbnail.js
 msgid ""
 "This image file type is not supported. Supported file types are "
 "{supportedFileFormats}."
-msgstr ""
+msgstr "此映像文件类型不受支持。支持的文件类型{supportedFileFormats}."
 
 #. Translators: maxFileSizeInMB will be like 2 MB.
-#: cms/static/js/views/video_thumbnail.js:330
+#: cms/static/js/views/video_thumbnail.js
 msgid "The selected image must be smaller than {maxFileSizeInMB}."
-msgstr ""
+msgstr "所选图像必须小于{maxFileSizeInMB}."
 
 #. Translators: minFileSizeInKB will be like 2 KB.
-#: cms/static/js/views/video_thumbnail.js:338
+#: cms/static/js/views/video_thumbnail.js
 msgid "The selected image must be larger than {minFileSizeInKB}."
-msgstr ""
+msgstr "选定的图像必须大于{minFileSizeInKB}."
 
-#: cms/static/js/views/video_thumbnail.js:366
+#: cms/static/js/views/video_thumbnail.js
 msgid "Could not upload the video image file"
-msgstr ""
+msgstr "无法上传视频图像文件"
 
-#: cms/static/js/views/video_thumbnail.js:368
+#: cms/static/js/views/video_thumbnail.js
 msgid "Image upload failed. "
-msgstr ""
+msgstr "上传影像失败"
 
-#: cms/static/js/views/xblock_editor.js:42
+#: cms/static/js/views/xblock_editor.js
 msgid "Editor"
 msgstr "编辑器"
 
-#: cms/static/js/views/xblock_editor.js:43
+#: cms/static/js/views/xblock_editor.js
 msgid "Settings"
 msgstr "设置"
 
-#: cms/static/js/views/xblock_outline.js:91
+#: cms/static/js/views/xblock_outline.js
 msgid "New {component_type}"
-msgstr ""
+msgstr "新的{component_type}"
 
 #. Translators: This message will be added to the front of messages of type
 #. warning,
 #. e.g. "Warning: this component has not been configured yet".
-#: cms/static/js/views/xblock_validation.js:49
+#: cms/static/js/views/xblock_validation.js
 msgid "Warning"
 msgstr "警告"
 
-#: cms/static/js/xblock_asides/structured_tags.js:23
+#: cms/static/js/xblock_asides/structured_tags.js
 msgid "Updating Tags"
 msgstr "更新标签中"
